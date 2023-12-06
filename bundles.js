@@ -3429,6 +3429,31 @@ let bundleList = [
         itemData: '11083272',
         contains: ['10908972','10827828','10882686','10971114','11082792']
     },
+    {
+        name: 'Flow of Fate: Kokeshi',
+        itemData: '11051166',
+        contains: ['10614024','10626612','10990959','10993719','10961994','11051334']
+    },
+    {
+        name: 'Rainbow Celebrations: Skyward',
+        itemData: '10993785',
+        contains: ['10995381','10995438','10995465']
+    },
+    {
+        name: 'Bent Right to Your Wind',
+        itemData: '10851003',
+        contains: ['10836339','10850724','10836306']
+    },
+    {
+        name: 'Thrilling Treasures: Best Bandages',
+        itemData: '11041800',
+        contains: ['10428227','10394911','10593645','10492886','10476636','10697367','11042133']
+    },
+    {
+        name: 'Spooky Surprises: Wonderful Whispers',
+        itemData: '11070192',
+        contains: ['11020836','10981845','10960554','11008128','11073684']
+    },
     // {
     //     name: '',
     //     itemData: '',
