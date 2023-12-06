@@ -3404,31 +3404,31 @@ let bundleList = [
         itemData: '11051178',
         contains: ['10948764','10860201','10942578','10950189','10972479','11048571']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','']
-    // },
+    {
+        name: 'Deep Breaths',
+        itemData: '10816314',
+        contains: ['10805403','10810710','10810734','10810758']
+    },
+    {
+        name: 'Necromancy Starter Kit',
+        itemData: '10922385',
+        contains: ['10915389','10915359','10920282','10919265']
+    },
+    {
+        name: 'a tangled tale',
+        itemData: '10915716',
+        contains: ['10910967','10910865','10910913','10910889']
+    },
+    {
+        name: 'Spring Send-off Pale Bubblegum Collection',
+        itemData: '10816140',
+        contains: ['10814643','10814703','10814583']
+    },
+    {
+        name: 'Pop of Color: Iridescent Ideals',
+        itemData: '11083272',
+        contains: ['10908972','10827828','10882686','10971114','11082792']
+    },
     // {
     //     name: '',
     //     itemData: '',
