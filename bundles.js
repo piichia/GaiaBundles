@@ -4154,11 +4154,11 @@ let bundleList = [
         itemData: '10796337',
         contains: ['10793694','10790421','10791360','10793379']
     },
-    {
-        name: 'Cs Lovingly Tailored Makeover',
-        itemData: '10452385',
-        contains: ['10434995','10434015','','10433999']
-    },
+    // {
+    //     name: 'Cs Lovingly Tailored Makeover',
+    //     itemData: '10452385',
+    //     contains: ['10434995','10434015','','10433999']
+    // },
     {
         name: 'Candied Crew Makeover',
         itemData: '10335327',
@@ -4239,21 +4239,21 @@ let bundleList = [
         itemData: '10279129',
         contains: ['10275927','10275943','10273177','10273255']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
+    {
+        name: 'Stellazzios Makeover',
+        itemData: '10137239',
+        contains: ['10137375','10137391','10137419','10137423']
+    },
+    {
+        name: 'Urban Makeover',
+        itemData: '10294825',
+        contains: ['10294217','10294201','10294151','10294167']
+    },
+    {
+        name: 'Shilshadus Demonic Features',
+        itemData: '10309321',
+        contains: ['10303927','10303943','10303959','10303975']
+    },
     // {
     //     name: '',
     //     itemData: '',
