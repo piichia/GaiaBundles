@@ -4165,45 +4165,45 @@ let bundleList = [
         contains: ['10343975','10343957','10343941','10343925']
     },
     {
-        name: 'FatalityKaz's Makeover V3',
+        name: 'FatalityKazs Makeover V3',
         itemData: '10335573',
         contains: ['10352001','10351985','10352065','10352017']
     },
-    // {
-    //     name: 'Stellar Evolution Makeover',
-    //     itemData: '10412367',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
+    {
+        name: 'Stellar Evolution Makeover',
+        itemData: '10412367',
+        contains: ['10410521','10409263','10413177','10414689']
+    },
+    {
+        name: 'Miraiiris Marvelous Makeover',
+        itemData: '10391261',
+        contains: ['10383109','10382947','10382915','10382931']
+    },
+    {
+        name: 'Gijinka Makeover',
+        itemData: '10294409',
+        contains: ['10283333','10283317','10283141','10283109']
+    },
+    {
+        name: 'One Hell of a Makeover',
+        itemData: '10314905',
+        contains: ['10304593','10301185','10301153','10301169']
+    },
+    {
+        name: 'Michael and Magnifiques Chic Makeover v2',
+        itemData: '10352661',
+        contains: ['10356705','10356667','10356741','10356757']
+    },
+    {
+        name: 'FatalityKazs Makeover V2',
+        itemData: '10292339',
+        contains: ['10283415','10283431','10283125','10283093']
+    },
+    {
+        name: 'A Divine Makeover',
+        itemData: '10586409',
+        contains: ['10583445','10584084','10585866','10585842']
+    },
     // {
     //     name: '',
     //     itemData: '',
