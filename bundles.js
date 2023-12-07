@@ -4204,41 +4204,41 @@ let bundleList = [
         itemData: '10586409',
         contains: ['10583445','10584084','10585866','10585842']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
+    {
+        name: 'Cavity Kids Makeover',
+        itemData: '10363685',
+        contains: ['10361997','10361967','10361741','10361725']
+    },
+    {
+        name: 'A Lavish Makeover',
+        itemData: '10452383',
+        contains: ['10452383','10437419','10437401','10437437']
+    },
+    {
+        name: 'Midsummer Makeover: Scholarly',
+        itemData: '10286807',
+        contains: ['10137487','10021685','10188075','10195605','10127255','10211369','10209605','10050753','10049359','10049897']
+    },
+    {
+        name: 'Fox Addiction Makeover',
+        itemData: '10279131',
+        contains: ['10273635','10273279','10273619','10272197']
+    },
+    {
+        name: 'Candied Crew Makeover 2.0: Sugary Seconds',
+        itemData: '10537756',
+        contains: ['10531858','10531890','10534750','10534988']
+    },
+    {
+        name: 'Lunas Foxy Makeover',
+        itemData: '10294411',
+        contains: ['10283301','10283285','10283205','10283189']
+    },
+    {
+        name: 'Ringmasters Circus FanFair Makeover',
+        itemData: '10279129',
+        contains: ['10275927','10275943','10273177','10273255']
+    },
     // {
     //     name: '',
     //     itemData: '',
