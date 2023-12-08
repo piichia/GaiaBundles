@@ -4289,6 +4289,176 @@ let bundleList = [
         itemData: '10533822',
         contains: ['10532116','10529616','10530648','10532958']
     },
+    {
+        name: 'FatalityKazs Makeover V5',
+        itemData: '10520480',
+        contains: ['10512950','10513272','10513256','10514816']
+    },
+    {
+        name: 'Garish Crews Makeover',
+        itemData: '10258647',
+        contains: ['10258003','10257943','10257971','10257987']
+    },
+    {
+        name: 'Counterfeit Cuties',
+        itemData: '10831356',
+        contains: ['10828023','10830564','10830615','10827990']
+    },
+    {
+        name: 'Passionifications',
+        itemData: '10712229',
+        contains: ['10705674','10705737','10711719','10711665']
+    },
+    {
+        name: 'Eternal Glory',
+        itemData: '10749492',
+        contains: ['10709796','10749117','10749090','10709736']
+    },
+    {
+        name: 'A Family Dynasty',
+        itemData: '10866180',
+        contains: ['10860534','10860447','10864770','10864806']
+    },
+    {
+        name: 'Throttle Kittys Raver Bundle',
+        itemData: '10246941',
+        contains: ['10239751','10183005','10175905','10179993','10099583','56147','10115899']
+    },
+    {
+        name: 'Pickled Petty Plans',
+        itemData: '10939683',
+        contains: ['10937658','10937982','10938369','10937625']
+    },
+    {
+        name: 'Alluring Elegance',
+        itemData: '10802823',
+        contains: ['10796622','10802256','10802352','10791825']
+    },
+    {
+        name: 'Girls Just Wanna Have Fun Kit',
+        itemData: '10604097',
+        contains: ['10583301','10583325','10587978','10588026']
+    },
+    // {
+    //     name: 'Bladed Adoration',
+    //     itemData: '10640421',
+    //     contains: ['','','','']
+    // },
+    // {
+    //     name: 'Joie de Vivre',
+    //     itemData: '10864080',
+    //     contains: ['','','','']
+    // },
+    {
+        name: 'Forsaken Royalty',
+        itemData: '10935873',
+        contains: ['10934070','10934124','10935681','10934979']
+    },
+    {
+        name: 'Cosmic Cutie!',
+        itemData: '10549428',
+        contains: ['10547034','10548582','10551615','10546974']
+    },
+    {
+        name: 'no wifi no life',
+        itemData: '10686876',
+        contains: ['10672356','10680678','10683171','10684461']
+    },
+    {
+        name: 'East of Eternity',
+        itemData: '10730679',
+        contains: ['10716339','10716363','10716552','10730760']
+    },
+    {
+        name: 'Build-a-Bat',
+        itemData: '10701393',
+        contains: ['10677498','10684485','10691010','10694652']
+    },
+    // {
+    //     name: 'Andrastes Imperium',
+    //     itemData: '10539222',
+    //     contains: ['','','','','','','','','','','','']
+    // },
+    {
+        name: 'We Who Shine By Lunas Light',
+        itemData: '10831455',
+        contains: ['10826730','10825707','10826697','10827579']
+    },
+    {
+        name: 'Protectors of the Moon Altar',
+        itemData: '10753137',
+        contains: ['10749522','10749840','10750047','10749789']
+    },
+    {
+        name: 'Final Chapter',
+        itemData: '10861569',
+        contains: ['10860201','10860084','10856853','10859598']
+    },
+    // {
+    //     name: 'Feeling Blue',
+    //     itemData: '10812324',
+    //     contains: ['10811250','10812201','10812234','']
+    // },
+    {
+        name: 'Betwixt the Blossoms of a Rose',
+        itemData: '10597632',
+        contains: ['10600239','10591818','10593576','10591791']
+    },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','','','','','','','','','','','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','','','','','','','','','','','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','','','','','','','','','','','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','','','','','','','','','','','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','','','','','','','','','','','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','','','','','','','','','','','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','','','','','','','','','','','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','','','','','','','','','','','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','','','','','','','','','','','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','','','','','','','','','','','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','','','','','','','','','','','']
+    // },
     // {
     //     name: '',
     //     itemData: '',
