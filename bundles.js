@@ -4339,16 +4339,16 @@ let bundleList = [
         itemData: '10604097',
         contains: ['10583301','10583325','10587978','10588026']
     },
-    // {
-    //     name: 'Bladed Adoration',
-    //     itemData: '10640421',
-    //     contains: ['','','','']
-    // },
-    // {
-    //     name: 'Joie de Vivre',
-    //     itemData: '10864080',
-    //     contains: ['','','','']
-    // },
+    {
+        name: 'Bladed Adoration',
+        itemData: '10640421',
+        contains: ['10633047','10636098','10639707','10631013']
+    },
+    {
+        name: 'Joie de Vivre',
+        itemData: '10864080',
+        contains: ['10856070','10856094','10857156','10857132']
+    },
     {
         name: 'Forsaken Royalty',
         itemData: '10935873',
@@ -4377,7 +4377,7 @@ let bundleList = [
     // {
     //     name: 'Andrastes Imperium',
     //     itemData: '10539222',
-    //     contains: ['','','','','','','','','','','','']
+    //     contains: ['10536658','','10538054','10543168']
     // },
     {
         name: 'We Who Shine By Lunas Light',
@@ -4404,41 +4404,41 @@ let bundleList = [
         itemData: '10597632',
         contains: ['10600239','10591818','10593576','10591791']
     },
+    {
+        name: 'Love Coming Down Like Rain',
+        itemData: '10651962',
+        contains: ['10642710','10652391','10652418','10642665']
+    },
+    {
+        name: 'Samui Elegance',
+        itemData: '10753044',
+        contains: ['10746636','10753344','10753506','10741074']
+    },
+    {
+        name: 'Bruised Royal Family',
+        itemData: '10589529',
+        contains: ['10583670','10592880','10591893','10589382']
+    },
+    {
+        name: 'Islands of Gold, Peninsulas of Rose',
+        itemData: '10701177',
+        contains: ['10696041','10700808','10697685','10700763']
+    },
     // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
+    //     name: 'Hauntings of the East',
+    //     itemData: '10907973',
+    //     contains: ['','','','']
     // },
     // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
+    //     name: 'It Is What It Is',
+    //     itemData: '10775394',
+    //     contains: ['','','','']
     // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
+    {
+        name: 'My Beautiful Goth Wife',
+        itemData: '10801209',
+        contains: ['10794075','10796262','10800036','10800882']
+    },
     // {
     //     name: '',
     //     itemData: '',
