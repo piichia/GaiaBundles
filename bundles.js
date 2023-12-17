@@ -4019,11 +4019,11 @@ let bundleList = [
         itemData: '11083266',
         contains: ['10872501','10634781','10932735','11020971','11081694']
     },
-    {
-        name: 'Royal Thornhall Collection',
-        itemData: '10001399',
-        contains: ['10001271','10001283','10001295','10001289','10001277','10001301']
-    },
+    // {
+    //     name: 'Royal Thornhall Collection',
+    //     itemData: '10001399',
+    //     contains: ['10001271','10001283','10001295','10001289','10001277','10001301']
+    // },
     {
         name: 'Daybreak: Auroral Summers',
         itemData: '10942959',
