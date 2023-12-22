@@ -4070,11 +4070,6 @@ let bundleList = [
         contains: ['10021999','10034207','10034209','10034211','10044953','10044967','10075635']
     },
     // {
-    //     name: 'Couch Pocato',
-    //     itemData: '11076270',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
     //     name: 'Rainbow Celebrations: Sadodere',
     //     itemData: '10993779',
     //     contains: ['','','','','','','','','','','','']
@@ -6004,6 +5999,21 @@ let bundleList = [
         itemData: '10648317',
         contains: ['10644702','10645050','10645026','10647306']
     },
+    {
+        name: 'Sea Bloom Sweeties',
+        itemData: '11054004',
+        contains: ['11049690','11049753','11049639','11049585']
+    },
+    {
+        name: 'Couch Pocato ',
+        itemData: '11076270',
+        contains: ['11066040','11074134','11074161','11074659']
+    },
+    {
+        name: 'Eternal Empathy',
+        itemData: '10913499',
+        contains: ['10911252','10911156','10911081','10911303']
+    },
     // {
     //     name: '',
     //     itemData: '',
@@ -6064,26 +6074,11 @@ let bundleList = [
     //     itemData: '',
     //     contains: ['','','','']
     // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','']
-    // },
+    {
+        name: 'Verum Rex',
+        itemData: '10686870',
+        contains: ['10677522','10681548','10678929','10680549']
+    },
     {
         name: 'Ichikos Date Collection ',
         itemData: '10929141',
