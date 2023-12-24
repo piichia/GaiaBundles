@@ -145,26 +145,26 @@ let umamiList = [
         itemData: '10533736',
         contains: ['10533332','10533844']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },    
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
+    {
+        name: 'Umami Drop: Leonis ',
+        itemData: '10518472',
+        contains: ['10517938','10518664']
+    },
+    {
+        name: 'Umami Drop: Belated Blossom of the Sidhe ',
+        itemData: '10562913',
+        contains: ['10560390','10559136']
+    },    
+    {
+        name: 'Umami Drop: Matrimony of Blood ',
+        itemData: '10538116',
+        contains: ['10537868','10538076']
+    },
+    {
+        name: 'Umami Drop REMIX: Unconditional Affliction ',
+        itemData: '10505938',
+        contains: ['10498578','10500722']
+    },
     // {
     //     name: '',
     //     itemData: '',
