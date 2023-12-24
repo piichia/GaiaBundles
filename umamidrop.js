@@ -90,6 +90,171 @@ let umamiList = [
         itemData: '10678488',
         contains: ['10676811','10678182']
     },
+    {
+        name: 'Umami Drop: Clear Day Raindrop ',
+        itemData: '10509028',
+        contains: ['10507692','10509078']
+    },
+    {
+        name: 'Umami Drop: Santa Meowper ',
+        itemData: '10563624',
+        contains: ['10570113','10570359']
+    },
+    {
+        name: 'Umami Drop: Blood Donor ',
+        itemData: '10645122',
+        contains: ['10644636','10645074']
+    },
+    {
+        name: 'Umami Drop: Hidden Nature ',
+        itemData: '10651551',
+        contains: ['10651494','10651560']
+    },
+    {
+        name: 'Umami Drop: Firefly Royalty ',
+        itemData: '10519382',
+        contains: ['10518762','10519158']
+    },
+    {
+        name: 'Umami Drop: Foxfire Bride ',
+        itemData: '10532538',
+        contains: ['10531602','10532604']
+    },
+    {
+        name: 'Umami Drop: Pandoras Box ',
+        itemData: '10605012',
+        contains: ['10603902','10604403']
+    },
+    {
+        name: 'Umami Drop: The Cat Tower ',
+        itemData: '10759338',
+        contains: ['10757505','10758531']
+    },
+    {
+        name: 'Umami Drop: Bad Joke ',
+        itemData: '10688253',
+        contains: ['10687893','10687947']
+    },
+    {
+        name: 'Umami Drop: Cutie Crying Maid-chan ',
+        itemData: '10510344',
+        contains: ['10508318','10510256']
+    },
+    {
+        name: 'Umami Drop: Moon of Chang`e ',
+        itemData: '10533736',
+        contains: ['10533332','10533844']
+    },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },    
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },   
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
     // {
     //     name: '',
     //     itemData: '',
