@@ -165,36 +165,36 @@ let umamiList = [
         itemData: '10505938',
         contains: ['10498578','10500722']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },   
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
+    {
+        name: 'Umami Drop: Suit Yourself ',
+        itemData: '10671975',
+        contains: ['10669386','10671309']
+    },   
+    {
+        name: 'Umami Drop: Lil` Miss Fortune ',
+        itemData: '10558212',
+        contains: ['10554459','10557696']
+    },
+    {
+        name: 'Umami Drop: Daughter of the Sea ',
+        itemData: '10528616',
+        contains: ['10528212','10528356']
+    },
+    {
+        name: 'Umami Drop: Moth Month ',
+        itemData: '10523454',
+        contains: ['10518902','10523234']
+    },
+    {
+        name: 'Umami Drop: Fae la Lune ',
+        itemData: '10563618',
+        contains: ['10559820','10563132']
+    },
+    {
+        name: 'Umami Drop: Papillon Mystique ',
+        itemData: '10674081',
+        contains: ['10671945','10673565']
+    },
     // {
     //     name: '',
     //     itemData: '',
