@@ -220,21 +220,21 @@ let umamiList = [
         itemData: '10759341',
         contains: ['10757337','10758240']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
+    {
+        name: 'Umami Drop: Buxom Brute ',
+        itemData: '10538972',
+        contains: ['10538528','10539502']
+    },
+    {
+        name: 'Umami Drop: Haunt of Rose ',
+        itemData: '10544792',
+        contains: ['10544166','10544668']
+    },
+    {
+        name: 'Umami Drop: Soultaker ',
+        itemData: '10545692',
+        contains: ['10544754','10544828']
+    },
     // {
     //     name: '',
     //     itemData: '',
