@@ -195,31 +195,31 @@ let umamiList = [
         itemData: '10674081',
         contains: ['10671945','10673565']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
+    {
+        name: 'Umami Drop: Unconditional Affliction ',
+        itemData: '10502076',
+        contains: ['10497378','10501374']
+    },
+    {
+        name: 'Umami Drop: Sakana Matsuri ',
+        itemData: '10523452',
+        contains: ['10521278','10523270']
+    },
+    {
+        name: 'Umami Drop: Dreamkeeper ',
+        itemData: '10558206',
+        contains: ['10557567','10557756']
+    },
+    {
+        name: 'Umami Drop: Sheval ',
+        itemData: '10947054',
+        contains: ['10938624','10939740']
+    },
+    {
+        name: 'Umami Drop: The Hanged Woman ',
+        itemData: '10759341',
+        contains: ['10757337','10758240']
+    },
     // {
     //     name: '',
     //     itemData: '',
