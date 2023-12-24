@@ -40,36 +40,36 @@ let umamiList = [
         itemData: '10588701',
         contains: ['10588185','10588647']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
+    {
+        name: 'Umami Drop: Quest Sequel ',
+        itemData: '10676892',
+        contains: ['10675077','10676679']
+    },
+    // { //weird case of 3
+    //     name: 'Umami Drop: Knotted Tails ', 
+    //     itemData: '10659027',
+    //     contains: ['10658745','10658769','10658793']
     // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
+    {
+        name: 'Umami Drop: Brain Food ',
+        itemData: '10649631',
+        contains: ['10649583','10649004']
+    },
+    {
+        name: 'Umami Drop: Soft Dragon ',
+        itemData: '10591395',
+        contains: ['10591353','10592646']
+    },
+    // { //3 again zzz
+    //     name: 'Umami Drop: Hanazumi ',
+    //     itemData: '10667877',
+    //     contains: ['10667724','10667748','10667772']
     // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
+    {
+        name: 'Umami Drop: Kirin Maiden ',
+        itemData: '10561137',
+        contains: ['10560951','10561239']
+    },
     // {
     //     name: '',
     //     itemData: '',
