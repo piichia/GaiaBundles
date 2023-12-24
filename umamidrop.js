@@ -70,26 +70,26 @@ let umamiList = [
         itemData: '10561137',
         contains: ['10560951','10561239']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
+    {
+        name: 'Umami Drop: Girl Crush ',
+        itemData: '10698513',
+        contains: ['10696722','10697220']
+    },
+    {
+        name: 'Umami Drop: Close Companions ',
+        itemData: '10504510',
+        contains: ['10504362','10504658']
+    },
+    {
+        name: 'Umami Drop: Wit and Wisdom ',
+        itemData: '10558209',
+        contains: ['10556490','10557588']
+    },
+    {
+        name: 'Umami Drop: Feral Feline ',
+        itemData: '10678488',
+        contains: ['10676811','10678182']
+    },
     // {
     //     name: '',
     //     itemData: '',
