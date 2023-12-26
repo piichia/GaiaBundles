@@ -345,16 +345,16 @@ let umamiList = [
         itemData: '10644012',
         contains: ['10643970','10643991']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
+    {
+        name: 'Umami Drop: Virgo of Lummoire ',
+        itemData: '10738692',
+        contains: ['10737234','10737885']
+    },
+    {
+        name: 'Umami Drop: Devilish Dealings ',
+        itemData: '11009652',
+        contains: ['11009295','11009343']
+    },
     // {
     //     name: '',
     //     itemData: '',
