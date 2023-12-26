@@ -275,102 +275,82 @@ let umamiList = [
         itemData: '10749483',
         contains: ['10747068','10748016']
     },
+    {
+        name: 'Umami Drop: NezuMimi ',
+        itemData: '10666068',
+        contains: ['10666011','10666074']
+    },
+    {
+        name: 'Umami Drop: Her Hymn ',
+        itemData: '10563621',
+        contains: ['10559892','10569825']
+    },
+    {
+        name: 'Umami Drop: The Hermit ',
+        itemData: '10759335',
+        contains: ['10746192','10750272']
+    },
+    {
+        name: 'Umami Drop: Void Vessel ',
+        itemData: '10749900',
+        contains: ['10744251','10748412']
+    },
+    {
+        name: 'Umami Drop: Beautiful Specimen ',
+        itemData: '10702977',
+        contains: ['10702335','10702842']
+    },
+    {
+        name: 'Umami Drop: Cheeps ',
+        itemData: '10605807',
+        contains: ['10605567','10605711']
+    },
+    {
+        name: 'Umami Drop: Infinite Nightmare ',
+        itemData: '10558203',
+        contains: ['10556550','10557858']
+    },
+    {
+        name: 'Umami Drop: Goddess of Gaia ',
+        itemData: '10560126',
+        contains: ['10559946','10560222']
+    },
+    {
+        name: 'Umami Drop: Dragonberry ',
+        itemData: '10562586',
+        contains: ['10559724','10560507']
+    },
+    {
+        name: 'Umami Drop: Miss Witch ',
+        itemData: '10669686',
+        contains: ['10669455','10669902']
+    },
+    {
+        name: 'Umami Drop: Lifegiver ',
+        itemData: '10656948',
+        contains: ['10657353','10657488']
+    },
+    {
+        name: 'Umami Drop: Justice ',
+        itemData: '10759344',
+        contains: ['10760340','10760352']
+    },
+    {
+        name: 'Umami Drop: Im Alien ',
+        itemData: '10752444',
+        contains: ['10751664','10752234']
+    },
+    {
+        name: 'Umami Drop: Batty Seclusion ',
+        itemData: '10644012',
+        contains: ['10643970','10643991']
+    },
     // {
     //     name: '',
     //     itemData: '',
     //     contains: ['','']
     // },
     // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','']
-    // },
-
     //     name: '',
     //     itemData: '',
     //     contains: ['','']
@@ -390,7 +370,17 @@ let umamiList = [
     //     itemData: '',
     //     contains: ['','']
     // },
-
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
     //     name: '',
     //     itemData: '',
     //     contains: ['','']
@@ -410,7 +400,17 @@ let umamiList = [
     //     itemData: '',
     //     contains: ['','']
     // },
-
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['','']
+    // },
+    // {
     //     name: '',
     //     itemData: '',
     //     contains: ['','']
@@ -430,7 +430,7 @@ let umamiList = [
     //     itemData: '',
     //     contains: ['','']
     // },
-
+    // {
     //     name: '',
     //     itemData: '',
     //     contains: ['','']
