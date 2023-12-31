@@ -6944,15 +6944,215 @@ let bundleList = [
         itemData: '10889301',
         contains: ['1']
     },
+    {
+        name: 'Flutter Friends II Hair Bundle ',
+        itemData: '10937460',
+        contains: ['1']
+    },
+    {
+        name: 'Immortal Elegance (10 Pack) ',
+        itemData: '11089134',
+        contains: ['1']
+    },
+    {
+        name: 'SDplus Doll Trunk Visions Bundle ',
+        itemData: '10899339',
+        contains: ['1']
+    },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
+    //     contains: ['']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['']
     // },
     // {
     //     name: '',
