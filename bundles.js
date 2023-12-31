@@ -6984,30 +6984,30 @@ let bundleList = [
         itemData: '10640994',
         contains: ['1']
     },
+    {
+        name: 'Night Sky Fireworks Lapin Bundle ',
+        itemData: '10279199',
+        contains: ['1']
+    },
+    {
+        name: 'Demonic Compilation Hair Bundle ',
+        itemData: '10959225',
+        contains: ['1']
+    },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['']
+    //     contains: ['1']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['']
+    //     contains: ['1']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['']
+    //     contains: ['1']
     // },
     // {
     //     name: '',
