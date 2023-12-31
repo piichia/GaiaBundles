@@ -6935,11 +6935,6 @@ let bundleList = [
         contains: ['1']
     },
     {
-        name: 'Tranquil Garden (10 Pack) ',
-        itemData: '10153729',
-        contains: ['1']
-    },
-    {
         name: 'False Spring Opal Bundle ',
         itemData: '10889301',
         contains: ['1']
@@ -6947,11 +6942,6 @@ let bundleList = [
     {
         name: 'Flutter Friends II Hair Bundle ',
         itemData: '10937460',
-        contains: ['1']
-    },
-    {
-        name: 'Immortal Elegance (10 Pack) ',
-        itemData: '11089134',
         contains: ['1']
     },
     {
@@ -6979,21 +6969,21 @@ let bundleList = [
         itemData: '10852215',
         contains: ['10852215']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['']
-    // },
+    {
+        name: 'Royal Recruits II Fortunate Bundle ',
+        itemData: '10943121',
+        contains: ['1']
+    },
+    {
+        name: 'SDplus Doll Trunk Visage Bundle ',
+        itemData: '10899342',
+        contains: ['1']
+    },
+    {
+        name: 'CLASSy Sad Bundle ',
+        itemData: '10640994',
+        contains: ['1']
+    },
     // {
     //     name: '',
     //     itemData: '',
