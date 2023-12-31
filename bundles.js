@@ -6994,36 +6994,36 @@ let bundleList = [
         itemData: '10959225',
         contains: ['1']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['1']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['1']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['1']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['']
-    // },
+    {
+        name: 'Elf Yourself Rosy Bundle ',
+        itemData: '10590885',
+        contains: ['1']
+    },
+    {
+        name: 'Spritely Friends Sweet Bundle ',
+        itemData: '10678359',
+        contains: ['1']
+    },
+    {
+        name: 'Summer Matsuri Vain Bundle ',
+        itemData: '10498178',
+        contains: ['1']
+    },
+    {
+        name: 'Never-ending Storytelling Sweet Bundle ',
+        itemData: '10852869',
+        contains: ['1']
+    },
+    {
+        name: 'Impactful Styles Updew Bundle ',
+        itemData: '10873449',
+        contains: ['1']
+    },
+    {
+        name: 'Quick Snip II Majestic Bundle ',
+        itemData: '10481116',
+        contains: ['1']
+    },
     // {
     //     name: '',
     //     itemData: '',
