@@ -6934,16 +6934,16 @@ let bundleList = [
         itemData: '10074509',
         contains: ['1']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
+    {
+        name: 'Tranquil Garden (10 Pack) ',
+        itemData: '10153729',
+        contains: ['1']
+    },
+    {
+        name: 'False Spring Opal Bundle ',
+        itemData: '10889301',
+        contains: ['1']
+    },
     // {
     //     name: '',
     //     itemData: '',
