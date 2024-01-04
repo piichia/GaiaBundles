@@ -7234,6 +7234,11 @@ let bundleList = [
         itemData: '10786446',
         contains: ['1']
     },
+    {
+        name: '',
+        itemData: '10596903',
+        contains: ['1']
+    },
     // {
     //     name: '',
     //     itemData: '',
@@ -7247,27 +7252,197 @@ let bundleList = [
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['']
+    //     contains: ['1']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['']
+    //     contains: ['1']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['']
+    //     contains: ['1']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['']
+    //     contains: ['1']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['']
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
+    // },
+    {
+        name: '',
+        itemData: '10639074',
+        contains: ['1']
+    },
+    {
+        name: '',
+        itemData: '10937217',
+        contains: ['1']
+    },
+    {
+        name: '',
+        itemData: '10432041',
+        contains: ['1']
+    },
+    {
+        name: '',
+        itemData: '10924641',
+        contains: ['1']
+    },
+    {
+        name: '',
+        itemData: '10889439',
+        contains: ['1']
+    },
+    {
+        name: '',
+        itemData: '10729830',
+        contains: ['1']
+    },
+    // {
+    //     name: '',
+    //     itemData: '',
+    //     contains: ['1']
     // },
     {
         name: 'Lavishly Naughty ',
@@ -7309,36 +7484,36 @@ let bundleList = [
         itemData: '10819380',
         contains: ['10496286','10674171','10554702','10684683','10527776','10752420']
     },
-    // {
+    // { //TODO
     //     name: 'Sadistic Sweethearts ',
     //     itemData: '10908342',
     //     contains: ['10528836','10593405','10459589','10511966','10612077','','10619418','10473707','10794957','10533490','10794990','10851630','10844394','10919526']
     // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
+    {
+        name: 'Books n Baubles ',
+        itemData: '10423277',
+        contains: ['10418457','10417151','10417171','10418437']
+    },
+    {
+        name: 'Hair Havoc ',
+        itemData: '10807353',
+        contains: ['10689729','10697391','10722747','10698840','10716528','10742883']
+    },
+    {
+        name: 'Ever Eternal ',
+        itemData: '10983510',
+        contains: ['10979835','10979898','10979988','10979781']
+    },
+    {
+        name: 'Trendy Treasures: Shining Stars ',
+        itemData: '11030019',
+        contains: ['10626579','10480704','10873695','10400191','10760574','11026116']
+    },
+    {
+        name: 'Tough Skin Bundle ',
+        itemData: '10634736',
+        contains: ['10409089','10417125','10420905','10393747','10321539','10467579','10485646','10534972','10516636']
+    },
     // {
     //     name: '',
     //     itemData: '',
