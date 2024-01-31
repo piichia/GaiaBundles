@@ -8174,21 +8174,21 @@ let bundleList = [
         itemData: '10984734',
         contains: ['10985919','10985880','10985538']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
+    {
+        name: 'Fire in the Stars ',
+        itemData: '10533104',
+        contains: ['10529936','10529950','10529980','10529904']
+    },
+    {
+        name: 'Royalty in the Stars ',
+        itemData: '10619982',
+        contains: ['10623009','10620480','10620756','10619850']
+    },
+    {
+        name: 'Carnival Extravaganza ',
+        itemData: '10508250',
+        contains: ['10505496','10502932','10508234','10505470']
+    },
     // {
     //     name: '',
     //     itemData: '',
