@@ -8304,6 +8304,7 @@ let bundleList = [
         itemData: '10772649',
         contains: ['10761903','10761951','10767222','10767198']
     },
+///////////////////// USERMADE //////////////////////////
     // {
     //     name: '',
     //     itemData: '',
@@ -8447,43 +8448,118 @@ let bundleList = [
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
+    //     contains: ['','','','']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
+    //     contains: ['','','','']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
+    //     contains: ['','','','']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
+    //     contains: ['','','','']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
+    //     contains: ['','','','']
     // },
     // {
     //     name: '',
     //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
+    //     contains: ['','','','']
     // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
+    {
+        name: 'Hazardous Demons Bundle ',
+        itemData: '10356383',
+        contains: ['10259281','10286291','10253923','10354917','10354979']
+    },
+    {
+        name: 'Karps Pacific Style Guide ',
+        itemData: '10429885',
+        contains: ['10423975','10423991','10427515','10427535']
+    },
+    {
+        name: 'In my Dreams: Anxiety Dream ',
+        itemData: '10148153',
+        contains: ['10115129','10116763','10128549','10069173','93085']
+    },
+    {
+        name: 'Her Mini Crown Bundle ',
+        itemData: '10115303',
+        contains: ['10113335','10114559','10113347','10114115']
+    },
+    {
+        name: 'Dysfunctional Family Bundle: Shouburn ',
+        itemData: '10410815',
+        contains: ['10395127','10395097']
+    },
+    {
+        name: 'Dont DUCKING Talk to Me ',
+        itemData: '10422997',
+        contains: ['10427237','10427255','10427729','10427647']
+    },
+    {
+        name: 'Feeling Fiendish? ',
+        itemData: '10627911',
+        contains: ['10624326','10624821','10626303','10628163']
+    },
+    {
+        name: 'Dysfunctional Family Bundle: Riyokuma ',
+        itemData: '10410821',
+        contains: ['10401387','10401409']
+    },
+    {
+        name: 'Blooming Beauties Bundle ',
+        itemData: '10508246',
+        contains: ['10503178','10503194','10503228','10503146']
+    },
+    {
+        name: 'Miraculous Mermay ',
+        itemData: '10937484',
+        contains: ['10061691','10029625','10290771','10702314','10708101','10507222','10337893','10430407','10409365','10556268','10434923','11029602']
+    },
+    {
+        name: 'Hot Cocoa Packet: Vanilla ',
+        itemData: '10330801',
+        contains: ['10265435','10272249','10266137','10253771','10173181']
+    },
+    {
+        name: 'Summer Sale 2k17: Seabound Riches ',
+        itemData: '10390299',
+        contains: ['10393149','10108687','10317087','10335165','10333213','10322933']
+    },
+    {
+        name: 'Serendipity Bundle ',
+        itemData: '10069469',
+        contains: ['10070071','10060173','10060159','10041821']
+    },
+    {
+        name: 'Shop The Look: Solstice Warrior ',
+        itemData: '10831731',
+        contains: ['10025227','10678752','10214635','10091901','10668915','10597743','10415637','10600290','10358039']
+    },
+    {
+        name: 'Confectionery Costumes ',
+        itemData: '10775415',
+        contains: ['10340829','10584930','10584906','10698687','10698711','10707444']
+    },
+    {
+        name: 'Extra Ears ',
+        itemData: '10816575',
+        contains: ['10638462','10718913','10667388','10740318','10467117','10461831','10745409','10698777']
+    },
+    {
+        name: 'Fingerpainting Heroes: Spikemuth ',
+        itemData: '10712841',
+        contains: ['10706103','10713132','10713171']
+    },
     // {
     //     name: '',
     //     itemData: '',
