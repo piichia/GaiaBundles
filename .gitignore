@@ -3,3 +3,12 @@ mistagged items
 event.js
 llama.js
 gaiaBidding.js
+bundles.md
+GaiaRIGDB.js
+node_modules
+*.png
+*.json
+app.js
+gaiaDB.py
+GaiaUpgrade.crx
+uBlock-Origin.crx
