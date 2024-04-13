@@ -8465,11 +8465,11 @@ let bundleList = [
     //     itemData: '',
     //     contains: ['','','','']
     // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','']
-    // },
+    {
+        name: 'Atlantean Elegance ',
+        itemData: '10423279',
+        contains: ['10418621','10418585','10431767','10431731']
+    },
     {
         name: 'Andrastes Veil ',
         itemData: '10586160',
@@ -10015,46 +10015,41 @@ let bundleList = [
         itemData: '10430539',
         contains: ['10296069','10347413','10330677','10349465','10300181','10315979','10315955','10298471','10296977','10314935','10297693']
     },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
-    // {
-    //     name: '',
-    //     itemData: '',
-    //     contains: ['','','','','','','','','','','','']
-    // },
+    {
+        name: 'Best of Winter 2017 Bundle ',
+        itemData: '10446735',
+        contains: ['10334465','10335055','10345297','10426501','10435915','10447337']
+    },
+    {
+        name: 'Canine Companions ',
+        itemData: '11024667',
+        contains: ['11021760','11021763','11021766','11021769','11021772']
+    },
+    {
+        name: 'Gaian Finger Painting: Rainy ',
+        itemData: '10642008',
+        contains: ['10564419','10497114','10493576','10584333','10587843']
+    },
+    {
+        name: 'Gaian Finger Painting: Blooming ',
+        itemData: '10647543',
+        contains: ['10499410','10533122','10587639','10547496','10516328']
+    },
+    {
+        name: 'Super September Magnificent Moira Bundle ',
+        itemData: '10073497',
+        contains: ['91777','50451','10012795','45721','43772','72169']
+    },
+    {
+        name: 'Fingerpainting Heroes: Cutesi ',
+        itemData: '10712835',
+        contains: ['10710210','10710132','10710162']
+    },
+    {
+        name: 'Gaian Finger Painting: Ivran ',
+        itemData: '10645734',
+        contains: ['10401741','10561836','10416961','10400191','10515004','10555530']
+    },
     // {
     //     name: '',
     //     itemData: '',
