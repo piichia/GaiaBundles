@@ -494,11 +494,11 @@ let bundleList = [
         itemData: '10078567',
         contains: ['10058601','10058613','10058649','10058625','10078487']
     },
-    // { //issues with this??
-    //     name: 'An enchanted Bun-dle',
-    //     itemData: '10315773',
-    //     contains: ['10316619','10317885','10316559','10315773']
-    // },
+    {
+        name: 'An enchanted Bun-dle',
+        itemData: '10315773',
+        contains: ['10316619','10317885','10316559','10319145']
+    },
     {
         name: 'Bleu Nouveau',
         itemData: '10289903',
