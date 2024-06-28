@@ -12450,41 +12450,41 @@ let bundleList = [
         itemData: "10494782",
         contains: ["10500450","10238345","10163667","10153091"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Paint Wars: Juli3e ",
+        itemData: "10500152",
+        contains: ["10496588","10496552"]
+    },
+    {
+        name: "Paint Wars: Yuroppa ",
+        itemData: "10500150",
+        contains: ["10503824","10503770"]
+    },
+    {
+        name: "Paint Wars: Anonymous_minion ",
+        itemData: "10500148",
+        contains: ["10499818","10499844"]
+    },
+    {
+        name: "Paint Wars: Cutesi ",
+        itemData: "10500146",
+        contains: ["10499426","10499410"]
+    },
+    {
+        name: "Paint Wars: Winter Hue ",
+        itemData: "10500144",
+        contains: ["10499728","10499744"]
+    },
+    {
+        name: "Paint Wars: Riyokuma ",
+        itemData: "10500142",
+        contains: ["10499990","10499990"]
+    },
+    {
+        name: "Paint Wars: Seduces ",
+        itemData: "10500140",
+        contains: ["10494808","10497536"]
+    },
     // {
     //     name: "",
     //     itemData: "",
