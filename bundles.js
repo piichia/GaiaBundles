@@ -13090,94 +13090,1064 @@ let bundleList = [
         itemData: "11140134",
         contains: ["10635864","10101773","10253909","10343203","10134087","10188511","10362615","10391363","10400247","10712754","10625781","10904157","11135661","11135712"]
     },
+    {
+        name: "Retained Regalia ",
+        itemData: "10875804",
+        contains: ["10875516","10875459","10875594","10875774"]
+    },
+    {
+        name: "Jolly Jamboree: Peyo ",
+        itemData: "10886400",
+        contains: ["68441","10394629","10293297","10563828","10385465","10616973","10462381","10542892","10395851","10493608","10166353","39472","10715493","10701948","10709004"]
+    },
+    {
+        name: "Jolly Jamboree: Jack & Fafnir ",
+        itemData: "10886397",
+        contains: ["10099989","64709","10183201","64861","10260045","10291157","10272821","10218069","10206307","10158889","10292745","10225363","10211897","10203791","10139963","64875","10104307","10344355"]
+    },
+    {
+        name: "Jolly Jamboree: Keiko ",
+        itemData: "10886379",
+        contains: ["91005","10024873","10147945","92541","10240407","10024863","10738809","10463075","10757172","10596690","10738722"]
+    },
+    {
+        name: "Summer Sailings II: Hailstone ",
+        itemData: "10923093",
+        contains: ["10926501","10926609","10926555"]
+    },
+    {
+        name: "Summer Sailings II: Flamboyant ",
+        itemData: "10923090",
+        contains: ["10924548","10927227","10927302"]
+    },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Shop the Look: Memorable Summer Nights ",
+    //     itemData: "10924767",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Shop the Look: Glass Hearted Poet ",
+    //     itemData: "10876884",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Festive Wintery Duo Bundle ",
+        itemData: "10871325",
+        contains: ["10868760","10868799"]
+    },
+    {
+        name: "Community Picks: Chapters (DawnLuna) ",
+        itemData: "10872408",
+        contains: ["10547406","10742592","10698945","10780407","10792311"]
+    },
+    // {
+    //     name: "Community Picks: Chapters (Arcosi Knight) ",
+    //     itemData: "10872411",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Community Picks: Chapters (The Amazing tikal123) ",
+    //     itemData: "10872414",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Community Picks: Chapters (Teyath) ",
+    //     itemData: "10872420",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Silken Snow ",
+    //     itemData: "10861575",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Present Party ",
+    //     itemData: "10861581",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Concrete Clash ",
+    //     itemData: "10861587",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Confectionery Confessions ",
+    //     itemData: "10861593",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "December M Bundle ",
+    //     itemData: "10861605",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Filigree Tales ",
+    //     itemData: "10859250",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Storied Accoutrements ",
+        itemData: "10859454",
+        contains: ["10858710","10860825"]
+    },
+    // {
+    //     name: "Shop the Look: Mourning Glory ",
+    //     itemData: "10847880",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Demonic Daddies ",
+        itemData: "10848204",
+        contains: ["10065337","10527758","10424007","10659054","10475426","10752567","10847097"]
+    },
+    // {
+    //     name: "Fashionably On Fleek ",
+    //     itemData: "10850931",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Cautious Cats ",
+    //     itemData: "10850934",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Wonderful Tales ",
+    //     itemData: "10850937",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Eternal Reign ",
+        itemData: "10845747",
+        contains: ["10836249","10843881","10845267","10836375"]
+    },
+    // {
+    //     name: "Sweet Sweltering Semester Collection ",
+    //     itemData: "10843575",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Despairing Dreamers ",
+    //     itemData: "10841181",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Stunning Sapphire ",
+    //     itemData: "10841175",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Catch of the Season Collection Bundle ",
+    //     itemData: "10841103",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Fateful Evening Collection Bundle ",
+    //     itemData: "10841091",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Shop The Look: Solstice Cleric ",
+    //     itemData: "10831734",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Community Picks: Angels & Demons (Azure`) ",
+        itemData: "10832838",
+        contains: ["10504692","10160689","10275911","10699044","10684431","10171909","10171903"]
+    },
+    // {
+    //     name: "Community Picks: Angels & Demons (Kerryee) ",
+    //     itemData: "10832841",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Community Picks: Angels & Demons (ChattyMagic) ",
+    //     itemData: "10832844",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Community Picks: Angels & Demons (toufu time) ",
+    //     itemData: "10832847",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "High Heavens ",
+    //     itemData: "10834494",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Soft Sweethearts ",
+    //     itemData: "10834500",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Rose of Royalty ",
+    //     itemData: "10834509",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Butterfly Breaths ",
+    //     itemData: "10834524",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Stink It Up! ",
+    //     itemData: "10834527",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Punky Partiers ",
+    //     itemData: "10834542",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Summer Sailings: Sakura ",
+        itemData: "10836060",
+        contains: ["10836603","10836510","10836567"]
+    },
+    {
+        name: "Summer Sailings: Goldenlocks ",
+        itemData: "10836066",
+        contains: ["10834956","10835058","10834998"]
+    },
+    {
+        name: "Summer Sailings: Honeysuckle ",
+        itemData: "10836069",
+        contains: ["10835892","10835955","10836012"]
+    },
+    {
+        name: "Summer Sailings: Purified ",
+        itemData: "10836072",
+        contains: ["10835502","10835451","10837041"]
+    },
+    {
+        name: "Summer Sailings: Crabby ",
+        itemData: "10836078",
+        contains: ["10836216","10836156","10836084"]
+    },
+    {
+        name: "Summer Sailings: Heirloom ",
+        itemData: "10836081",
+        contains: ["10835754","10835829","10835862"]
+    },
+    // {
+    //     name: "Circe's Ancient Garden Bundle ",
+    //     itemData: "10825452",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Forlorn Dance of the Phoenix Bundle ",
+    //     itemData: "10825443",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Ancient Dance of the Phoenix Bundle ",
+    //     itemData: "10825440",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Dante's Classic Summoning Bundle ",
+    //     itemData: "10825134",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Verdant Northern Star Bundle ",
+    //     itemData: "10825095",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Enchanted Moonlight's Lullaby Bundle ",
+    //     itemData: "10825089",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Classic Moonlight's Lullaby Bundle ",
+    //     itemData: "10825086",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Rift of the Devils ",
+    //     itemData: "10824642",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Rift of the Goddess ",
+    //     itemData: "10824639",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Rift of Nightmares ",
+    //     itemData: "10824633",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Twinkling Treasures ",
+    //     itemData: "10819428",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Cat Central! ",
+    //     itemData: "10819401",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Magical Mysteries ",
+    //     itemData: "10819395",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Aurora Northern Star Bundle ",
+    //     itemData: "10825092",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Seductive Secrets ",
+    //     itemData: "10819377",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Positive Plants ",
+    //     itemData: "10819374",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Dearest Digital Diva ",
+    //     itemData: "10816593",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Spring Send-off Poppy Collection ",
+        itemData: "10816161",
+        contains: ["10814175","10814151","10814115"]
+    },
+    {
+        name: "Spring Send-off Melon Collection ",
+        itemData: "10816158",
+        contains: ["10815576","10815597","10815636"]
+    },
+    {
+        name: "Spring Send-off Rainy Collection ",
+        itemData: "10816155",
+        contains: ["10816008","10815963","10816068"]
+    },
+    {
+        name: "Spring Send-off Momo Collection ",
+        itemData: "10816149",
+        contains: ["10815846","10815792","10815900"]
+    },
+    {
+        name: "Spring Send-off Heavensent Collection ",
+        itemData: "10816143",
+        contains: ["10815675","10815711","10815768"]
+    },
+    {
+        name: "Spring Send-off Mossy Collection ",
+        itemData: "10816137",
+        contains: ["10810887","10810917","10810860"]
+    },
+    {
+        name: "King IV Pro Bundle ",
+        itemData: "10811385",
+        contains: ["2622","2620","2621","1586","2393","1404","10810548"]
+    },
+    // {
+    //     name: "Forest Fables ",
+    //     itemData: "10807356",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Carnation Confessions ",
+    //     itemData: "10807350",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Coffee Cravings ",
+    //     itemData: "10807335",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Picnic Party Soft Basket ",
+    //     itemData: "10802652",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Picnic Party Blooming Basket ",
+    //     itemData: "10802646",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Picnic Party Breezy Basket ",
+    //     itemData: "10802643",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Last Minute Flowers & Chocolates ",
+    //     itemData: "10798131",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Kingly Kirin ",
+        itemData: "10797351",
+        contains: ["10702365","10689456","10687482","10699791","10704591","10731969","10723254"]
+    },
+    {
+        name: "Brooding Bundle ",
+        itemData: "10795389",
+        contains: ["10795392","10795395","10795365"]
+    },
+    // {
+    //     name: "Dark Deity Dealings ",
+    //     itemData: "10786578",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Ancient Antics ",
+    //     itemData: "10786401",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "For the Angelic King Bundle ",
+    //     itemData: "10785264",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "King IV Epic Bundle ",
+        itemData: "10785075",
+        contains: ["2443","3367","7925","2316","1537","1433","10784280"]
+    },
+    // {
+    //     name: "King IV Elite Bundle ",
+    //     itemData: "10785072",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Dark Days ",
+    //     itemData: "10781826",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Bright and Blooming ",
+    //     itemData: "10781823",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Beastly Besties ",
+    //     itemData: "10781805",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Goshiki Goods ",
+    //     itemData: "10781802",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Golden Lunar Luxuries ",
+    //     itemData: "10781037",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Gaiaversary 18: Gaian Makeover V3 ",
+    //     itemData: "10780023",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Gaiaversary 18: Gaian Makeover V2 ",
+    //     itemData: "10780020",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Gaiaversary 18: Gaian Makeover V1 ",
+    //     itemData: "10780017",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Gaiaversary 18: Gaia Getup ",
+        itemData: "10780011",
+        contains: ["10676646","10699416","10699938","10627260","10622775","10628748","10609830"]
+    },
+    // {
+    //     name: "Gaiaversary 18: Porcelain Party ",
+    //     itemData: "10780005",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Lunar Luxuries ",
+    //     itemData: "10779762",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Lucky Lunar Bundle ",
+    //     itemData: "10778961",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Crystalline Creations Gifts Bundle ",
+    //     itemData: "10776942",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Rainy Knick Knacks ",
+        itemData: "10767138",
+        contains: ["10598826","10579716","10615350","10631832","10659453"]
+    },
+    {
+        name: "Gaian Style Showcase: Hairs V ",
+        itemData: "10761420",
+        contains: ["10701399","10678953","10631712","10631688","10677192","10661661"]
+    },
+    {
+        name: "Arcane Ascension: Suit of Pentacles ",
+        itemData: "10760472",
+        contains: ["10222775","10472749","10391907","10531054","10630842"]
+    },
+    {
+        name: "Arcane Ascension: Suit of Cups ",
+        itemData: "10760469",
+        contains: ["10514670","10263109","10272843","10545262","10543638"]
+    },
+    // {
+    //     name: "Arcane Ascension: Suit of Wands ",
+    //     itemData: "10760466",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Arcane Ascension: Suit of Swords ",
+    //     itemData: "10760463",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Arcane Ascension: The Empress ",
+    //     itemData: "10760460",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Arcane Ascension: The Devil ",
+        itemData: "10760457",
+        contains: ["10575735","10507494","10445669","10478946","10679922"]
+    },
+    {
+        name: "Arcane Ascension Mega Bundle ",
+        itemData: "10759359",
+        contains: ["10756125","10747239","10756584","10758588","10751361","10757862"]
+    },
+    // {
+    //     name: "Shop the Look: Not So Kingly Mushroom ",
+    //     itemData: "10758114",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Fortune's Telling: Terrific Fate ",
+    //     itemData: "10755795",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Fortune's Telling: Good Fate ",
+    //     itemData: "10755792",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Fortune's Telling: Bad Fate ",
+    //     itemData: "10755789",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Fortune's Telling: Terrible Fate ",
+    //     itemData: "10755786",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "In Our Stars: Yellow Dwarf ",
+    //     itemData: "10755768",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "In Our Stars: Red Giant ",
+    //     itemData: "10755765",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Arcane Ascension: Kaguya Kit ",
+    //     itemData: "10755465",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Arcane Ascension: Bright Bubbles ",
+    //     itemData: "10755462",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Arcane Ascension: Ardent Aurora ",
+    //     itemData: "10755459",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Arcane Ascension: Miscellaneous Merch ",
+    //     itemData: "10755453",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Arcane Ascension: Bargain Bin ",
+    //     itemData: "10755447",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Arcane Ascension: Ancient Aesthetics ",
+    //     itemData: "10755444",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Arcane Ascension: Omnipotent Opulence ",
+    //     itemData: "10755435",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Arcane Ascension: Blossoming Beauties ",
+    //     itemData: "10755417",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Shop the Look: I'm Alien ",
+    //     itemData: "10752450",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "TTLY Venomous Bundle ",
+        itemData: "10751700",
+        contains: ["10750737","10750686"]
+    },
+    // {
+    //     name: "Super Duper Amaranth Bundle ",
+    //     itemData: "10750044",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Shop the Look: Void Vessel ",
+    //     itemData: "10749906",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Spectacular Sinful Collection ",
+    //     itemData: "10749765",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Shop the Look: The Leech King ",
+    //     itemData: "10749489",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Lights Out for Blackout! ",
+    //     itemData: "10745850",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Mysterious Bundle of Gifts ",
+    //     itemData: "10743498",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Gaian Style Showcase: Face Time III ",
+    //     itemData: "10740780",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Shop the Look: Murder Child ",
+    //     itemData: "10740315",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Freaky Fall II: Mournful ",
+    //     itemData: "10739916",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Freaky Fall II: Enchanted ",
+    //     itemData: "10739910",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Freaky Fall II: Leonine ",
+    //     itemData: "10739904",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Bloody Brethren ",
+    //     itemData: "10739199",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Shop the Look: Virgo of Lummoire ",
+    //     itemData: "10738680",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Whispering Wisps ",
+    //     itemData: "10735371",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Freaky Fall: Latitude ",
+    //     itemData: "10735089",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Freaky Fall: Alluring ",
+    //     itemData: "10735080",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Freaky Fall: Withered ",
+    //     itemData: "10735077",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Shop the Look: Meow Meow Meow Meow Meow ",
+    //     itemData: "10733265",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Exciting Eyecandy ",
+    //     itemData: "10730691",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Summer Stargazing Mega Bundle ",
+        itemData: "10730481",
+        contains: ["10719948","10723629","10727898","10728930","10730514","10730673"]
+    },
+    {
+        name: "Summer Stargazing Nova Bundle ",
+        itemData: "10728885",
+        contains: ["10312023","53709","53717","10040691","10078917","10593123"]
+    },
+    {
+        name: "Summer Stargazing Nebula Bundle ",
+        itemData: "10728882",
+        contains: ["40962","43852","10012615","41054","34385","10377407","10474413"]
+    },
+    {
+        name: "Summer Stargazing Rainbow Bundle ",
+        itemData: "10727562",
+        contains: ["10399601","10507086","10410473","10397491","10379783","10385369","10576524","10723839"]
+    },
+    // {
+    //     name: "Summer Stargazing Doll Bundle ",
+    //     itemData: "10727553",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Summer Stargazing Exalted Bundle ",
+    //     itemData: "10727547",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Summer Stargazing Opulent Bundle ",
+    //     itemData: "10727544",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Summer Stargazing Taking Flight ",
+        itemData: "10727541",
+        contains: ["10320911","10561293","10452175","10577619","10402099","10442757","10390377","10727781"]
+    },
+    // {
+    //     name: "Summer Stargazing Verdant Bundle ",
+    //     itemData: "10727538",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Summer Stargazing Brightest Star ",
+        itemData: "10727535",
+        contains: ["10464569","10327897","10154779","10263039","10682589","10381179","10171903","10331109","10621881"]
+    },
+    {
+        name: "Summer Stargazing Their Stars ",
+        itemData: "10727532",
+        contains: ["10378749","10327929","10477828","10430445","10412839","10397549","10549959"]
+    },
+    // {
+    //     name: "Summer Stargazing Luminary Collection ",
+    //     itemData: "10727529",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Summer Stargazing Gentle Bundle ",
+    //     itemData: "10727523",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Gaian Style Showcase: Legs II ",
+        itemData: "10719303",
+        contains: ["10423165","10309405","10501880","10557966","10642176","10596786","10623855"]
+    },
+    // {
+    //     name: "Forgotten Fairytales ",
+    //     itemData: "10722147",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Cute Cravings ",
+    //     itemData: "10719111",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Hair We Are ",
+    //     itemData: "10719054",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Super Pure Bundle ",
+    //     itemData: "10714188",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Perfectly Pearlescent ",
+    //     itemData: "10714185",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Fingerpainting Heroes: Molten Tigrex ",
+        itemData: "10712850",
+        contains: ["10713672","10713726","10713756"]
+    },
+    {
+        name: "Fingerpainting Heroes: hemogoblin ",
+        itemData: "10712847",
+        contains: ["10709073","10709004","10713210"]
+    },
+    // {
+    //     name: "Fingerpainting Heroes: Riyokuma ",
+    //     itemData: "10712838",
+    //     contains: ["10713351","10713258","10713318"]
+    // },
+    // {
+    //     name: "Fortunate Flowers ",
+    //     itemData: "10712547",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Swimming Sweethearts ",
+    //     itemData: "10712541",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Pretty Princess ",
+    //     itemData: "10712535",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "His Highness ",
+    //     itemData: "10712532",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "CONventional Cosplay ",
+    //     itemData: "10712523",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Animal Act ",
+    //     itemData: "10712520",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Bonus DLC ",
+    //     itemData: "10709676",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Edgy Grl DLC ",
+    //     itemData: "10709673",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Plants DLC ",
+    //     itemData: "10709670",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Shop the Look: Sanctum Sophia ",
+    //     itemData: "10707321",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Surf & Turf Gullible Tales Doll Bundle ",
+        itemData: "10703829",
+        contains: ["10698459","10703904"]
+    },
+    {
+        name: "Surf & Turf Aeon Doll Bundle ",
+        itemData: "10703817",
+        contains: ["10703163","10703877"]
+    },
+    // {
+    //     name: "Gaian Style Showcase: Elegance ",
+    //     itemData: "10702800",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Angelic Trunk ",
+    //     itemData: "10700736",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Monochromatic Method ",
+    //     itemData: "10700727",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Day of Roses ",
+    //     itemData: "10700724",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Dear Deity ",
+    //     itemData: "10700718",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Tropical Treats ",
+    //     itemData: "10700715",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Lovely Ladies ",
+    //     itemData: "10700712",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Eternal Sunshine ",
+        itemData: "10700682",
+        contains: ["10691430","10691532","10700544","10700496"]
+    },
+    // {
+    //     name: "Gaian Style Showcase: Face time II! ",
+    //     itemData: "10699299",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Blooming Hana Bundle ",
+        itemData: "10693467",
+        contains: ["10691592","10693404"]
+    },
+    {
+        name: "Falling Stars Bundle ",
+        itemData: "10691517",
+        contains: ["10691505","10691463","10691484"]
+    },
+    // {
+    //     name: "Spice is Life ",
+    //     itemData: "10689372",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Head-top Companions ",
+    //     itemData: "10689357",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Strawbeary Patch ",
+    //     itemData: "10689354",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Hello, Spring!: Konpeito ",
+    //     itemData: "10689129",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Hello, Spring!: Rainy ",
+    //     itemData: "10689126",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Hello, Spring!: Petit Cherie ",
+    //     itemData: "10689117",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Hello, Spring!: Demure ",
+    //     itemData: "10689114",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Hello, Spring!: Honey Lavender ",
+    //     itemData: "10689111",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Hello, Spring!: Blooming ",
+    //     itemData: "10689108",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Super Duper Blackout Bundle ",
+    //     itemData: "10688262",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Shop the Look: Bad Joke ",
+    //     itemData: "10688259",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Garage Sale: Summer Selects ",
+    //     itemData: "10684227",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "My Dearest Honey ",
+    //     itemData: "10684212",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Sweetest Sweethearts ",
+    //     itemData: "10684209",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Konpeito Kreations ",
+    //     itemData: "10684203",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Hanami Bundle ",
+        itemData: "10683444",
+        contains: ["10682985","10683024","10683447"]
+    },
+    // {
+    //     name: "Shop the Look: Feral Feline ",
+    //     itemData: "10678494",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Please Stay Home ",
+    //     itemData: "10677852",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Late Night Bites ",
+    //     itemData: "10677849",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Firefly Catcher Catcher ",
+    //     itemData: "10677846",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Gaian Style Showcase: Hairs II ",
+    //     itemData: "10677843",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    {
+        name: "Broaden Your Horizons ",
+        itemData: "10677834",
+        contains: ["10465789","10158363","10338873","10446739"]
+    },
+    // {
+    //     name: "Loudest Beats ",
+    //     itemData: "10677831",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
