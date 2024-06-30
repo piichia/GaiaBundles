@@ -16305,56 +16305,56 @@ let bundleList = [
         itemData: "10550598",
         contains: ["10545262","10319259","10402431","10324515","10277681"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Broommate From Hell: Cutie Witch ",
+        itemData: "10539218",
+        contains: ["10537952","10412951","10389679","10340155"]
+    },
+    {
+        name: "Broommate From Hell: Tired Witch ",
+        itemData: "10539216",
+        contains: ["10539814","10443947","10360363","10391469"]
+    },
+    {
+        name: "Broommate From Hell: Salty Witch ",
+        itemData: "10539214",
+        contains: ["10537772","10330447","10180781","10209707"]
+    },
+    {
+        name: "Broommate From Hell: Wicked Witch ",
+        itemData: "10539212",
+        contains: ["10537758","10145501","10269665","10399369"]
+    },
+    {
+        name: "Shop The Holiday Look 3 ",
+        itemData: "10553076",
+        contains: ["10050753","10555851","10555848"]
+    },
+    {
+        name: "Shop The Holiday Look 1 ",
+        itemData: "10553070",
+        contains: ["10050753","10555875","10555869"]
+    },
+    {
+        name: "Naturally Milan ",
+        itemData: "10550322",
+        contains: ["10546042","10552734","10556346","10547523"]
+    },
+    {
+        name: "Jelly Locks Bundle ",
+        itemData: "10546664",
+        contains: ["10546242","10546262"]
+    },
+    {
+        name: "Pretty Jelly Locks Bundle ",
+        itemData: "10546666",
+        contains: ["10546582","10546378"]
+    },
+    {
+        name: "Shop the Look: Jelly Locks Bundle ",
+        itemData: "10546668",
+        contains: ["10546242","10546262","10351293","10348685","10186807","10447243"]
+    },
     // {
     //     name: "",
     //     itemData: "",
