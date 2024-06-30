@@ -16250,61 +16250,61 @@ let bundleList = [
         itemData: "10560498",
         contains: ["10422313","10498374","10468695","10425459","10438517"]
     },
+    {
+        name: "Autumn Candy Bag: S'mores ",
+        itemData: "10539854",
+        contains: ["10537970","10383263","10405399","10364279"]
+    },
+    {
+        name: "Autumn Candy Bag: Licorice ",
+        itemData: "10539852",
+        contains: ["10537804","10311973","10162483","10307363","10333881"]
+    },
+    {
+        name: "Autumn Candy Bag: Candy Corn ",
+        itemData: "10539850",
+        contains: ["10541750","10215559","10215593","10192743","10414131"]
+    },
+    {
+        name: "Lovely Slime Bundle ",
+        itemData: "10539220",
+        contains: ["10537304","10537316","10537328"]
+    },
+    {
+        name: "Halloween Sale 2k18 Bundle 4 ",
+        itemData: "10541330",
+        contains: ["10398055","10517644","10480580","10322483"]
+    },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Chocomint Morikuma Collection ",
+    //     itemData: "10552725",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Morikuma Collection ",
+    //     itemData: "10552719",
     //     contains: ["","","","","","","","","","","",""]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Sweater Grab Bag: Cottonfrost ",
+        itemData: "10550607",
+        contains: ["10546498","10439443","10438953","10464089","10414937"]
+    },
+    {
+        name: "Sweater Grab Bag: Sweetheart ",
+        itemData: "10550604",
+        contains: ["10546514","10365239","10451177","10460671","10365125"]
+    },
+    {
+        name: "Sweater Grab Bag: Verdigris ",
+        itemData: "10550601",
+        contains: ["10545470","10457373","10430601","10459105","10433813"]
+    },
+    {
+        name: "Sweater Grab Bag: Blackout ",
+        itemData: "10550598",
+        contains: ["10545262","10319259","10402431","10324515","10277681"]
+    },
     // {
     //     name: "",
     //     itemData: "",
