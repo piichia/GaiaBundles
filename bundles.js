@@ -13635,26 +13635,26 @@ let bundleList = [
     //     itemData: "10758114",
     //     contains: ["","","","","","","","","","","",""]
     // },
-    // {
-    //     name: "Fortune's Telling: Terrific Fate ",
-    //     itemData: "10755795",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Fortune's Telling: Good Fate ",
-    //     itemData: "10755792",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Fortune's Telling: Terrific Fate ",
+        itemData: "10755795",
+        contains: ["10614450","10651110","10550223","10752807"]
+    },
+    {
+        name: "Fortune's Telling: Good Fate ",
+        itemData: "10755792",
+        contains: ["10635513","10487844","10702389","10754613"]
+    },
     // {
     //     name: "Fortune's Telling: Bad Fate ",
     //     itemData: "10755789",
-    //     contains: ["","","","","","","","","","","",""]
+    //     contains: ["10551399","","10635612","10755798"]
     // },
-    // {
-    //     name: "Fortune's Telling: Terrible Fate ",
-    //     itemData: "10755786",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Fortune's Telling: Terrible Fate ",
+        itemData: "10755786",
+        contains: ["10613361","10615173","10548135","10752972"]
+    },
     // {
     //     name: "In Our Stars: Yellow Dwarf ",
     //     itemData: "10755768",
@@ -13665,51 +13665,51 @@ let bundleList = [
     //     itemData: "10755765",
     //     contains: ["","","","","","","","","","","",""]
     // },
-    // {
-    //     name: "Arcane Ascension: Kaguya Kit ",
-    //     itemData: "10755465",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Arcane Ascension: Bright Bubbles ",
-    //     itemData: "10755462",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Arcane Ascension: Ardent Aurora ",
-    //     itemData: "10755459",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Arcane Ascension: Miscellaneous Merch ",
-    //     itemData: "10755453",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Arcane Ascension: Bargain Bin ",
-    //     itemData: "10755447",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Arcane Ascension: Ancient Aesthetics ",
-    //     itemData: "10755444",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Arcane Ascension: Omnipotent Opulence ",
-    //     itemData: "10755435",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Arcane Ascension: Blossoming Beauties ",
-    //     itemData: "10755417",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Shop the Look: I'm Alien ",
-    //     itemData: "10752450",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Arcane Ascension: Kaguya Kit ",
+        itemData: "10755465",
+        contains: ["10658085","10647477","10560165","10697544","10657302","10565184","10637805","10660302","10753788"]
+    },
+    {
+        name: "Arcane Ascension: Bright Bubbles ",
+        itemData: "10755462",
+        contains: ["10701765","10239619","10283715","10458611","10357265","10465923","10691259","10689192"]
+    },
+    {
+        name: "Arcane Ascension: Ardent Aurora ",
+        itemData: "10755459",
+        contains: ["10663107","10674930","10661553","10615350","10658487","10631079","10754343"]
+    },
+    {
+        name: "Arcane Ascension: Miscellaneous Merch ",
+        itemData: "10755453",
+        contains: ["10179087","10141883","10073387","10481802","10080045","10325503","10288433","10222893"]
+    },
+    {
+        name: "Arcane Ascension: Bargain Bin ",
+        itemData: "10755447",
+        contains: ["10374713","10083797","10044769","10344441","10257681","10029231","10011331","10491392"]
+    },
+    {
+        name: "Arcane Ascension: Ancient Aesthetics ",
+        itemData: "10755444",
+        contains: ["10472877","10490214","10474503","10477232","10470629","10456423","10501766","10754694"]
+    },
+    {
+        name: "Arcane Ascension: Omnipotent Opulence ",
+        itemData: "10755435",
+        contains: ["10522600","10493162","10519720","10488268","10633449","10663311","10637025","10752675"]
+    },
+    {
+        name: "Arcane Ascension: Blossoming Beauties ",
+        itemData: "10755417",
+        contains: ["10700355","10681572","10528610","10696257","10685553","10681320"]
+    },
+    {
+        name: "Shop the Look: I'm Alien ",
+        itemData: "10752450",
+        contains: ["10396775","10527336","10476686","10388749","10443587","10470489","10388561","10527952","10500082","10659831","10662003","10635192","10751664"]
+    },
     {
         name: "TTLY Venomous Bundle ",
         itemData: "10751700",
@@ -13745,31 +13745,31 @@ let bundleList = [
     //     itemData: "10743498",
     //     contains: ["","","","","","","","","","","",""]
     // },
-    // {
-    //     name: "Gaian Style Showcase: Face Time III ",
-    //     itemData: "10740780",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Gaian Style Showcase: Face Time III ",
+        itemData: "10740780",
+        contains: ["10603497","10307835","10612704","10678860","10684683","10624278"]
+    },
     // {
     //     name: "Shop the Look: Murder Child ",
     //     itemData: "10740315",
     //     contains: ["","","","","","","","","","","",""]
     // },
-    // {
-    //     name: "Freaky Fall II: Mournful ",
-    //     itemData: "10739916",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Freaky Fall II: Enchanted ",
-    //     itemData: "10739910",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Freaky Fall II: Leonine ",
-    //     itemData: "10739904",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Freaky Fall II: Mournful ",
+        itemData: "10739916",
+        contains: ["10743894","10743924","10743846"]
+    },
+    {
+        name: "Freaky Fall II: Enchanted ",
+        itemData: "10739910",
+        contains: ["10743312","10743285","10743246"]
+    },
+    {
+        name: "Freaky Fall II: Leonine ",
+        itemData: "10739904",
+        contains: ["10743417","10743501","10743366"]
+    },
     // {
     //     name: "Bloody Brethren ",
     //     itemData: "10739199",
@@ -13780,26 +13780,26 @@ let bundleList = [
     //     itemData: "10738680",
     //     contains: ["","","","","","","","","","","",""]
     // },
-    // {
-    //     name: "Whispering Wisps ",
-    //     itemData: "10735371",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Freaky Fall: Latitude ",
-    //     itemData: "10735089",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Freaky Fall: Alluring ",
-    //     itemData: "10735080",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Freaky Fall: Withered ",
-    //     itemData: "10735077",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Whispering Wisps ",
+        itemData: "10735371",
+        contains: ["10563672","10601994","10638939","10594728","10626399","10624014","10735326"]
+    },
+    {
+        name: "Freaky Fall: Latitude ",
+        itemData: "10735089",
+        contains: ["10735737","10735713","10735674"]
+    },
+    {
+        name: "Freaky Fall: Alluring ",
+        itemData: "10735080",
+        contains: ["10736145","10736559","10736721"]
+    },
+    {
+        name: "Freaky Fall: Withered ",
+        itemData: "10735077",
+        contains: ["10734498","10734528","10734552"]
+    },
     // {
     //     name: "Shop the Look: Meow Meow Meow Meow Meow ",
     //     itemData: "10733265",
@@ -13880,21 +13880,21 @@ let bundleList = [
         itemData: "10719303",
         contains: ["10423165","10309405","10501880","10557966","10642176","10596786","10623855"]
     },
-    // {
-    //     name: "Forgotten Fairytales ",
-    //     itemData: "10722147",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Cute Cravings ",
-    //     itemData: "10719111",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Hair We Are ",
-    //     itemData: "10719054",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Forgotten Fairytales ",
+        itemData: "10722147",
+        contains: ["10324567","10371483","10669098","10641522","10647477","10608825"]
+    },
+    {
+        name: "Cute Cravings ",
+        itemData: "10719111",
+        contains: ["10559781","10593171","10653855","10493682","10630443","10671450","10642611"]
+    },
+    {
+        name: "Hair We Are ",
+        itemData: "10719054",
+        contains: ["10438825","10426959","10427583","10413549","10588854","10564521","10424925","10422899","10616646"]
+    },
     // {
     //     name: "Super Pure Bundle ",
     //     itemData: "10714188",
@@ -13915,26 +13915,26 @@ let bundleList = [
         itemData: "10712847",
         contains: ["10709073","10709004","10713210"]
     },
-    // {
-    //     name: "Fingerpainting Heroes: Riyokuma ",
-    //     itemData: "10712838",
-    //     contains: ["10713351","10713258","10713318"]
-    // },
-    // {
-    //     name: "Fortunate Flowers ",
-    //     itemData: "10712547",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Swimming Sweethearts ",
-    //     itemData: "10712541",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Pretty Princess ",
-    //     itemData: "10712535",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Fingerpainting Heroes: Riyokuma ",
+        itemData: "10712838",
+        contains: ["10713351","10713258","10713318"]
+    },
+    {
+        name: "Fortunate Flowers ",
+        itemData: "10712547",
+        contains: ["10369065","10492792","10547496","10479854","10499494","10485348","10484296","10519860","10718325"]
+    },
+    {
+        name: "Swimming Sweethearts ",
+        itemData: "10712541",
+        contains: ["10483780","10490108","10518936","10289555","10297345","10627044","10448759","10216297","10515884"]
+    },
+    {
+        name: "Pretty Princess ",
+        itemData: "10712535",
+        contains: ["10130569","10502024","10242811","10291453","10373827","10536804","10426069","10485092","10544960","10618662","10622457"]
+    },
     // {
     //     name: "His Highness ",
     //     itemData: "10712532",
@@ -13955,16 +13955,16 @@ let bundleList = [
     //     itemData: "10709676",
     //     contains: ["","","","","","","","","","","",""]
     // },
-    // {
-    //     name: "Edgy Grl DLC ",
-    //     itemData: "10709673",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Plants DLC ",
-    //     itemData: "10709670",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Edgy Grl DLC ",
+        itemData: "10709673",
+        contains: ["10507814","10580649","10501008","10581603","10594686","10692306"]
+    },
+    {
+        name: "Plants DLC ",
+        itemData: "10709670",
+        contains: ["10467407","10413715","10536588","10608570","1404","10699092"]
+    },
     // {
     //     name: "Shop the Look: Sanctum Sophia ",
     //     itemData: "10707321",
@@ -13980,16 +13980,16 @@ let bundleList = [
         itemData: "10703817",
         contains: ["10703163","10703877"]
     },
-    // {
-    //     name: "Gaian Style Showcase: Elegance ",
-    //     itemData: "10702800",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Angelic Trunk ",
-    //     itemData: "10700736",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Gaian Style Showcase: Elegance ",
+        itemData: "10702800",
+        contains: ["10597158","10604208","10592922","10593195","10536514"]
+    },
+    {
+        name: "Angelic Trunk ",
+        itemData: "10700736",
+        contains: ["10611474","10613130","10641126","10630329","10617339","10589886","10630374","10621881"]
+    },
     // {
     //     name: "Monochromatic Method ",
     //     itemData: "10700727",
@@ -14020,11 +14020,11 @@ let bundleList = [
         itemData: "10700682",
         contains: ["10691430","10691532","10700544","10700496"]
     },
-    // {
-    //     name: "Gaian Style Showcase: Face time II! ",
-    //     itemData: "10699299",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Gaian Style Showcase: Face time II! ",
+        itemData: "10699299",
+        contains: ["10565889","10548960","10565820","10514188","10548135","10527776"]
+    },
     {
         name: "Blooming Hana Bundle ",
         itemData: "10693467",
@@ -14138,58 +14138,58 @@ let bundleList = [
     // {
     //     name: "Gaian Style Showcase: Hairs II ",
     //     itemData: "10677843",
-    //     contains: ["","","","","","","","","","","",""]
+    //     contains: ["","","","","","","","","","","10621833","10612398"]
     // },
     {
         name: "Broaden Your Horizons ",
         itemData: "10677834",
         contains: ["10465789","10158363","10338873","10446739"]
     },
-    // {
-    //     name: "Loudest Beats ",
-    //     itemData: "10677831",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Zestful Zombae ",
-    //     itemData: "10677822",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Loudest Beats ",
+        itemData: "10677831",
+        contains: ["10415865","10224859","10336621","10228109","10624614","10513170","10542074"]
+    },
+    {
+        name: "Zestful Zombae ",
+        itemData: "10677822",
+        contains: ["10592490","10589211","10321539","10389403","10625661","10389409","10632882","10650339","10632624","10632981","10612143"]
+    },
     // {
     //     name: "Peppy Pairs ",
     //     itemData: "10677819",
-    //     contains: ["","","","","","","","","","","",""]
+    //     contains: ["","","","","","","","","","","","10426863"]
     // },
-    // {
-    //     name: "Garage Sale: Mix Up! ",
-    //     itemData: "10677816",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Heap of Horns ",
-    //     itemData: "10677810",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Shop the Look: Goddess of Gaia ",
-    //     itemData: "10677063",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Shop the Look: Quest Sequel ",
-    //     itemData: "10676898",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "17th Gaiaversary Fantasy Bundle ",
-    //     itemData: "10676643",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "17th Gaiaversary Casual Bundle ",
-    //     itemData: "10676637",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Garage Sale: Mix Up! ",
+        itemData: "10677816",
+        contains: ["10484440","10338729","10110807","10385009","10485154","10564842","10003397"]
+    },
+    {
+        name: "Heap of Horns ",
+        itemData: "10677810",
+        contains: ["10566015","10612029","10541546","10553964","10505800","10613718"]
+    },
+    {
+        name: "Shop the Look: Goddess of Gaia ",
+        itemData: "10677063",
+        contains: ["10618512","10412823","10596234","10630554","10589559","10594686","10559946"]
+    },
+    {
+        name: "Shop the Look: Quest Sequel ",
+        itemData: "10676898",
+        contains: ["10431535","10358779","10470725","10613361","10571448","10599084","10675077"]
+    },
+    {
+        name: "17th Gaiaversary Fantasy Bundle ",
+        itemData: "10676643",
+        contains: ["10596168","10609566","10596192","10619820","10608954","10589559","10675452","10675722"]
+    },
+    {
+        name: "17th Gaiaversary Casual Bundle ",
+        itemData: "10676637",
+        contains: ["10597071","10625490","10585665","10605018","10586175","10601568","10609830","10593771","10628748","10626234"]
+    },
     // {
     //     name: "Shop the Look: Papillon Mystique ",
     //     itemData: "10674087",
