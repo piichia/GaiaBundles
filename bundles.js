@@ -5649,11 +5649,11 @@ let bundleList = [
         itemData: "10781820",
         contains: ["10340697","10673934","10470025","10680156","10722012","10702179"]
     },
-    // {
-    //     name: "Priestess Tresses Collection",
-    //     itemData: "10843584",
-    //     contains: ["","","","","","10407801","10499312","10512640","10424081","10365125","10457687","10699914","10354421","10359973","10354429","10690986"]
-    // },
+    {
+        name: "Priestess Tresses Collection",
+        itemData: "10843584",
+        contains: ["10337329","10338737","10452553","10339245","10417031","10351309","10346493","10484534","10462903","10338907","10377349","10356705","10404461","10350241","10407801","10499312","10512640","10424081","10365125","10457687","10699914","10354421","10359973","10354429","10690986"]
+    },
     {
         name: "Stay Sleepy",
         itemData: "10684218",
@@ -13240,16 +13240,16 @@ let bundleList = [
         itemData: "10841103",
         contains: ["10458927","10445797","10531312","10678497","10449511","10453859","10444739","10564398","10460653","10491452"]
     },
-    // {
-    //     name: "Fateful Evening Collection Bundle ",
-    //     itemData: "10841091",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Shop The Look: Solstice Cleric ",
-    //     itemData: "10831734",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Fateful Evening Collection Bundle ",
+        itemData: "10841091",
+        contains: ["10211701","10349111","10053359","10260985","10055935","10055983"]
+    },
+    {
+        name: "Shop The Look: Solstice Cleric ",
+        itemData: "10831734",
+        contains: ["10606923","10175719","10280879","10167319","10051823","10220063","10600239","10322075","10550946","10569273","10695573"]
+    },
     {
         name: "Community Picks: Angels & Demons (Azure`) ",
         itemData: "10832838",
@@ -13260,16 +13260,16 @@ let bundleList = [
         itemData: "10832841",
         contains: ["10147071","10349941","62503","10552251","10761864","10049695"]
     },
-    // {
-    //     name: "Community Picks: Angels & Demons (ChattyMagic) ",
-    //     itemData: "10832844",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Community Picks: Angels & Demons (toufu time) ",
-    //     itemData: "10832847",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Community Picks: Angels & Demons (ChattyMagic) ",
+        itemData: "10832844",
+        contains: ["10679805","10691640","10655817","10616124","10753650","10668417","10754556"]
+    },
+    {
+        name: "Community Picks: Angels & Demons (toufu time) ",
+        itemData: "10832847",
+        contains: ["10554573","10435915","10560195","10504750","10760817","10133847","10728822"]
+    },
     {
         name: "High Heavens ",
         itemData: "10834494",
@@ -13490,11 +13490,11 @@ let bundleList = [
         itemData: "10797351",
         contains: ["10702365","10689456","10687482","10699791","10704591","10731969","10723254"]
     },
-    {
-        name: "Brooding Bundle ",
-        itemData: "10795389",
-        contains: ["10795392","10795395","10795365"]
-    },
+    // { DOESNT WORK??
+    //     name: "Brooding Bundle ",
+    //     itemData: "10795389",
+    //     contains: ["10795392","10795395","10795365"]
+    // },
     {
         name: "Dark Deity Dealings ",
         itemData: "10786578",
@@ -13520,26 +13520,26 @@ let bundleList = [
     //     itemData: "10785072",
     //     contains: ["","","","","","","","","","","",""]
     // },
-    // {
-    //     name: "Dark Days ",
-    //     itemData: "10781826",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Bright and Blooming ",
-    //     itemData: "10781823",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Beastly Besties ",
-    //     itemData: "10781805",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Goshiki Goods ",
-    //     itemData: "10781802",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Dark Days ",
+        itemData: "10781826",
+        contains: ["10197965","10678581","10197833","10467277","10678578","10250655","10370783"]
+    },
+    {
+        name: "Bright and Blooming ",
+        itemData: "10781823",
+        contains: ["10503228","10701342","10696698","10710210","10609218","10679175","10642083","10690791"]
+    },
+    {
+        name: "Beastly Besties ",
+        itemData: "10781805",
+        contains: ["10438241","10637172","10236961","10542656","10532300","10725474","10727148"]
+    },
+    {
+        name: "Goshiki Goods ",
+        itemData: "10781802",
+        contains: ["10506132","10504078","10599897","10496712","10572987","10506854","10488026","10697247"]
+    },
     // {
     //     name: "Golden Lunar Luxuries ",
     //     itemData: "10781037",
@@ -13565,11 +13565,11 @@ let bundleList = [
         itemData: "10780011",
         contains: ["10676646","10699416","10699938","10627260","10622775","10628748","10609830"]
     },
-    // {
-    //     name: "Gaiaversary 18: Porcelain Party ",
-    //     itemData: "10780005",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Gaiaversary 18: Porcelain Party ",
+        itemData: "10780005",
+        contains: ["10316773","10282821","10460295","10338657","10440375","10656828","10662987"]
+    },
     // {
     //     name: "Lunar Luxuries ",
     //     itemData: "10779762",
@@ -13655,16 +13655,16 @@ let bundleList = [
         itemData: "10755786",
         contains: ["10613361","10615173","10548135","10752972"]
     },
-    // {
-    //     name: "In Our Stars: Yellow Dwarf ",
-    //     itemData: "10755768",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "In Our Stars: Red Giant ",
-    //     itemData: "10755765",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "In Our Stars: Yellow Dwarf ",
+        itemData: "10755768",
+        contains: ["10439477","10392849","10682817","10752723"]
+    },
+    {
+        name: "In Our Stars: Red Giant ",
+        itemData: "10755765",
+        contains: ["10511670","10679022","10661283","10751703"]
+    },
     {
         name: "Arcane Ascension: Kaguya Kit ",
         itemData: "10755465",
@@ -13800,11 +13800,11 @@ let bundleList = [
         itemData: "10735077",
         contains: ["10734498","10734528","10734552"]
     },
-    // {
-    //     name: "Shop the Look: Meow Meow Meow Meow Meow ",
-    //     itemData: "10733265",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Shop the Look: Meow Meow Meow Meow Meow ",
+        itemData: "10733265",
+        contains: ["10732017","10167835","92061","10051807","10411359","10372339","10460471","10393913","10456225","10273771","10546122","10639665","10640574","10514188","10624302","10414597","10608747"]
+    },
     {
         name: "Exciting Eyecandy ",
         itemData: "10730691",
@@ -13848,7 +13848,7 @@ let bundleList = [
     {
         name: "Summer Stargazing Taking Flight ",
         itemData: "10727541",
-        contains: ["10320911","10561293","10452175","10577619","10402099","10442757","10390377","10727781"]
+        contains: ["10100415","10561293","10452175","10577619","10402099","10442757","10390377","10727781"]
     },
     {
         name: "Summer Stargazing Verdant Bundle ",
