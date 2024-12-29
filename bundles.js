@@ -15460,71 +15460,71 @@ let bundleList = [
         itemData: "10578102",
         contains: ["10329113","10248255","10212877","10303535","10380387","10273117","10278839","10217077","10302279","10361485","10317511","10259067","10329177","10066043","10334845","10338873"]
     },
-    // {
-    //     name: "Ready for the Party Bundle! ",
-    //     itemData: "10578099",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Hire a Band Bundle! ",
-    //     itemData: "10578093",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "The Very Best Bundle ",
-    //     itemData: "10578087",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Looking Lovely Bundle ",
-    //     itemData: "10578084",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "March Makeup Bundle ",
-    //     itemData: "10578081",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Seeing Red Bundle ",
-    //     itemData: "10578075",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Garage Sale: Feeling Funny ",
-    //     itemData: "10578069",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Staff Picks: January 2019 (Seduces) ",
-    //     itemData: "10578066",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Staff Picks: January 2019 (Natsube) ",
-    //     itemData: "10578063",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Staff Picks: January 2019 (it amy) ",
-    //     itemData: "10578060",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Staff Picks: January 2019 (christinao93) ",
-    //     itemData: "10578057",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Staff Picks: January 2019 (Cutesi) ",
-    //     itemData: "10578054",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Community Picks: Heroes vs Villains (WraythRose Darkthorn) ",
-    //     itemData: "10577766",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Ready for the Party Bundle! ",
+        itemData: "10578099",
+        contains: ["10427321","10441011","10349111","10206137","10429553","10337629","10123183","10169091"]
+    },
+    {
+        name: "Hire a Band Bundle! ",
+        itemData: "10578093",
+        contains: ["10187375","10160967","10181123","10143229","10216379","10303429","10322461","10102531","10336621","10397909"]
+    },
+    {
+        name: "The Very Best Bundle ",
+        itemData: "10578087",
+        contains: ["10288849","10286053","10313901","10273373","10288897","10280309","10356683","10344289"]
+    },
+    {
+        name: "Looking Lovely Bundle ",
+        itemData: "10578084",
+        contains: ["10080659","10019259","10216737","10412445","10366063","10472601","10348701","10430901","10021637","10235563"]
+    },
+    {
+        name: "March Makeup Bundle ",
+        itemData: "10578081",
+        contains: ["10412105","10387909","10341871","10253657","10413591","10501750"]
+    },
+    {
+        name: "Seeing Red Bundle ",
+        itemData: "10578075",
+        contains: ["10333371","10181331","10146355","10366769","10151253","10432099","10498540"]
+    },
+    {
+        name: "Garage Sale: Feeling Funny ",
+        itemData: "10578069",
+        contains: ["10273575","10355771","10355527","10209479","10211433","10229689","10343113","10355135","10380911","10114945","10042851","10215081"]
+    },
+    {
+        name: "Staff Picks: January 2019 (Seduces) ",
+        itemData: "10578066",
+        contains: ["10477386","10404957","10224955","10422025","10486954","10453141"]
+    },
+    {
+        name: "Staff Picks: January 2019 (Natsube) ",
+        itemData: "10578063",
+        contains: ["10412343","10306935","10510214","10477530","10470879","10448831"]
+    },
+    {
+        name: "Staff Picks: January 2019 (it amy) ",
+        itemData: "10578060",
+        contains: ["10339295","10381355","10466163","10359841","10478668","10503490","10463301"]
+    },
+    {
+        name: "Staff Picks: January 2019 (christinao93) ",
+        itemData: "10578057",
+        contains: ["10431453","10148829","10269031","10469207","10266079"]
+    },
+    {
+        name: "Staff Picks: January 2019 (Cutesi) ",
+        itemData: "10578054",
+        contains: ["10237059","10266197","10402291","10456789","10499426","10503194"]
+    },
+    {
+        name: "Community Picks: Heroes vs Villains (WraythRose Darkthorn) ",
+        itemData: "10577766",
+        contains: ["10141629","10086845","10361459","10389857","10219929","10372563"]
+    },
     {
         name: "Community Picks: Heroes vs Villains (Kuro Kori Ryu) ",
         itemData: "10577763",
@@ -15548,17 +15548,17 @@ let bundleList = [
     // {
     //     name: "At a Glance (Pretty) ",
     //     itemData: "10577022",
-    //     contains: ["","","","","","","","","","","",""]
+    //     contains: ["10358643","10405399","10497242","10486864","10335327","10387909"]
     // },
-    // {
-    //     name: "At a Glance (Classic) ",
-    //     itemData: "10577019",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "At a Glance (Classic) ",
+        itemData: "10577019",
+        contains: ["10181909","10362801","10428203","10354849","10082509","10434827","10386483"]
+    },
     // {
     //     name: "At a Glance (Delicious) ",
     //     itemData: "10577016",
-    //     contains: ["","","","","","","","","","","",""]
+    //     contains: ["10376145","10294795","10308191","10401189","10263279","10364739","10424429"]
     // },
     {
         name: "At a Glance (Colorful) ",
@@ -17265,41 +17265,41 @@ let bundleList = [
         itemData: "10383621",
         contains: ["10234175","10224683","10231787","10226577","10237801","10297931"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Swirling Sorbet: Acai ",
+        itemData: "10383615",
+        contains: ["10385447","10311895","10352353","10297583"]
+    },
+    {
+        name: "Swirling Sorbet: Strawberry ",
+        itemData: "10383613",
+        contains: ["10384369","10313699","10263075","10308789"]
+    },
+    {
+        name: "Swirling Sorbet: Watermelon ",
+        itemData: "10383611",
+        contains: ["10384591","10265213","10059215","10315699"]
+    },
+    {
+        name: "Swirling Sorbet: Mango ",
+        itemData: "10383609",
+        contains: ["10383743","10319463","10297473","10147311"]
+    },
+    {
+        name: "Cool Date Bundle ",
+        itemData: "10383401",
+        contains: ["10383185","10383641","10383651","10383725"]
+    },
+    {
+        name: "May 2017 Recolor Bundle ",
+        itemData: "10378709",
+        contains: ["10367533","10371483","10374899","10368129"]
+    },
+    {
+        name: "Charming Princess Bundle ",
+        itemData: "10378061",
+        contains: ["10376709","10376695"]
+    },
     // {
     //     name: "",
     //     itemData: "",
