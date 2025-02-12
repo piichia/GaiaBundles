@@ -539,74 +539,74 @@ let RIGbundles = [
         single: "11125380"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Beauty in Bloom Lotus Bundle ",
+        bundleID: "11118216",
+        itemIDs: ["11120502","11120442"],
+        tenPack: "11118204",
+        single: "11118198"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Beauty in Bloom Springtide Bundle ",
+        bundleID: "11118213",
+        itemIDs: ["11122755","11122857"],
+        tenPack: "11118204",
+        single: "11118198"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Fluffy Friends Heavensent Bundle ",
+        bundleID: "11116902",
+        itemIDs: ["11118699"],
+        tenPack: "11116890",
+        single: "11116884"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Fluffy Friends Sprinkled Bundle ",
+        bundleID: "11116899",
+        itemIDs: ["11115825"],
+        tenPack: "11116890",
+        single: "11116884"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Flight or Flight? Iridescent Bundle ",
+        bundleID: "11115132",
+        itemIDs: ["11117220"],
+        tenPack: "11115120",
+        single: "11115114"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Flight or Flight? Flamboyant Bundle ",
+        bundleID: "11115129",
+        itemIDs: ["11116542"],
+        tenPack: "11115120",
+        single: "11115114"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Angelic Treats Pure Bundle ",
+        bundleID: "11111964",
+        itemIDs: ["11112108"],
+        tenPack: "11111952",
+        single: "11111946"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Angelic Treats Wondrous Bundle ",
+        bundleID: "11111961",
+        itemIDs: ["11112147"],
+        tenPack: "11111952",
+        single: "11111946"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Earthly Tethers Immaculate Bundle ",
+        bundleID: "11111232",
+        itemIDs: ["11120010"],
+        tenPack: "11111220",
+        single: "11111214"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Earthly Tethers Abyssal Bundle ",
+        bundleID: "11111229",
+        itemIDs: ["11119641"],
+        tenPack: "11111220",
+        single: "11111214"
     },
     {
         name: "",
