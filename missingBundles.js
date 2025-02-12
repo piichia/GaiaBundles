@@ -8,10 +8,6 @@ let missingList = [
         itemData: "11160396"
     },
     {
-        name: "Zoo? Zoo? Zoomin'! Envious Bundle ",
-        itemData: "11152368"
-    },
-    {
         name: "Booked & Busy II Withered Bundle ",
         itemData: "11146239"
     },
@@ -58,10 +54,6 @@ let missingList = [
     {
         name: "Cheerful Doll Trunk Tip-Top Bundle ",
         itemData: "11087766"
-    },
-    {
-        name: "Very Superstitious Alexandrite Bundle ",
-        itemData: "11066406"
     },
     {
         name: "",
