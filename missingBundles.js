@@ -48,10 +48,6 @@ let missingList = [
         itemData: "11130960"
     },
     {
-        name: "Lunar Revelry Iridescent Bundle ",
-        itemData: "11104674"
-    },
-    {
         name: "Cheerful Doll Trunk Tip-Top Bundle ",
         itemData: "11087766"
     },
@@ -354,6 +350,182 @@ let missingList = [
     {
         name: "Purified Perspectives ",
         itemData: "11140140"
+    },
+    {
+        name: "Looking Sharp! ",
+        itemData: "11134941"
+    },
+    {
+        name: "Craving Candy! ",
+        itemData: "11134935"
+    },
+    {
+        name: "Dazzling Desserts ",
+        itemData: "11119155"
+    },
+    {
+        name: "Boundless Beings ",
+        itemData: "11119149"
+    },
+    {
+        name: "Fluttering Friends ",
+        itemData: "11119143"
+    },
+    {
+        name: "Monthly Legends ",
+        itemData: "11117172"
+    },
+    {
+        name: "21st Fest: Celebration Station ",
+        itemData: "11108400"
+    },
+    {
+        name: "21st Fest: Lucky's Friends ",
+        itemData: "11108397"
+    },
+    {
+        name: "21st Fest: Time After Time ",
+        itemData: "11108394"
+    },
+    {
+        name: "21st Fest: Ever Evolving ",
+        itemData: "11108388"
+    },
+    {
+        name: "Valentine Vibes ",
+        itemData: "11107209"
+    },
+    {
+        name: "Konpeito Crush ",
+        itemData: "11107212"
+    },
+    {
+        name: "Eye Am Yours ",
+        itemData: "11100651"
+    },
+    {
+        name: "Winter Whimsy: Convivial Caps ",
+        itemData: "11092212"
+    },
+    {
+        name: "Winter Whimsy: Shimmering Snow ",
+        itemData: "11092203"
+    },
+    {
+        name: "Winter Whimsy: Peppy Perfection ",
+        itemData: "11092197"
+    },
+    {
+        name: "Winter Whimsy: Seasonal Scares ",
+        itemData: "11092179"
+    },
+    {
+        name: "Winter Whimsy: Celestial Serenity ",
+        itemData: "11092158"
+    },
+    {
+        name: "Winter Whimsy: Sandy Spirits ",
+        itemData: "11092131"
+    },
+    {
+        name: "Dear Despair ",
+        itemData: "11074941"
+    },
+    {
+        name: "Bewitching Backgrounds ",
+        itemData: "11070660"
+    },
+    {
+        name: "Wicked Witches ",
+        itemData: "11070624"
+    },
+    {
+        name: "Beary Stylish ",
+        itemData: "11067270"
+    },
+    {
+        name: "Party with Pajamas ",
+        itemData: "11067267"
+    },
+    {
+        name: "Kingly Courage ",
+        itemData: "11067258"
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
     },
     {
         name: "",

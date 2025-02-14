@@ -18686,128 +18686,128 @@ let bundleList = [
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Looking Sharp! ",
+    //     itemData: "11134941",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Craving Candy! ",
+    //     itemData: "11134935",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Dazzling Desserts ",
+    //     itemData: "11119155",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Boundless Beings ",
+    //     itemData: "11119149",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Fluttering Friends ",
+    //     itemData: "11119143",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-        // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Monthly Legends ",
+    //     itemData: "11117172",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "21st Fest: Celebration Station ",
+    //     itemData: "11108400",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "21st Fest: Lucky's Friends ",
+    //     itemData: "11108397",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "21st Fest: Time After Time ",
+    //     itemData: "11108394",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "21st Fest: Ever Evolving ",
+    //     itemData: "11108388",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Valentine Vibes ",
+    //     itemData: "11107209",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Konpeito Crush ",
+    //     itemData: "11107212",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Eye Am Yours ",
+    //     itemData: "11100651",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Winter Whimsy: Convivial Caps ",
+    //     itemData: "11092212",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Winter Whimsy: Shimmering Snow ",
+    //     itemData: "11092203",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Winter Whimsy: Peppy Perfection ",
+    //     itemData: "11092197",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Winter Whimsy: Seasonal Scares ",
+    //     itemData: "11092179",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Winter Whimsy: Celestial Serenity ",
+    //     itemData: "11092158",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Winter Whimsy: Sandy Spirits ",
+    //     itemData: "11092131",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Dear Despair ",
+    //     itemData: "11074941",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Bewitching Backgrounds ",
+    //     itemData: "11070660",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Wicked Witches ",
+    //     itemData: "11070624",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Beary Stylish ",
+    //     itemData: "11067270",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Party with Pajamas ",
+    //     itemData: "11067267",
+    //     contains: ["","","","","","","","","","","",""]
+    // },
+    // {
+    //     name: "Kingly Courage ",
+    //     itemData: "11067258",
     //     contains: ["","","","","","","","","","","",""]
     // },
     // {
