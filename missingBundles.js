@@ -48,14 +48,6 @@ let missingList = [
         itemData: "11130960"
     },
     {
-        name: "Cheerful Doll Trunk Tip-Top Bundle ",
-        itemData: "11087766"
-    },
-    {
-        name: "Adorable Ahoges ",
-        itemData: "11124339"
-    },
-    {
         name: "Hello Holo ",
         itemData: "11191509"
     },
@@ -138,10 +130,6 @@ let missingList = [
     {
         name: "Jinx!: Ghost Town ",
         itemData: "11174937"
-    },
-    {
-        name: "Jinx!: Demonized ",
-        itemData: "11174922"
     },
     {
         name: "Jinx!: Show Some Respectrum ",
