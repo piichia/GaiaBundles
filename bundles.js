@@ -18288,14 +18288,13 @@ let bundleList = [
     {
         name: "ValenTIME: Heartache ",
         itemData: "11206554",
-        contains: ["10312097","10525460","10957833","10673787","10432527","11000448","11204787"]
-        //"10040719", (astra: teal glowing heart)
+        contains: ["10312097","10525460","10957833","10673787","10432527","10040719","11000448","11204787"]
     },
-    {
-        name: "ValenTIME: Tenderness ",
-        itemData: "11206551",
-        contains: ["10293733","How Quaint","11066637","10674684","10126077","10040687","11104677","11204727"]
-    },
+    // {
+    //     name: "ValenTIME: Tenderness ",
+    //     itemData: "11206551",
+    //     contains: ["10293733","How Quaint","11066637","10674684","10126077","10040687","11104677","11204727"]
+    // },
     {
         name: "ValenTIME: Surrender ",
         itemData: "11206548",
