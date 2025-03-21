@@ -192,16 +192,8 @@ let missingList = [
         itemData: "11166246"
     },
     {
-        name: "Crazy Candycorn ",
-        itemData: "11166243"
-    },
-    {
         name: "Moth Memories ",
         itemData: "11166237"
-    },
-    {
-        name: "Plundering Pirates ",
-        itemData: "11158962"
     },
     {
         name: "Sublime Scarves ",
