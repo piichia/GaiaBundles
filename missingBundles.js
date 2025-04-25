@@ -424,16 +424,16 @@ let missingList = [
         itemData: "11067258"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Teddy Bear Time ",
+        itemData: "11209080"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Dandelion Delights ",
+        itemData: "11223630"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Bright Bunnies ",
+        itemData: "11223624"
     },
     {
         name: "",
