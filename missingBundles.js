@@ -24,16 +24,8 @@ let missingList = [
         itemData: "11140539"
     },
     {
-        name: "City of Sin Eternal Bundle ",
-        itemData: "11137374"
-    },
-    {
         name: "City of Sin Alexandrite Bundle ",
         itemData: "11137377"
-    },
-    {
-        name: "Puff Patrol Berry Bundle ",
-        itemData: "11137929"
     },
     {
         name: "Spring's Splendors II Brilliance Bundle ",
@@ -62,10 +54,6 @@ let missingList = [
     {
         name: "Terrific Transport ",
         itemData: "11191485"
-    },
-    {
-        name: "Latitude Longing ",
-        itemData: "11183208"
     },
     {
         name: "RE:VIBE: Boot-ylicious ",
@@ -360,28 +348,12 @@ let missingList = [
         itemData: "11108394"
     },
     {
-        name: "21st Fest: Ever Evolving ",
-        itemData: "11108388"
-    },
-    {
         name: "Valentine Vibes ",
         itemData: "11107209"
     },
     {
         name: "Konpeito Crush ",
         itemData: "11107212"
-    },
-    {
-        name: "Eye Am Yours ",
-        itemData: "11100651"
-    },
-    {
-        name: "Winter Whimsy: Convivial Caps ",
-        itemData: "11092212"
-    },
-    {
-        name: "Winter Whimsy: Shimmering Snow ",
-        itemData: "11092203"
     },
     {
         name: "Winter Whimsy: Peppy Perfection ",
@@ -394,14 +366,6 @@ let missingList = [
     {
         name: "Winter Whimsy: Celestial Serenity ",
         itemData: "11092158"
-    },
-    {
-        name: "Winter Whimsy: Sandy Spirits ",
-        itemData: "11092131"
-    },
-    {
-        name: "Dear Despair ",
-        itemData: "11074941"
     },
     {
         name: "Bewitching Backgrounds ",
@@ -420,10 +384,6 @@ let missingList = [
         itemData: "11067267"
     },
     {
-        name: "Kingly Courage ",
-        itemData: "11067258"
-    },
-    {
         name: "Teddy Bear Time ",
         itemData: "11209080"
     },
@@ -434,6 +394,202 @@ let missingList = [
     {
         name: "Bright Bunnies ",
         itemData: "11223624"
+    },
+    {
+        name: "Cool Catharsis ",
+        itemData: "11215260"
+    },
+    {
+        name: "Blessed Bubbles",
+        itemData: "11223618"
+    },
+    {
+        name: "Lovely Lilypads ",
+        itemData: "11215251"
+    },
+    {
+        name: "Stormy Weather ",
+        itemData: "11215245"
+    },
+    {
+        name: "Hair Havoc XVI ",
+        itemData: "11202408"
+    },
+    {
+        name: "Wildest Wolves ",
+        itemData: "11209086"
+    },
+    {
+        name: "22nd Soirée: Keeping Time ",
+        itemData: "11207721"
+    },
+    {
+        name: "22nd Soirée: Chilling Out ",
+        itemData: "11207727"
+    },
+    {
+        name: "Charming Cuties ",
+        itemData: "11202402"
+    },
+    {
+        name: "Demonic Desires ",
+        itemData: "11206638"
+    },
+    {
+        name: "Heartbreaker Hijinks ",
+        itemData: "11206644"
+    },
+    {
+        name: "Hallowed Hearts ",
+        itemData: "11206653"
+    },
+    {
+        name: "Serpentine Celebrations: Wing-ding ",
+        itemData: "11200983"
+    },
+    {
+        name: "Serpentine Celebrations: Kaguya Carnival ",
+        itemData: "11200974"
+    },
+    {
+        name: "Serpentine Celebrations: Last Hair-rah ",
+        itemData: "11200986"
+    },
+    {
+        name: "Serpentine Celebrations: Blade Bash ",
+        itemData: "11200971"
+    },
+    {
+        name: "Stocking Up ",
+        itemData: "11191503"
+    },
+    {
+        name: "Winter Magic: Happy Holidays ",
+        itemData: "11192352"
+    },
+    {
+        name: "Winter Magic: Noble Nomina ",
+        itemData: "11192367"
+    },
+    {
+        name: "Winter Magic: Borealis Blessings ",
+        itemData: "11192376"
+    },
+    {
+        name: "Winter Magic: Plastic Party ",
+        itemData: "11192349"
+    },
+    {
+        name: "Winter Magic: Angelic Auras ",
+        itemData: "11192358"
+    },
+    {
+        name: "Potent Potions",
+        itemData: "11183202"
+    },
+    {
+        name: "Winter Magic: Fantastic Feasts ",
+        itemData: "11192355"
+    },
+    {
+        name: "Winter Magic: Fluffy Fashion ",
+        itemData: "11192370"
+    },
+    {
+        name: "Winter Magic: Ossidian Soirée ",
+        itemData: "11192388"
+    },
+    {
+        name: "Winter Magic: Heartwarming Hailstone ",
+        itemData: "11192394"
+    },
+    {
+        name: "Winter Magic: Fairy Festival ",
+        itemData: "11192901"
+    },
+    {
+        name: "Winter Magic: Gossamer Glow ",
+        itemData: "11192382"
+    },
+    {
+        name: "Winter Magic: Ionic Inspiration ",
+        itemData: "11192391"
+    },
+    {
+        name: "Winter Magic: Celebratory Sweaters ",
+        itemData: "11192379"
+    },
+    {
+        name: "Winter Magic: Glorious Gowns ",
+        itemData: "11192361"
+    },
+    {
+        name: "Winter Magic: Festive Furiends ",
+        itemData: "11192373"
+    },
+    {
+        name: "Winter Magic: Butterfly Bliss ",
+        itemData: "11192364"
+    },
+    {
+        name: "One for the Books ",
+        itemData: "11176326"
+    },
+    {
+        name: "Jinx!: Wolf? Where? ",
+        itemData: "11174943"
+    },
+    {
+        name: "Jinx!: Eerily Auspicious ",
+        itemData: "11174955"
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
+    },
+    {
+        name: "",
+        itemData: ""
     },
     {
         name: "",
