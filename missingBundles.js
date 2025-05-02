@@ -396,10 +396,6 @@ let missingList = [
         itemData: "11223624"
     },
     {
-        name: "Cool Catharsis ",
-        itemData: "11215260"
-    },
-    {
         name: "Blessed Bubbles",
         itemData: "11223618"
     },
@@ -544,20 +540,20 @@ let missingList = [
         itemData: "11174955"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Jinx!: Late Knights ",
+        itemData: "11174946"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Jinx!: More like Die-adem ",
+        itemData: "11174952"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Jinx!: Reality Bites ",
+        itemData: "11174958"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Heal Here! ",
+        itemData: "11158974"
     },
     {
         name: "",

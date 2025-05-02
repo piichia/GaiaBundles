@@ -609,24 +609,80 @@ let RIGbundles = [
         single: "11111214"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Shear Madness Euphoric Bundle ",
+        bundleID: "11223561",
+        itemIDs: ["11225025","11224995","11225316"],
+        tenPack: "11223549",
+        single: "11223543"
     },
     {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
+        name: "Shear Madness Ecstatic Bundle ",
+        bundleID: "11223558",
+        itemIDs: ["11224884","11225055","11225346"],
+        tenPack: "11223549",
+        single: "11223543"
     },
-    {
-        name: "",
-        bundleID: "",
-        itemIDs: [""],
-        tenPack: "",
-        single: ""
-    },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
 ]
