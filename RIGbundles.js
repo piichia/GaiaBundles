@@ -706,76 +706,76 @@ let RIGbundles = [
         tenPack: "11212359",
         single: "11212353"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Kick It! Konpeito Bundle ",
+        bundleID: "11211594",
+        itemIDs: ["11210445"],
+        tenPack: "11211582",
+        single: "11211576"
+    },
+    {
+        name: "Kick It! Lofi Bundle ",
+        bundleID: "11211591",
+        itemIDs: ["11211924","11211960"],
+        tenPack: "11211582",
+        single: "11211576"
+    },
+    {
+        name: "A New Leaf Beloved Bundle ",
+        bundleID: "11208729",
+        itemIDs: ["11205309"],
+        tenPack: "11208717",
+        single: "11208711"
+    },
+    {
+        name: "A New Leaf Pure Bundle ",
+        bundleID: "11208726",
+        itemIDs: ["11209962"],
+        tenPack: "11208717",
+        single: "11208711"
+    },
+    {
+        name: "A Long Story Express Bundle ",
+        bundleID: "11206737",
+        itemIDs: ["11208423"],
+        tenPack: "11206725",
+        single: "11206716"
+    },
+    {
+        name: "A Long Story Catharsis Bundle ",
+        bundleID: "11206734",
+        itemIDs: ["11207628","11207664"],
+        tenPack: "11206725",
+        single: "11206716"
+    },
+    {
+        name: "Date with Destiny Jellybean Bundle ",
+        bundleID: "11204721",
+        itemIDs: ["11203722"],
+        tenPack: "11204709",
+        single: "11204703"
+    },
+    {
+        name: "Date with Destiny Iridescent Bundle ",
+        bundleID: "11204718",
+        itemIDs: ["11204970"],
+        tenPack: "11204709",
+        single: "11204703"
+    },
+    {
+        name: "Extra Extra Abyssal Bundle ",
+        bundleID: "11203833",
+        itemIDs: ["11202480"],
+        tenPack: "11203821",
+        single: "11203815"
+    },
+    {
+        name: "Extra Extra Kaguya Bundle ",
+        bundleID: "11203830",
+        itemIDs: ["11204526"],
+        tenPack: "11203821",
+        single: "11203815"
+    },
     // {
     //     name: "",
     //     bundleID: "",
