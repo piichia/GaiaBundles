@@ -762,20 +762,6 @@ let RIGbundles = [
         tenPack: "11204709",
         single: "11204703"
     },
-    {
-        name: "Extra Extra Abyssal Bundle ",
-        bundleID: "11203833",
-        itemIDs: ["11202480"],
-        tenPack: "11203821",
-        single: "11203815"
-    },
-    {
-        name: "Extra Extra Kaguya Bundle ",
-        bundleID: "11203830",
-        itemIDs: ["11204526"],
-        tenPack: "11203821",
-        single: "11203815"
-    },
     // {
     //     name: "",
     //     bundleID: "",
