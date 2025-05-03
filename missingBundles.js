@@ -196,10 +196,6 @@ let missingList = [
         itemData: "11149950"
     },
     {
-        name: "Dashing Dogs ",
-        itemData: "11149944"
-    },
-    {
         name: "Umbral Understanding ",
         itemData: "11143932"
     },
