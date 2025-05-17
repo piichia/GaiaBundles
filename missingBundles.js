@@ -8,14 +8,6 @@ let missingList = [
         itemData: "11160396"
     },
     {
-        name: "Booked & Busy II Withered Bundle ",
-        itemData: "11146239"
-    },
-    {
-        name: "Cottage Fever Iridescent Bundle ",
-        itemData: "11146122"
-    },
-    {
         name: "Noble Intentions Wondrous Bundle ",
         itemData: "11140536"
     },
@@ -26,10 +18,6 @@ let missingList = [
     {
         name: "City of Sin Alexandrite Bundle ",
         itemData: "11137377"
-    },
-    {
-        name: "Spring's Splendors II Brilliance Bundle ",
-        itemData: "11134842"
     },
     {
         name: "Spring's Splendors II Idyllic Bundle ",
@@ -184,10 +172,6 @@ let missingList = [
         itemData: "11158947"
     },
     {
-        name: "Otherworld Overlings ",
-        itemData: "11149959"
-    },
-    {
         name: "Happy Bearthday! ",
         itemData: "11149953"
     },
@@ -300,10 +284,6 @@ let missingList = [
         itemData: "11140158"
     },
     {
-        name: "Luminous Lazuli ",
-        itemData: "11140152"
-    },
-    {
         name: "Purified Perspectives ",
         itemData: "11140140"
     },
@@ -334,10 +314,6 @@ let missingList = [
     {
         name: "21st Fest: Celebration Station ",
         itemData: "11108400"
-    },
-    {
-        name: "21st Fest: Lucky's Friends ",
-        itemData: "11108397"
     },
     {
         name: "21st Fest: Time After Time ",
