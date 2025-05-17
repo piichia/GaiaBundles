@@ -763,40 +763,40 @@ let RIGbundles = [
         single: "11204703"
     },
     // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
+    //     name: "Hello, World! Interstellar Bundle ",
+    //     bundleID: "11227563",
+    //     itemIDs: ["11229123","11229183"],
     //     tenPack: "",
     //     single: ""
     // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Fantastique Heavenly Bundle ",
+        bundleID: "11226987",
+        itemIDs: ["11228940"],
+        tenPack: "11226975",
+        single: "11226969"
+    },
+    {
+        name: "Fantastique Gateau Bundle ",
+        bundleID: "11226984",
+        itemIDs: ["11228514"],
+        tenPack: "11226975",
+        single: "11226969"
+    },
+    {
+        name: "Dressed to Kill Plastic Bundle ",
+        bundleID: "11226099",
+        itemIDs: ["11226879","11226933"],
+        tenPack: "11226087",
+        single: "11226081"
+    },
+    {
+        name: "Dressed to Kill Coarse Bundle ",
+        bundleID: "11226096",
+        itemIDs: ["11225811"],
+        tenPack: "11226087",
+        single: "11226081"
+    },
     // {
     //     name: "",
     //     bundleID: "",
