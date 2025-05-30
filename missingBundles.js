@@ -164,20 +164,12 @@ let missingList = [
         itemData: "11166246"
     },
     {
-        name: "Moth Memories ",
-        itemData: "11166237"
-    },
-    {
         name: "Sublime Scarves ",
         itemData: "11158947"
     },
     {
         name: "Happy Bearthday! ",
         itemData: "11149953"
-    },
-    {
-        name: "Legendary Leaves ",
-        itemData: "11149950"
     },
     {
         name: "Umbral Understanding ",
@@ -194,14 +186,6 @@ let missingList = [
     {
         name: "Blessed Blackout ",
         itemData: "11143914"
-    },
-    {
-        name: "Scary Summer ",
-        itemData: "11143845"
-    },
-    {
-        name: "Cute Creatures ",
-        itemData: "11143851"
     },
     {
         name: "Insect Insights ",
@@ -298,10 +282,6 @@ let missingList = [
     {
         name: "Dazzling Desserts ",
         itemData: "11119155"
-    },
-    {
-        name: "Boundless Beings ",
-        itemData: "11119149"
     },
     {
         name: "Fluttering Friends ",
