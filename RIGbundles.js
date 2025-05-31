@@ -937,118 +937,118 @@ let RIGbundles = [
     //     tenPack: "11234427",
     //     single: "11234421"
     // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "The Eternal Debate Foggy Bundle ",
+        bundleID: "10959684",
+        itemIDs: ["10966497"],
+        tenPack: "10959672",
+        single: "10959666"
+    },
+    {
+        name: "The Eternal Debate Wondrous Bundle ",
+        bundleID: "10959681",
+        itemIDs: ["10960554"],
+        tenPack: "10959672",
+        single: "10959666"
+    },
+    {
+        name: "Freak Friday Wondrous Bundle ",
+        bundleID: "10958214",
+        itemIDs: ["10959351","10959408"],
+        tenPack: "10958202",
+        single: "10958196"
+    },
+    {
+        name: "Freak Friday Alexandrite Bundle ",
+        bundleID: "10958211",
+        itemIDs: ["10958247"],
+        tenPack: "10958202",
+        single: "10958196"
+    },
+    {
+        name: "Free For Fall II Withered Bundle ",
+        bundleID: "10957548",
+        itemIDs: ["10958442"],
+        tenPack: "10957536",
+        single: "10957530"
+    },
+    {
+        name: "Free For Fall II Mossy Bundle ",
+        bundleID: "10957545",
+        itemIDs: ["10959954"],
+        tenPack: "10957536",
+        single: "10957530"
+    },
+    {
+        name: "Angelic Assemblage Accessory Bundle ",
+        bundleID: "10954668",
+        itemIDs: ["10954080","10954551","10954620"],
+        tenPack: "10954656",
+        single: "10954650"
+    },
+    {
+        name: "Angelic Assemblage Hair Bundle ",
+        bundleID: "10954665",
+        itemIDs: ["10954050","10954713"],
+        tenPack: "10954656",
+        single: "10954650"
+    },
+    {
+        name: "Forest Finds Auspicious Bundle ",
+        bundleID: "10954608",
+        itemIDs: ["10953624"],
+        tenPack: "10954596",
+        single: "10954590"
+    },
+    {
+        name: "Forest Finds Partying Bundle ",
+        bundleID: "10954605",
+        itemIDs: ["10953267"],
+        tenPack: "10954596",
+        single: "10954590"
+    },
+    {
+        name: "Super Summer Sendoff! Lyra Bundle ",
+        bundleID: "10951860",
+        itemIDs: ["10951659"],
+        tenPack: "10951848",
+        single: "10951842"
+    },
+    {
+        name: "Super Summer Sendoff! Undersea Bundle ",
+        bundleID: "10951857",
+        itemIDs: ["10951776"],
+        tenPack: "10951848",
+        single: "10951842"
+    },
+    {
+        name: "Royal Recruits II Heirloom Bundle ",
+        bundleID: "10943124",
+        itemIDs: ["10940889"],
+        tenPack: "10943112",
+        single: "10943106"
+    },
+    {
+        name: "Royal Recruits II Fortunate Bundle ",
+        bundleID: "10943121",
+        itemIDs: ["10940814"],
+        tenPack: "10943112",
+        single: "10943106"
+    },
+    {
+        name: "Heartwarming Wonders Candied Bundle ",
+        bundleID: "11087370",
+        itemIDs: ["11087448"],
+        tenPack: "11087358",
+        single: "11087352"
+    },
+    {
+        name: "Heartwarming Wonders Classic Bundle ",
+        bundleID: "11087367",
+        itemIDs: ["11087700"],
+        tenPack: "11087358",
+        single: "11087352"
+    },
     // {
     //     name: "",
     //     bundleID: "",
