@@ -2239,76 +2239,76 @@ let RIGbundles = [
         tenPack: "10816194",
         single: "10816188"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Furever Cozy Inquisitive Bundle ",
+        bundleID: "10851792",
+        itemIDs: ["10853073"],
+        tenPack: "10851759",
+        single: "10851753"
+    },
+    {
+        name: "Furever Cozy Withered Bundle ",
+        bundleID: "10851774",
+        itemIDs: ["10852578"],
+        tenPack: "10851759",
+        single: "10851753"
+    },
+    {
+        name: "Sakura Festival II Glorious Bundle ",
+        bundleID: "10807380",
+        itemIDs: ["10810032"],
+        tenPack: "10807368",
+        single: "10807362"
+    },
+    {
+        name: "Sakura Festival II Heavensent Bundle ",
+        bundleID: "10807377",
+        itemIDs: ["10809261"],
+        tenPack: "10807368",
+        single: "10807362"
+    },
+    {
+        name: "Elemental Blowout Coy Bundle ",
+        bundleID: "10810278",
+        itemIDs: ["10811844"],
+        tenPack: "10810266",
+        single: "10810260"
+    },
+    {
+        name: "Elemental Blowout Aggressive Bundle ",
+        bundleID: "10810275",
+        itemIDs: ["10810479"],
+        tenPack: "10810266",
+        single: "10810260"
+    },
+    {
+        name: "Angelic Attendees Victorian Bundle ",
+        bundleID: "10812345",
+        itemIDs: ["10814319"],
+        tenPack: "10812333",
+        single: "10812327"
+    },
+    {
+        name: "Angelic Attendees Studious Bundle ",
+        bundleID: "10812342",
+        itemIDs: ["10811907"],
+        tenPack: "10812333",
+        single: "10812327"
+    },
+    {
+        name: "Beastly Brawl Divine Bundle ",
+        bundleID: "10806837",
+        itemIDs: ["10807146"],
+        tenPack: "10806819",
+        single: "10806813"
+    },
+    {
+        name: "Beastly Brawl Rainy Bundle ",
+        bundleID: "10806831",
+        itemIDs: ["10807467"],
+        tenPack: "10806819",
+        single: "10806813"
+    },
     // {
     //     name: "",
     //     bundleID: "",
