@@ -88,10 +88,6 @@ let missingList = [
         itemData: "11176305"
     },
     {
-        name: "Constant Companions ",
-        itemData: "11176299"
-    },
-    {
         name: "Jinx!: Alexandrite Apparitions ",
         itemData: "11174934"
     },
@@ -524,16 +520,16 @@ let missingList = [
         itemData: "11233872"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Spritely Spring: Faraway Flowers ",
+        itemData: "11233899"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Mischievous Maids ",
+        itemData: "11215263"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Reptile Regulars ",
+        itemData: "11215236"
     },
     {
         name: "",
