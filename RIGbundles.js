@@ -762,13 +762,13 @@ let RIGbundles = [
         tenPack: "11204709",
         single: "11204703"
     },
-    // {
-    //     name: "Hello, World! Interstellar Bundle ",
-    //     bundleID: "11227563",
-    //     itemIDs: ["11229123","11229183"],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Hello, World! Interstellar Bundle ",
+        bundleID: "11227563",
+        itemIDs: ["11229123","11229183"],
+        tenPack: "11227554",
+        single: "11227548"
+    },
     {
         name: "Fantastique Heavenly Bundle ",
         bundleID: "11226987",
@@ -797,27 +797,27 @@ let RIGbundles = [
         tenPack: "11226087",
         single: "11226081"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Great & Small Lapin Bundle ",
+        bundleID: "11228325",
+        itemIDs: ["11225085","11225145"],
+        tenPack: "11228313",
+        single: "11228307"
+    },
+    {
+        name: "Great & Small Sleepy Bundle ",
+        bundleID: "11228322",
+        itemIDs: ["11229273"],
+        tenPack: "11228313",
+        single: "11228307"
+    },
+    {
+        name: "Hello, World! Pure Bundle ",
+        bundleID: "11227566",
+        itemIDs: ["11229444"],
+        tenPack: "11227554",
+        single: "11227548"
+    },
     // {
     //     name: "",
     //     bundleID: "",
