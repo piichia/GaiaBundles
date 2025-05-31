@@ -452,10 +452,6 @@ let missingList = [
         itemData: "11192901"
     },
     {
-        name: "Winter Magic: Gossamer Glow ",
-        itemData: "11192382"
-    },
-    {
         name: "Winter Magic: Ionic Inspiration ",
         itemData: "11192391"
     },

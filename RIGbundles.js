@@ -1091,111 +1091,111 @@ let RIGbundles = [
         tenPack: "11078538",
         single: "11078532"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Familiar Entities Enigmatic Bundle ",
+        bundleID: "10973256",
+        itemIDs: ["10976367","10977465","10976913"],
+        tenPack: "10973241",
+        single: "10973235"
+    },
+    {
+        name: "Familiar Entities Spirited Bundle ",
+        bundleID: "10973253",
+        itemIDs: ["10976769","10977435","10977177"],
+        tenPack: "10973241",
+        single: "10973235"
+    },
+    {
+        name: "Familiar Entities Fanciful Bundle ",
+        bundleID: "10973250",
+        itemIDs: ["10976739","10976397","10976799"],
+        tenPack: "10973241",
+        single: "10973235"
+    },
+    {
+        name: "Time's Ticking! Cosmic Bundle ",
+        bundleID: "10971972",
+        itemIDs: ["10972386"],
+        tenPack: "10971960",
+        single: "10971954"
+    },
+    {
+        name: "Time's Ticking! Sadodere Bundle ",
+        bundleID: "10971969",
+        itemIDs: ["10974885"],
+        tenPack: "10971960",
+        single: "10971954"
+    },
+    {
+        name: "Hobby Hall Luminescent Bundle ",
+        bundleID: "10970409",
+        itemIDs: ["10973466"],
+        tenPack: "10970397",
+        single: "10970391"
+    },
+    {
+        name: "Hobby Hall Iridescent Bundle ",
+        bundleID: "10970406",
+        itemIDs: ["10971114"],
+        tenPack: "10970397",
+        single: "10970391"
+    },
+    {
+        name: "The Falling Forest Fiery Bundle ",
+        bundleID: "10969647",
+        itemIDs: ["10970505"],
+        tenPack: "10969635",
+        single: "10969629"
+    },
+    {
+        name: "The Falling Forest Aggressive Bundle ",
+        bundleID: "10969644",
+        itemIDs: ["10969902"],
+        tenPack: "10969635",
+        single: "10969629"
+    },
+    {
+        name: "Spooky Doll Trunk II Ivy Bundle ",
+        bundleID: "10959951",
+        itemIDs: ["10967466","10962540","10967526"],
+        tenPack: "10959939",
+        single: "10959933"
+    },
+    {
+        name: "Spooky Doll Trunk II Bones Bundle ",
+        bundleID: "10959948",
+        itemIDs: ["10966611","10966581","10966791"],
+        tenPack: "10959939",
+        single: "10959933"
+    },
+    {
+        name: "Demonic Compilation Accessory Bundle ",
+        bundleID: "10959228",
+        itemIDs: ["10964277","10964376","10965021","10965060"],
+        tenPack: "10959216",
+        single: "10959210"
+    },
+    {
+        name: "Demonic Compilation Hair Bundle ",
+        bundleID: "10959225",
+        itemIDs: ["10964247","10964346"],
+        tenPack: "10959216",
+        single: "10959210"
+    },
+    {
+        name: "Skeletal Surprises Silken Bundle ",
+        bundleID: "10958322",
+        itemIDs: ["10958685"],
+        tenPack: "10958310",
+        single: "10958304"
+    },
+    {
+        name: "Skeletal Surprises Sweet Bundle ",
+        bundleID: "10958319",
+        itemIDs: ["10962219"],
+        tenPack: "10958310",
+        single: "10958304"
+    },
     // {
     //     name: "",
     //     bundleID: "",
