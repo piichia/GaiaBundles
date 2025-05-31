@@ -1987,69 +1987,258 @@ let RIGbundles = [
         tenPack: "10844007",
         single: "10844001"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Midsummer Convention Interstellar Bundle ",
+        bundleID: "10937217",
+        itemIDs: ["10936638"],
+        tenPack: "10937205",
+        single: "10937199"
+    },
+    {
+        name: "Midsummer Convention Familiar Bundle ",
+        bundleID: "10937214",
+        itemIDs: ["10938336"],
+        tenPack: "10937205",
+        single: "10937199"
+    },
+    {
+        name: "Flutter Friends II Accessory Bundle ",
+        bundleID: "10937463",
+        itemIDs: ["10941258","10942800","10945470"],
+        tenPack: "10937451",
+        single: "10937445"
+    },
+    {
+        name: "Flutter Friends II Hair Bundle ",
+        bundleID: "10937460",
+        itemIDs: ["10943874","10943958"],
+        tenPack: "10937451",
+        single: "10937445"
+    },
+    {
+        name: "Clashing Concerts Opalescent Bundle ",
+        bundleID: "10839930",
+        itemIDs: ["10840845"],
+        tenPack: "10839918",
+        single: "10839912"
+    },
+    {
+        name: "Clashing Concerts Quacking Bundle ",
+        bundleID: "10839927",
+        itemIDs: ["10840641"],
+        tenPack: "10839918",
+        single: "10839912"
+    },
+    {
+        name: "Summer Studies Lost Bundle ",
+        bundleID: "10839087",
+        itemIDs: ["10838640"],
+        tenPack: "10839075",
+        single: "10839069"
+    },
+    {
+        name: "Summer Studies Victorian Bundle ",
+        bundleID: "10839084",
+        itemIDs: ["10838022"],
+        tenPack: "10839075",
+        single: "10839069"
+    },
+    {
+        name: "Company Bake Sale Dreamy Bundle ",
+        bundleID: "10837674",
+        itemIDs: ["10838949"],
+        tenPack: "10837662",
+        single: "10837656"
+    },
+    {
+        name: "Company Bake Sale Fruity Bundle ",
+        bundleID: "10837671",
+        itemIDs: ["10837602"],
+        tenPack: "10837662",
+        single: "10837656"
+    },
+    {
+        name: "Festival of Wishes Shining Bundle ",
+        bundleID: "10834110",
+        itemIDs: ["10835232"],
+        tenPack: "10834092",
+        single: "10834071"
+    },
+    {
+        name: "Festival of Wishes Sadistic Bundle ",
+        bundleID: "10834107",
+        itemIDs: ["10834896"],
+        tenPack: "10834092",
+        single: "10834071"
+    },
+    {
+        name: "Festival of Wishes Soft Bundle ",
+        bundleID: "10834104",
+        itemIDs: ["10834320"],
+        tenPack: "10834092",
+        single: "10834071"
+    },
+    {
+        name: "Festival of Wishes Honeysuckle Bundle ",
+        bundleID: "10834101",
+        itemIDs: ["10834572"],
+        tenPack: "10834092",
+        single: "10834071"
+    },
+    {
+        name: "Festival of Wishes Opulent Bundle ",
+        bundleID: "10834098",
+        itemIDs: ["10833249"],
+        tenPack: "10834092",
+        single: "10834071"
+    },
+    {
+        name: "Klub Kitten Deep Bundle ",
+        bundleID: "10827282",
+        itemIDs: ["10831668"],
+        tenPack: "10827270",
+        single: "10827264"
+    },
+    {
+        name: "Klub Kitten Fortunate Bundle ",
+        bundleID: "10827279",
+        itemIDs: ["10831002"],
+        tenPack: "10827270",
+        single: "10827264"
+    },
+    {
+        name: "Stolen Styles III Innocence Bundle ",
+        bundleID: "10826442",
+        itemIDs: ["10834425","10834395"],
+        tenPack: "10826427",
+        single: "10826421"
+    },
+    {
+        name: "Stolen Styles III Irreverence Bundle ",
+        bundleID: "10826439",
+        itemIDs: ["10834125","10834155"],
+        tenPack: "10826427",
+        single: "10826421"
+    },
+    {
+        name: "Stolen Styles III Influence Bundle ",
+        bundleID: "10826436",
+        itemIDs: ["10833789","10833759"],
+        tenPack: "10826427",
+        single: "10826421"
+    },
+    {
+        name: "Tight Tats Vain Bundle ",
+        bundleID: "10826382",
+        itemIDs: ["10830792"],
+        tenPack: "10826370",
+        single: "10826364"
+    },
+    {
+        name: "Tight Tats Bloodshed Bundle ",
+        bundleID: "10826379",
+        itemIDs: ["10828383"],
+        tenPack: "10826370",
+        single: "10826364"
+    },
+    {
+        name: "August Alliances Delicate Bundle ",
+        bundleID: "10826118",
+        itemIDs: ["10827729"],
+        tenPack: "10826106",
+        single: "10826100"
+    },
+    {
+        name: "August Alliances Seaside Bundle ",
+        bundleID: "10826115",
+        itemIDs: ["10828128"],
+        tenPack: "10826106",
+        single: "10826100"
+    },
+    {
+        name: "Nephilim Necessities Beneficent Bundle ",
+        bundleID: "10821240",
+        itemIDs: ["10825023","10825053","10825968"],
+        tenPack: "10821225",
+        single: "10821219"
+    },
+    {
+        name: "Nephilim Necessities Adornment Bundle ",
+        bundleID: "10821237",
+        itemIDs: ["10823838","10824783","10824723"],
+        tenPack: "10821225",
+        single: "10821219"
+    },
+    {
+        name: "Nephilim Necessities Timeworn Bundle ",
+        bundleID: "10821234",
+        itemIDs: ["10823808","10824813","10824753"],
+        tenPack: "10821225",
+        single: "10821219"
+    },
+    {
+        name: "Pest Control Classic Bundle ",
+        bundleID: "10818879",
+        itemIDs: ["10825881"],
+        tenPack: "10818867",
+        single: "10818861"
+    },
+    {
+        name: "Pest Control Cerisier Bundle ",
+        bundleID: "10818876",
+        itemIDs: ["10823325"],
+        tenPack: "10818867",
+        single: "10818861"
+    },
+    {
+        name: "Beach Party Honeysuckle Bundle ",
+        bundleID: "10818288",
+        itemIDs: ["10822017"],
+        tenPack: "10818276",
+        single: "10818270"
+    },
+    {
+        name: "Beach Party Fortunate Bundle ",
+        bundleID: "10818285",
+        itemIDs: ["10820226"],
+        tenPack: "10818276",
+        single: "10818270"
+    },
+    {
+        name: "Sweetly Snacking Iridescent Bundle ",
+        bundleID: "10817787",
+        itemIDs: ["10819443"],
+        tenPack: "10817775",
+        single: "10817769"
+    },
+    {
+        name: "Sweetly Snacking Sailing Bundle ",
+        bundleID: "10817784",
+        itemIDs: ["10819233"],
+        tenPack: "10817775",
+        single: "10817769"
+    },
+    {
+        name: "Stolen Styles II Lustrous Crabby Bundle ",
+        bundleID: "10816209",
+        itemIDs: ["10817040","10817070"],
+        tenPack: "10816194",
+        single: "10816188"
+    },
+    {
+        name: "Stolen Styles II Lovely Celestial Bundle ",
+        bundleID: "10816206",
+        itemIDs: ["10816347","10816284"],
+        tenPack: "10816194",
+        single: "10816188"
+    },
+    {
+        name: "Stolen Styles II Completely Bright Bundle ",
+        bundleID: "10816203",
+        itemIDs: ["10816317","10816254"],
+        tenPack: "10816194",
+        single: "10816188"
+    },
     // {
     //     name: "",
     //     bundleID: "",
