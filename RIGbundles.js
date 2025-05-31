@@ -1049,6 +1049,146 @@ let RIGbundles = [
         tenPack: "11087358",
         single: "11087352"
     },
+    {
+        name: "Tripled Treats Throuple Magic Bundle ",
+        bundleID: "10950279",
+        itemIDs: ["10950084","10949922"],
+        tenPack: "10950267",
+        single: "10950261"
+    },
+    {
+        name: "Tripled Treats Throuple Fierce Bundle ",
+        bundleID: "10950276",
+        itemIDs: ["10948692","10948743"],
+        tenPack: "10950267",
+        single: "10950261"
+    },
+    {
+        name: "Seasoned Confections Elusive Bundle ",
+        bundleID: "10948458",
+        itemIDs: ["10945782"],
+        tenPack: "10948446",
+        single: "10948440"
+    },
+    {
+        name: "Seasoned Confections Sleepy Bundle ",
+        bundleID: "10948455",
+        itemIDs: ["10946775"],
+        tenPack: "10948446",
+        single: "10948440"
+    },
+    {
+        name: "Personas LIVE! Shrouded Bundle ",
+        bundleID: "11078550",
+        itemIDs: ["11081616"],
+        tenPack: "11078538",
+        single: "11078532"
+    },
+    {
+        name: "Personas LIVE! Sprinkles Bundle ",
+        bundleID: "11078547",
+        itemIDs: ["11083764"],
+        tenPack: "11078538",
+        single: "11078532"
+    },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
     // {
     //     name: "",
     //     bundleID: "",
