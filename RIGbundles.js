@@ -1539,20 +1539,20 @@ let RIGbundles = [
         tenPack: "10889292",
         single: "10889286"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Bootlegger's Brigade Royal Bundle ",
+        bundleID: "10882251",
+        itemIDs: ["10887216"],
+        tenPack: "10882239",
+        single: "10882233"
+    },
+    {
+        name: "Bootlegger's Brigade Bashful Bundle ",
+        bundleID: "10882248",
+        itemIDs: ["10887567"],
+        tenPack: "10882239",
+        single: "10882233"
+    },
     // {
     //     name: "",
     //     bundleID: "",
