@@ -1553,83 +1553,83 @@ let RIGbundles = [
         tenPack: "10882239",
         single: "10882233"
     },
+    {
+        name: "The Great Cataclysm Lyrical Bundle ",
+        bundleID: "10881807",
+        itemIDs: ["10880892"],
+        tenPack: "10881795",
+        single: "10881789"
+    },
+    {
+        name: "The Great Cataclysm Reserved Bundle ",
+        bundleID: "10881804",
+        itemIDs: ["10884252"],
+        tenPack: "10881795",
+        single: "10881789"
+    },
     // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
+    //     name: "Tower of Hades Ancient Bundle ",
+    //     bundleID: "10880544",
+    //     itemIDs: ["10879989"],
     //     tenPack: "",
     //     single: ""
     // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Lovers Doll Trunk Blossoms Bundle ",
+        bundleID: "10879734",
+        itemIDs: ["10880436","10880496","10884543"],
+        tenPack: "10879722",
+        single: "10879716"
+    },
+    {
+        name: "Lovers Doll Trunk Cupid Bundle ",
+        bundleID: "10879731",
+        itemIDs: ["10882443","10882473","10883241"],
+        tenPack: "10879722",
+        single: "10879716"
+    },
+    {
+        name: "Zoo? Zoo? Zoom! Proud Bundle ",
+        bundleID: "10935561",
+        itemIDs: ["10933839"],
+        tenPack: "10935549",
+        single: "10935543"
+    },
+    {
+        name: "Zoo? Zoo? Zoom! Holo Bundle ",
+        bundleID: "10935558",
+        itemIDs: ["10934697"],
+        tenPack: "10935549",
+        single: "10935543"
+    },
+    {
+        name: "Flutter Friends Accessory Bundle ",
+        bundleID: "10933572",
+        itemIDs: ["10933434","10933524","10933587"],
+        tenPack: "10933560",
+        single: "10933554"
+    },
+    {
+        name: "Flutter Friends Hair Bundle ",
+        bundleID: "10933569",
+        itemIDs: ["10933464","10933494"],
+        tenPack: "10933560",
+        single: "10933554"
+    },
+    {
+        name: "Summer Splash Time Memorable Bundle ",
+        bundleID: "10936713",
+        itemIDs: ["10936047"],
+        tenPack: "10936701",
+        single: "10936695"
+    },
+    {
+        name: "Summer Splash Time Passionate Bundle ",
+        bundleID: "10936710",
+        itemIDs: ["10935993"],
+        tenPack: "10936701",
+        single: "10936695"
+    },
     // {
     //     name: "",
     //     bundleID: "",
