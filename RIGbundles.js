@@ -818,124 +818,124 @@ let RIGbundles = [
         tenPack: "11227554",
         single: "11227548"
     },
+    {
+        name: "Lunar Revelry Iridescent Bundle ",
+        bundleID: "11104674",
+        itemIDs: ["11103951"],
+        tenPack: "11104662",
+        single: "11104587"
+    },
+    {
+        name: "Lunar Revelry Sprinkles Bundle ",
+        bundleID: "11104671",
+        itemIDs: ["11105370","11105244"],
+        tenPack: "11104662",
+        single: "11104587"
+    },
+    {
+        name: "All Tressed Up Serene Bundle ",
+        bundleID: "11099928",
+        itemIDs: ["11100510","11102130"],
+        tenPack: "11099913",
+        single: "11099907"
+    },
+    {
+        name: "All Tressed Up Ornate Bundle ",
+        bundleID: "11099925",
+        itemIDs: ["11100732","11102028"],
+        tenPack: "11099913",
+        single: "11099907"
+    },
+    {
+        name: "All Tressed Up Tails Bundle ",
+        bundleID: "11099922",
+        itemIDs: ["11099190","11099160"],
+        tenPack: "11099913",
+        single: "11099907"
+    },
+    {
+        name: "Grace & Grandeur Flamboyant Bundle ",
+        bundleID: "11099568",
+        itemIDs: ["11099832"],
+        tenPack: "11099556",
+        single: "11099550"
+    },
+    {
+        name: "Grace & Grandeur Carousel Bundle ",
+        bundleID: "11099565",
+        itemIDs: ["11096718"],
+        tenPack: "11099556",
+        single: "11099550"
+    },
+    {
+        name: "The Year's Over (Again!) Sleepy Bundle ",
+        bundleID: "11088120",
+        itemIDs: ["11088552","11088588"],
+        tenPack: "11088108",
+        single: "11088102"
+    },
+    {
+        name: "The Year's Over (Again!) Pure Bundle ",
+        bundleID: "11088117",
+        itemIDs: ["11093949","11093892"],
+        tenPack: "11088108",
+        single: "11088102"
+    },
+    {
+        name: "Immortal Elegance Iridescent Bundle ",
+        bundleID: "11089146",
+        itemIDs: ["11088477"],
+        tenPack: "11089134",
+        single: "11089128"
+    },
+    {
+        name: "Immortal Elegance Sleepy Bundle ",
+        bundleID: "11089143",
+        itemIDs: ["11089281"],
+        tenPack: "11089134",
+        single: "11089128"
+    },
+    {
+        name: "Dragon's Den Soft Bundle ",
+        bundleID: "11095758",
+        itemIDs: ["11094855"],
+        tenPack: "11078022",
+        single: "11078019"
+    },
+    {
+        name: "Dragon's Den Auspicious Bundle ",
+        bundleID: "11095755",
+        itemIDs: ["11094891"],
+        tenPack: "11078022",
+        single: "11078019"
+    },
+    {
+        name: "In the Stars Iridescent Bundle ",
+        bundleID: "11096913",
+        itemIDs: ["11098449"],
+        tenPack: "11096901",
+        single: "11096895"
+    },
+    {
+        name: "In the Stars Sandy Bundle ",
+        bundleID: "11096910",
+        itemIDs: ["11096433"],
+        tenPack: "11096901",
+        single: "11096895"
+    },
+    {
+        name: "Motifs Jellybean Bundle ",
+        bundleID: "11234436",
+        itemIDs: ["11232903"],
+        tenPack: "11234427",
+        single: "11234421"
+    },
     // {
     //     name: "",
     //     bundleID: "",
     //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
+    //     tenPack: "11234427",
+    //     single: "11234421"
     // },
     // {
     //     name: "",
