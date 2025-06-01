@@ -3597,202 +3597,202 @@ let RIGbundles = [
         tenPack: "10694514",
         single: "10694508"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Homegrown Cuts Soft Bundle ",
+        bundleID: "10688865",
+        itemIDs: ["10704351","10704327"],
+        tenPack: "10688850",
+        single: "10688844"
+    },
+    {
+        name: "Homegrown Cuts Lazy Bundle ",
+        bundleID: "10688862",
+        itemIDs: ["10703310","10704303"],
+        tenPack: "10688850",
+        single: "10688844"
+    },
+    {
+        name: "Homegrown Cuts Snippy Bundle ",
+        bundleID: "10688859",
+        itemIDs: ["10703115","10703139"],
+        tenPack: "10688850",
+        single: "10688844"
+    },
+    {
+        name: "Overstocked Rosy Bundle ",
+        bundleID: "10688487",
+        itemIDs: ["10693377"],
+        tenPack: "10688475",
+        single: "10688469"
+    },
+    {
+        name: "Overstocked Spring Bundle ",
+        bundleID: "10688484",
+        itemIDs: ["10693200"],
+        tenPack: "10688475",
+        single: "10688469"
+    },
+    {
+        name: "Hide and Hop Bubbly Bundle ",
+        bundleID: "10687944",
+        itemIDs: ["10691259"],
+        tenPack: "10687932",
+        single: "10687926"
+    },
+    {
+        name: "Hide and Hop Duckling Bundle ",
+        bundleID: "10687941",
+        itemIDs: ["10690938"],
+        tenPack: "10687932",
+        single: "10687926"
+    },
+    {
+        name: "Sakura Festival Rosy Bundle ",
+        bundleID: "10687539",
+        itemIDs: ["10688748"],
+        tenPack: "10687527",
+        single: "10687521"
+    },
+    {
+        name: "Sakura Festival Dandy Bundle ",
+        bundleID: "10687536",
+        itemIDs: ["10689753"],
+        tenPack: "10687527",
+        single: "10687521"
+    },
+    {
+        name: "Spring Snippings II Lush Bundle ",
+        bundleID: "10684059",
+        itemIDs: ["10688265","10688883"],
+        tenPack: "10684044",
+        single: "10684038"
+    },
+    {
+        name: "Spring Snippings II Elegant Bundle ",
+        bundleID: "10684056",
+        itemIDs: ["10688424","10688400"],
+        tenPack: "10684044",
+        single: "10684038"
+    },
+    {
+        name: "Spring Snippings II Cheerful Bundle ",
+        bundleID: "10684053",
+        itemIDs: ["10688376","10688352"],
+        tenPack: "10684044",
+        single: "10684038"
+    },
+    {
+        name: "Mogician's Spoils Holographic Bundle ",
+        bundleID: "10678926",
+        itemIDs: ["10686729"],
+        tenPack: "10678914",
+        single: "10678908"
+    },
+    {
+        name: "Mogician's Spoils Pure Bundle ",
+        bundleID: "10678923",
+        itemIDs: ["10686819"],
+        tenPack: "10678914",
+        single: "10678908"
+    },
+    {
+        name: "Luck of the Gaian Vicious Bundle ",
+        bundleID: "10678719",
+        itemIDs: ["10685673"],
+        tenPack: "10678707",
+        single: "10678701"
+    },
+    {
+        name: "Luck of the Gaian Breezy Bundle ",
+        bundleID: "10678716",
+        itemIDs: ["10683948"],
+        tenPack: "10678707",
+        single: "10678701"
+    },
+    {
+        name: "Ides of March Beware Rainy Bundle ",
+        bundleID: "10678485",
+        itemIDs: ["10684386"],
+        tenPack: "10678473",
+        single: "10678467"
+    },
+    {
+        name: "Ides of March Beware Rosy Bundle ",
+        bundleID: "10678482",
+        itemIDs: ["10680891"],
+        tenPack: "10678473",
+        single: "10678467"
+    },
+    {
+        name: "Spritely Friends Ambrosial Bundle ",
+        bundleID: "10678362",
+        itemIDs: ["10679118"],
+        tenPack: "10678350",
+        single: "10678344"
+    },
+    {
+        name: "Spritely Friends Sweet Bundle ",
+        bundleID: "10678359",
+        itemIDs: ["10679214"],
+        tenPack: "10678350",
+        single: "10678344"
+    },
+    {
+        name: "Pocket Pals Royal Bundle ",
+        bundleID: "10677144",
+        itemIDs: ["10676958"],
+        tenPack: "10677132",
+        single: "10677126"
+    },
+    {
+        name: "Pocket Pals Aurora Bundle ",
+        bundleID: "10677141",
+        itemIDs: ["10676199"],
+        tenPack: "10677132",
+        single: "10677126"
+    },
+    {
+        name: "Bad At Love Goth Bundle ",
+        bundleID: "10675212",
+        itemIDs: ["10676400"],
+        tenPack: "10675200",
+        single: "10675194"
+    },
+    {
+        name: "Bad At Love Selfish Bundle ",
+        bundleID: "10675209",
+        itemIDs: ["10677396"],
+        tenPack: "10675200",
+        single: "10675194"
+    },
+    {
+        name: "Doll Me Up Eye Bundle ",
+        bundleID: "10673541",
+        itemIDs: ["10673811","10674219","10674810"],
+        tenPack: "10673529",
+        single: "10673523"
+    },
+    {
+        name: "Doll Me Up Love Bundle ",
+        bundleID: "10673538",
+        itemIDs: ["10674834","10674858","10674882"],
+        tenPack: "10673529",
+        single: "10673523"
+    },
+    {
+        name: "Eat Your Feelings Sooty Bundle ",
+        bundleID: "10672503",
+        itemIDs: ["10672584"],
+        tenPack: "10672491",
+        single: "10672485"
+    },
+    {
+        name: "Eat Your Feelings Genki Bundle ",
+        bundleID: "10672500",
+        itemIDs: ["10672632"],
+        tenPack: "10672491",
+        single: "10672485"
+    },
     // {
     //     name: "",
     //     bundleID: "",
