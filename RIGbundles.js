@@ -3513,34 +3513,34 @@ let RIGbundles = [
         tenPack: "10692978",
         single: "10692957"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Bows & Bowties Pure Bundle ",
+        bundleID: "10725714",
+        itemIDs: ["10730961"],
+        tenPack: "10725687",
+        single: "10725675"
+    },
+    {
+        name: "Bows & Bowties Peachy Bundle ",
+        bundleID: "10725711",
+        itemIDs: ["10731105"],
+        tenPack: "10725687",
+        single: "10725675"
+    },
+    {
+        name: "Strung Stars Twilight Bundle ",
+        bundleID: "10725219",
+        itemIDs: ["10727211"],
+        tenPack: "10725207",
+        single: "10725201"
+    },
+    {
+        name: "Strung Stars Daybreak Bundle ",
+        bundleID: "10725216",
+        itemIDs: ["10727265"],
+        tenPack: "10725207",
+        single: "10725201"
+    },
     // {
     //     name: "",
     //     bundleID: "",
