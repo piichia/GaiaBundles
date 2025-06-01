@@ -3793,6 +3793,384 @@ let RIGbundles = [
         tenPack: "10672491",
         single: "10672485"
     },
+    {
+        name: "Collectible Cuts Magical Bundle ",
+        bundleID: "10668030",
+        itemIDs: ["10670718","10671330"],
+        tenPack: "10668015",
+        single: "10668009"
+    },
+    {
+        name: "Collectible Cuts Opposites Bundle ",
+        bundleID: "10668027",
+        itemIDs: ["10670847","10671870"],
+        tenPack: "10668015",
+        single: "10668009"
+    },
+    {
+        name: "Collectible Cuts Flurious Bundle ",
+        bundleID: "10668024",
+        itemIDs: ["10670691","10670742"],
+        tenPack: "10668015",
+        single: "10668009"
+    },
+    {
+        name: "Mousing Around Pure Bundle ",
+        bundleID: "10667814",
+        itemIDs: ["10670625"],
+        tenPack: "10667802",
+        single: "10667796"
+    },
+    {
+        name: "Mousing Around Ossidian Bundle ",
+        bundleID: "10667811",
+        itemIDs: ["10668543"],
+        tenPack: "10667802",
+        single: "10667796"
+    },
+    {
+        name: "Booked and Busy Heavenly Bundle ",
+        bundleID: "10666008",
+        itemIDs: ["10668606"],
+        tenPack: "10665996",
+        single: "10665990"
+    },
+    {
+        name: "Booked and Busy Blooming Bundle ",
+        bundleID: "10666005",
+        itemIDs: ["10667880"],
+        tenPack: "10665996",
+        single: "10665990"
+    },
+    {
+        name: "Cuddle Up Peppy Bundle ",
+        bundleID: "10665723",
+        itemIDs: ["10665636"],
+        tenPack: "10665711",
+        single: "10665696"
+    },
+    {
+        name: "Cuddle Up Cozy Bundle ",
+        bundleID: "10665720",
+        itemIDs: ["10665609"],
+        tenPack: "10665711",
+        single: "10665696"
+    },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
     // {
     //     name: "",
     //     bundleID: "",
