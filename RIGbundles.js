@@ -4948,237 +4948,1147 @@ let RIGbundles = [
         tenPack: "10561494",
         single: "10561488"
     },
+    {
+        name: "Netherhood: Reunion Sinful Bundle ",
+        bundleID: "10550343",
+        itemIDs: ["10552827"],
+        tenPack: "10550331",
+        single: "10550325"
+    },
     // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
+    //     name: "Netherhood: Reunion Vacant Bundle ",
+    //     bundleID: "10550340",
+    //     itemIDs: ["10553823"],
+    //     tenPack: "10550331",
+    //     single: "10550325"
     // },
+    {
+        name: "Fallen Angels Starry Bundle ",
+        bundleID: "10549596",
+        itemIDs: ["10548234"],
+        tenPack: "10549584",
+        single: "10549578"
+    },
+    {
+        name: "Fallen Angels Heavenly Bundle ",
+        bundleID: "10549593",
+        itemIDs: ["10549959"],
+        tenPack: "10549584",
+        single: "10549578"
+    },
+    {
+        name: "It Amy's Choice Fruity Bundle ",
+        bundleID: "10546222",
+        itemIDs: ["10547097"],
+        tenPack: "10546212",
+        single: "10546208"
+    },
+    {
+        name: "It Amy's Choice Enchanted Bundle ",
+        bundleID: "10546218",
+        itemIDs: ["10548726"],
+        tenPack: "10546212",
+        single: "10546208"
+    },
+    {
+        name: "FALLing In Love II Oriana Bundle ",
+        bundleID: "10544522",
+        itemIDs: ["10544456"],
+        tenPack: "10544490",
+        single: "10544486"
+    },
+    {
+        name: "FALLing In Love II Catharsis Bundle ",
+        bundleID: "10544510",
+        itemIDs: ["10545946"],
+        tenPack: "10544490",
+        single: "10544486"
+    },
+    {
+        name: "Netherhood: Uninvited Guest Lonely Bundle ",
+        bundleID: "10542418",
+        itemIDs: ["10540994"],
+        tenPack: "10535896",
+        single: "10535882"
+    },
+    {
+        name: "Yokai Festivus Painted Bundle ",
+        bundleID: "10542152",
+        itemIDs: ["10541290"],
+        tenPack: "10542144",
+        single: "10542140"
+    },
+    {
+        name: "Yokai Festivus Oni Bundle ",
+        bundleID: "10542150",
+        itemIDs: ["10542184"],
+        tenPack: "10542144",
+        single: "10542140"
+    },
+    {
+        name: "Haunting Hour Withered Bundle ",
+        bundleID: "10540504",
+        itemIDs: ["10538368"],
+        tenPack: "10540498",
+        single: "10540494"
+    },
     // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
+    //     name: "Haunting Hour Starry Bundle ",
+    //     bundleID: "10540506",
+    //     itemIDs: ["10540822"],
+    //     tenPack: "10540498",
+    //     single: "10540494"
     // },
+    {
+        name: "Hallow's Weave II BOOtiful Bundle ",
+        bundleID: "10539906",
+        itemIDs: ["10543002","10543552","10545028"],
+        tenPack: "10539896",
+        single: "10539892"
+    },
+    {
+        name: "Hallow's Weave II Fangtastic Bundle ",
+        bundleID: "10539904",
+        itemIDs: ["10540466","10541834"],
+        tenPack: "10539896",
+        single: "10539892"
+    },
+    {
+        name: "Hallow's Weave II Spooktacular Bundle ",
+        bundleID: "10539902",
+        itemIDs: ["10542820","10544222"],
+        tenPack: "10539896",
+        single: "10539892"
+    },
+    {
+        name: "Doctored Footage Witchly Bundle ",
+        bundleID: "10538958",
+        itemIDs: ["10540276"],
+        tenPack: "10538950",
+        single: "10538946"
+    },
+    {
+        name: "Doctored Footage Decay Bundle ",
+        bundleID: "10538956",
+        itemIDs: ["10539128"],
+        tenPack: "10538950",
+        single: "10538946"
+    },
+    {
+        name: "Animalistic Tendencies Sin Bundle ",
+        bundleID: "10537240",
+        itemIDs: ["10536856"],
+        tenPack: "10537232",
+        single: "10537228"
+    },
+    {
+        name: "Animalistic Tendencies Haunting Bundle ",
+        bundleID: "10537238",
+        itemIDs: ["10537270"],
+        tenPack: "10537232",
+        single: "10537228"
+    },
+    {
+        name: "Netherhood: Uninvited Guest Dual Bundle ",
+        bundleID: "10535894",
+        itemIDs: ["10538974","10539650"],
+        tenPack: "10535886",
+        single: "10535872"
+    },
+    {
+        name: "Netherhood: Uninvited Guest Classic Bundle ",
+        bundleID: "10535892",
+        itemIDs: ["10539966"],
+        tenPack: "10535886",
+        single: "10535872"
+    },
+    {
+        name: "Netherhood: Uninvited Guest Candied Bundle ",
+        bundleID: "10535890",
+        itemIDs: ["10537036"],
+        tenPack: "10535886",
+        single: "10535872"
+    },
+    {
+        name: "The Coven Wilted Bundle ",
+        bundleID: "10534660",
+        itemIDs: ["10535458"],
+        tenPack: "10534652",
+        single: "10534648"
+    },
+    {
+        name: "The Coven Sinful Bundle ",
+        bundleID: "10534658",
+        itemIDs: ["10534908"],
+        tenPack: "10534652",
+        single: "10534648"
+    },
+    {
+        name: "Formally Fall Heavenly Bundle ",
+        bundleID: "10532098",
+        itemIDs: ["10531072"],
+        tenPack: "10532090",
+        single: "10532086"
+    },
+    {
+        name: "Formally Fall Sadistic Bundle ",
+        bundleID: "10532096",
+        itemIDs: ["10531358"],
+        tenPack: "10532090",
+        single: "10532086"
+    },
+    {
+        name: "Zodiac Ahairness II Stylish Locks Bundle ",
+        bundleID: "10530578",
+        itemIDs: ["10532806","10534264","10535302"],
+        tenPack: "10530568",
+        single: "10530564"
+    },
+    {
+        name: "Zodiac Ahairness II Wistful Waves Bundle ",
+        bundleID: "10530576",
+        itemIDs: ["10531624","10533786"],
+        tenPack: "10530568",
+        single: "10530564"
+    },
+    {
+        name: "Zodiac Ahairness II Wild Style Bundle ",
+        bundleID: "10530574",
+        itemIDs: ["10531382","10531398"],
+        tenPack: "10530568",
+        single: "10530564"
+    },
+    {
+        name: "September Skies Spooky Bundle ",
+        bundleID: "10530052",
+        itemIDs: ["10531118"],
+        tenPack: "10530044",
+        single: "10530040"
+    },
+    {
+        name: "September Skies Imperious Bundle ",
+        bundleID: "10530050",
+        itemIDs: ["10532670"],
+        tenPack: "10530044",
+        single: "10530040"
+    },
+    {
+        name: "Fantastic Fantasia Sadistic Bundle ",
+        bundleID: "10527756",
+        itemIDs: ["10527232"],
+        tenPack: "10527748",
+        single: "10527744"
+    },
+    {
+        name: "Fantastic Fantasia Dreary Bundle ",
+        bundleID: "10527754",
+        itemIDs: ["10527100"],
+        tenPack: "10527748",
+        single: "10527744"
+    },
+    {
+        name: "Literal Literary Heavenly Bundle ",
+        bundleID: "10523748",
+        itemIDs: ["10526148"],
+        tenPack: "10523740",
+        single: "10523736"
+    },
+    {
+        name: "Literal Literary Fairytale Bundle ",
+        bundleID: "10523746",
+        itemIDs: ["10525708"],
+        tenPack: "10523740",
+        single: "10523736"
+    },
+    {
+        name: "Thirsty for You Gloomy Bundle ",
+        bundleID: "10525302",
+        itemIDs: ["10528238"],
+        tenPack: "10525290",
+        single: "10525274"
+    },
+    {
+        name: "Thirsty for You Choco Tea Bundle ",
+        bundleID: "10525298",
+        itemIDs: ["10529646","10530012"],
+        tenPack: "10525290",
+        single: "10525274"
+    },
+    {
+        name: "Thirsty for You Strawberry Bundle ",
+        bundleID: "10525294",
+        itemIDs: ["10527588"],
+        tenPack: "10525290",
+        single: "10525274"
+    },
+    {
+        name: "Natsuber Painted Bundle ",
+        bundleID: "10522880",
+        itemIDs: ["10524176"],
+        tenPack: "10522872",
+        single: "10522868"
+    },
+    {
+        name: "Natsuber Wilting Bundle ",
+        bundleID: "10522878",
+        itemIDs: ["10522572"],
+        tenPack: "10522872",
+        single: "10522868"
+    },
+    {
+        name: "Steamy Nights Proud Bundle ",
+        bundleID: "10520478",
+        itemIDs: ["10519430"],
+        tenPack: "10520464",
+        single: "10520452"
+    },
+    {
+        name: "Steamy Nights Opulent Bundle ",
+        bundleID: "10520476",
+        itemIDs: ["10519720"],
+        tenPack: "10520464",
+        single: "10520452"
+    },
+    {
+        name: "Delicious Doll Trunk Beary Bundle ",
+        bundleID: "10519538",
+        itemIDs: ["10521748","10521848","10521868"],
+        tenPack: "10519530",
+        single: "10519526"
+    },
+    {
+        name: "Delicious Doll Trunk Yuzu Bundle ",
+        bundleID: "10519536",
+        itemIDs: ["10516652","10520768","10521828"],
+        tenPack: "10519530",
+        single: "10519526"
+    },
+    {
+        name: "Break A Sweat Fiery Bundle ",
+        bundleID: "10519490",
+        itemIDs: ["10516828"],
+        tenPack: "10519470",
+        single: "10519466"
+    },
+    {
+        name: "Break A Sweat Jolly Bundle ",
+        bundleID: "10519488",
+        itemIDs: ["10517824"],
+        tenPack: "10519470",
+        single: "10519466"
+    },
+    {
+        name: "Thirst Quenched Sugary Bundle ",
+        bundleID: "10516760",
+        itemIDs: ["10515436"],
+        tenPack: "10516752",
+        single: "10516748"
+    },
+    {
+        name: "Thirst Quenched Soothing Bundle ",
+        bundleID: "10516758",
+        itemIDs: ["10514670"],
+        tenPack: "10516752",
+        single: "10516748"
+    },
+    {
+        name: "PING! Generation Gap Bundle ",
+        bundleID: "10513518",
+        itemIDs: ["10517514","10518272"],
+        tenPack: "10513506",
+        single: "10513492"
+    },
+    {
+        name: "PING! Bebe Bundle ",
+        bundleID: "10513516",
+        itemIDs: ["10518146"],
+        tenPack: "10513506",
+        single: "10513492"
+    },
+    {
+        name: "PING! Demonic Bundle ",
+        bundleID: "10513514",
+        itemIDs: ["10517714"],
+        tenPack: "10513506",
+        single: "10513492"
+    },
+    {
+        name: "PING! Sweet Bundle ",
+        bundleID: "10513512",
+        itemIDs: ["10517544"],
+        tenPack: "10513506",
+        single: "10513492"
+    },
+    {
+        name: "PING! Radio Bundle ",
+        bundleID: "10513510",
+        itemIDs: ["10516516"],
+        tenPack: "10513506",
+        single: "10513492"
+    },
+    {
+        name: "The Cat's Purr Vermillion Bundle ",
+        bundleID: "10512394",
+        itemIDs: ["10513732"],
+        tenPack: "10512382",
+        single: "10512372"
+    },
+    {
+        name: "The Cat's Purr Wild Bundle ",
+        bundleID: "10512392",
+        itemIDs: ["10514276"],
+        tenPack: "10512382",
+        single: "10512372"
+    },
+    {
+        name: "Splash-o-Color Sherbert Bundle ",
+        bundleID: "10511668",
+        itemIDs: ["10513578"],
+        tenPack: "10511644",
+        single: "10511640"
+    },
+    {
+        name: "Splash-o-Color Brilliant Bundle ",
+        bundleID: "10511666",
+        itemIDs: ["10511030"],
+        tenPack: "10511644",
+        single: "10511640"
+    },
+    {
+        name: "PING! Ring Me Bundle ",
+        bundleID: "10515720",
+        itemIDs: ["10523404","10523812"],
+        tenPack: "10513506",
+        single: "10513492"
+    },
+    {
+        name: "Junked Up Poison Bundle ",
+        bundleID: "10509166",
+        itemIDs: ["10508900"],
+        tenPack: "10509158",
+        single: "10509154"
+    },
+    {
+        name: "Junked Up Thirsty Bundle ",
+        bundleID: "10509164",
+        itemIDs: ["10510902"],
+        tenPack: "10509158",
+        single: "10509154"
+    },
+    {
+        name: "Haute Looks Salon Spicy Bundle ",
+        bundleID: "10505516",
+        itemIDs: ["10505200","10505544"],
+        tenPack: "10505130",
+        single: "10505128"
+    },
+    {
+        name: "Zodiac Ahairness Fall Trim Bundle ",
+        bundleID: "10503536",
+        itemIDs: ["10510928","10510862","10511412"],
+        tenPack: "10503526",
+        single: "10503522"
+    },
+    {
+        name: "Zodiac Ahairness Summer Trim Bundle ",
+        bundleID: "10503534",
+        itemIDs: ["10510178","10510798"],
+        tenPack: "10503526",
+        single: "10503522"
+    },
+    {
+        name: "Zodiac Ahairness Spring Trim Bundle ",
+        bundleID: "10503532",
+        itemIDs: ["10509964","10510278"],
+        tenPack: "10503526",
+        single: "10503522"
+    },
+    {
+        name: "Call of the Sea Final Treasure Bundle ",
+        bundleID: "10502132",
+        itemIDs: ["10511064","10513398"],
+        tenPack: "10502118",
+        single: "10502078"
+    },
+    {
+        name: "Call of the Sea Set Sail Bundle ",
+        bundleID: "10502130",
+        itemIDs: ["10507238","10507650"],
+        tenPack: "10502118",
+        single: "10502078"
+    },
+    {
+        name: "Call of the Sea Pearlescent Bundle ",
+        bundleID: "10502128",
+        itemIDs: ["10507222"],
+        tenPack: "10502118",
+        single: "10502078"
+    },
+    {
+        name: "Call of the Sea Breezy Bundle ",
+        bundleID: "10502126",
+        itemIDs: ["10506014"],
+        tenPack: "10502136",
+        single: "10502134"
+    },
+    {
+        name: "Call of the Sea Serene Bundle ",
+        bundleID: "10502124",
+        itemIDs: ["10506290"],
+        tenPack: "10502118",
+        single: "10502078"
+    },
+    {
+        name: "Call of the Sea Sadistic Bundle ",
+        bundleID: "10502122",
+        itemIDs: ["10505618"],
+        tenPack: "10502118",
+        single: "10502078"
+    },
+    {
+        name: "Eww Bugged Out Proud Bundle ",
+        bundleID: "10500398",
+        itemIDs: ["10507132"],
+        tenPack: "10500390",
+        single: "10500386"
+    },
+    {
+        name: "Eww Bugged Out Baggy Bundle ",
+        bundleID: "10500396",
+        itemIDs: ["10505744"],
+        tenPack: "10500390",
+        single: "10500386"
+    },
+    {
+        name: "Four Seasons II Wishing Bundle ",
+        bundleID: "10499256",
+        itemIDs: ["10506036"],
+        tenPack: "10499248",
+        single: "10499244"
+    },
+    {
+        name: "Four Seasons II Pearlescent Bundle ",
+        bundleID: "10499254",
+        itemIDs: ["10505342"],
+        tenPack: "10499248",
+        single: "10499244"
+    },
+    {
+        name: "Hella Punk Decayed Bundle ",
+        bundleID: "10497746",
+        itemIDs: ["10502286"],
+        tenPack: "10497730",
+        single: "10497726"
+    },
+    {
+        name: "Hella Punk Phantom Bundle ",
+        bundleID: "10497744",
+        itemIDs: ["10501354"],
+        tenPack: "10497730",
+        single: "10497726"
+    },
+    {
+        name: "Summer Matsuri Vain Bundle ",
+        bundleID: "10498178",
+        itemIDs: ["10504624"],
+        tenPack: "10498170",
+        single: "10498166"
+    },
+    {
+        name: "Summer Matsuri Starry Bundle ",
+        bundleID: "10498176",
+        itemIDs: ["10503594"],
+        tenPack: "10498170",
+        single: "10498166"
+    },
+    {
+        name: "Spaced Out Cosmic Bundle ",
+        bundleID: "10494574",
+        itemIDs: ["10497694"],
+        tenPack: "10494566",
+        single: "10494562"
+    },
+    {
+        name: "Spaced Out Fiery Bundle ",
+        bundleID: "10494572",
+        itemIDs: ["10494320"],
+        tenPack: "10494566",
+        single: "10494562"
+    },
+    {
+        name: "Luckiest Doll Trunk Wolf Bundle ",
+        bundleID: "10494072",
+        itemIDs: ["10496746","10496308","10496328"],
+        tenPack: "10494066",
+        single: "10494062"
+    },
+    {
+        name: "Luckiest Doll Trunk Star Bundle ",
+        bundleID: "10494070",
+        itemIDs: ["10498146","10500112","10498938"],
+        tenPack: "10494066",
+        single: "10494062"
+    },
+    {
+        name: "Swim A Lap Fruity Bundle ",
+        bundleID: "10492860",
+        itemIDs: ["10496152"],
+        tenPack: "10492852",
+        single: "10492848"
+    },
+    {
+        name: "Swim A Lap Spooky Bundle ",
+        bundleID: "10492858",
+        itemIDs: ["10494858"],
+        tenPack: "10492852",
+        single: "10492848"
+    },
+    {
+        name: "Family Values Grim Bundle ",
+        bundleID: "10492474",
+        itemIDs: ["10493900"],
+        tenPack: "10492466",
+        single: "10492462"
+    },
+    {
+        name: "Family Values Fixed Bundle ",
+        bundleID: "10492472",
+        itemIDs: ["10491344"],
+        tenPack: "10492466",
+        single: "10492462"
+    },
+    {
+        name: "After Class Special Delinquell Bundle ",
+        bundleID: "10489908",
+        itemIDs: ["10490714"],
+        tenPack: "10489900",
+        single: "10489878"
+    },
+    {
+        name: "After Class Special Marshmallow Bundle ",
+        bundleID: "10489906",
+        itemIDs: ["10489236"],
+        tenPack: "10489900",
+        single: "10489878"
+    },
+    {
+        name: "Extensions Convention Super Swag Bag ",
+        bundleID: "10486710",
+        itemIDs: ["10488676","10488694","10486986","10487106"],
+        tenPack: "10482516",
+        single: "10482512"
+    },
+    {
+        name: "Extensions Convention Hella Swag Bag ",
+        bundleID: "10482522",
+        itemIDs: ["10486058","10486074","10486970"],
+        tenPack: "10482516",
+        single: "10482512"
+    },
+    {
+        name: "Extensions Convention Ponytail Swag Bag ",
+        bundleID: "10482524",
+        itemIDs: ["10486364","10488692","10488660"],
+        tenPack: "10482516",
+        single: "10482512"
+    },
+    {
+        name: "Majestic Choir Bard Bundle ",
+        bundleID: "10485122",
+        itemIDs: ["10487356"],
+        tenPack: "10485114",
+        single: "10485090"
+    },
+    {
+        name: "Majestic Choir Bubbly Bundle ",
+        bundleID: "10485120",
+        itemIDs: ["10487070"],
+        tenPack: "10485114",
+        single: "10485090"
+    },
+    {
+        name: "Cosplay Runway Crystal Bundle ",
+        bundleID: "10482616",
+        itemIDs: ["10484134"],
+        tenPack: "10482608",
+        single: "10482604"
+    },
+    {
+        name: "Cosplay Runway Plutonian Bundle ",
+        bundleID: "10482614",
+        itemIDs: ["10484166"],
+        tenPack: "10482608",
+        single: "10482604"
+    },
+    {
+        name: "Quick Snip II Dragon Bundle ",
+        bundleID: "10481118",
+        itemIDs: ["10486954"],
+        tenPack: "10481110",
+        single: "10481106"
+    },
+    {
+        name: "Quick Snip II Majestic Bundle ",
+        bundleID: "10481116",
+        itemIDs: ["10483560"],
+        tenPack: "10481110",
+        single: "10481106"
+    },
+    {
+        name: "Mismatched Socks Soft Bundle ",
+        bundleID: "10479890",
+        itemIDs: ["10482670"],
+        tenPack: "10479880",
+        single: "10479876"
+    },
     // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
+    //     name: "Mismatched Socks Creamy Bundle ",
+    //     bundleID: "10479888",
+    //     itemIDs: ["10481836"],
+    //     tenPack: "10479880",
+    //     single: "10479876"
     // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Fiesta Flora Jubilant Bundle ",
+        bundleID: "10479550",
+        itemIDs: ["10480976"],
+        tenPack: "10479542",
+        single: "10479538"
+    },
+    {
+        name: "Fiesta Flora Candied Bundle ",
+        bundleID: "10479548",
+        itemIDs: ["10480918"],
+        tenPack: "10479542",
+        single: "10479538"
+    },
+    {
+        name: "Oh Deer! Colorful Bundle ",
+        bundleID: "10475444",
+        itemIDs: ["10476456"],
+        tenPack: "10475436",
+        single: "10475432"
+    },
+    {
+        name: "Oh Deer! Bearly Bundle ",
+        bundleID: "10475442",
+        itemIDs: ["10472915"],
+        tenPack: "10475436",
+        single: "10475432"
+    },
+    {
+        name: "April Showers Trunk Shocking Bundle ",
+        bundleID: "10474153",
+        itemIDs: ["10478782","10478204","10479630"],
+        tenPack: "10474145",
+        single: "10474141"
+    },
+    {
+        name: "April Showers Trunk Sun Bundle ",
+        bundleID: "10474151",
+        itemIDs: ["10478224","10478244","10478762"],
+        tenPack: "10474145",
+        single: "10474141"
+    },
+    {
+        name: "Restoring Earth Sweet Bundle ",
+        bundleID: "10473451",
+        itemIDs: ["10475372"],
+        tenPack: "10473435",
+        single: "10473429"
+    },
+    {
+        name: "Restoring Earth Midori Bundle ",
+        bundleID: "10473445",
+        itemIDs: ["10475057"],
+        tenPack: "10473435",
+        single: "10473429"
+    },
+    {
+        name: "More Transparency? Comet Bundle ",
+        bundleID: "10473117",
+        itemIDs: ["10472085"],
+        tenPack: "10473109",
+        single: "10473105"
+    },
+    {
+        name: "More Transparency? Floral Bundle ",
+        bundleID: "10473115",
+        itemIDs: ["10473541"],
+        tenPack: "10473109",
+        single: "10473105"
+    },
+    {
+        name: "RPGeez! Crafty Company Bundle ",
+        bundleID: "10471197",
+        itemIDs: ["10480244","10479936"],
+        tenPack: "10471181",
+        single: "10471165"
+    },
+    {
+        name: "RPGeez! Holy [Au] Bundle ",
+        bundleID: "10471195",
+        itemIDs: ["10474577","10475124"],
+        tenPack: "10471181",
+        single: "10471165"
+    },
+    {
+        name: "RPGeez! Sweet Bundle ",
+        bundleID: "10471193",
+        itemIDs: ["10474937"],
+        tenPack: "10471199",
+        single: "10471177"
+    },
+    {
+        name: "RPGeez! Flashy Bundle ",
+        bundleID: "10471187",
+        itemIDs: ["10474875"],
+        tenPack: "10471181",
+        single: "10471165"
+    },
+    {
+        name: "RPGeez! Elegant Bundle ",
+        bundleID: "10471191",
+        itemIDs: ["10474825"],
+        tenPack: "10471199",
+        single: "10471177"
+    },
+    {
+        name: "RPGeez! Dapper Bundle ",
+        bundleID: "10471189",
+        itemIDs: ["10475110"],
+        tenPack: "10471181",
+        single: "10471165"
+    },
+    {
+        name: "Quick Snip Colorful Bundle ",
+        bundleID: "10470521",
+        itemIDs: ["10471243"],
+        tenPack: "10470513",
+        single: "10470509"
+    },
+    {
+        name: "Quick Snip Fresh Bundle ",
+        bundleID: "10470519",
+        itemIDs: ["10472107"],
+        tenPack: "10470513",
+        single: "10470509"
+    },
+    {
+        name: "Defective Detectives Rookie Bundle ",
+        bundleID: "10470371",
+        itemIDs: ["10471771"],
+        tenPack: "10470363",
+        single: "10470359"
+    },
+    {
+        name: "Defective Detectives Furious Bundle ",
+        bundleID: "10470369",
+        itemIDs: ["10470825"],
+        tenPack: "10470363",
+        single: "10470359"
+    },
+    {
+        name: "Into the Rabbit Garden Kit + Tatoe Bundle ",
+        bundleID: "10463057",
+        itemIDs: ["10470409","10468075"],
+        tenPack: "10463041",
+        single: "10462997"
+    },
+    {
+        name: "Into the Rabbit Garden Veggie Bundle ",
+        bundleID: "10463055",
+        itemIDs: ["10463983","10463999"],
+        tenPack: "10463041",
+        single: "10462997"
+    },
+    {
+        name: "Into the Rabbit Garden Graceful Bundle ",
+        bundleID: "10463053",
+        itemIDs: ["10463961"],
+        tenPack: "10463041",
+        single: "10462997"
+    },
+    {
+        name: "Into the Rabbit Garden Jeweled Bundle ",
+        bundleID: "10463051",
+        itemIDs: ["10464121"],
+        tenPack: "10463041",
+        single: "10462997"
+    },
+    {
+        name: "Into the Rabbit Garden Enchanted Bundle ",
+        bundleID: "10463049",
+        itemIDs: ["10464053"],
+        tenPack: "10463041",
+        single: "10462997"
+    },
+    {
+        name: "Into the Rabbit Garden Turnope Bundle ",
+        bundleID: "10463047",
+        itemIDs: ["10463863"],
+        tenPack: "10463041",
+        single: "10462997"
+    },
+    {
+        name: "Zoo March Trunk Scale Bundle ",
+        bundleID: "10458827",
+        itemIDs: ["10461509","10461489","10465377"],
+        tenPack: "10458819",
+        single: "10458815"
+    },
+    {
+        name: "Zoo March Trunk Fluffy Bundle ",
+        bundleID: "10458825",
+        itemIDs: ["10461779","10467117","10467137"],
+        tenPack: "10458819",
+        single: "10458815"
+    },
+    {
+        name: "Monthly Angels Sherbert Bundle ",
+        bundleID: "10458813",
+        itemIDs: ["10464849"],
+        tenPack: "10458805",
+        single: "10458801"
+    },
+    {
+        name: "Monthly Angels Yang Bundle ",
+        bundleID: "10458811",
+        itemIDs: ["10466829"],
+        tenPack: "10458805",
+        single: "10458801"
+    },
+    {
+        name: "Hairball Hoax Wild Bundle ",
+        bundleID: "10458199",
+        itemIDs: ["10464473"],
+        tenPack: "10458191",
+        single: "10458187"
+    },
+    {
+        name: "Hairball Hoax Refined Bundle ",
+        bundleID: "10458197",
+        itemIDs: ["10462407"],
+        tenPack: "10458191",
+        single: "10458187"
+    },
+    {
+        name: "Secrets of Knife Club Sinful Bundle ",
+        bundleID: "10456857",
+        itemIDs: ["10463927"],
+        tenPack: "10456849",
+        single: "10456845"
+    },
+    {
+        name: "Secrets of Knife Club Yandere Bundle ",
+        bundleID: "10456855",
+        itemIDs: ["10462729"],
+        tenPack: "10456849",
+        single: "10456845"
+    },
+    {
+        name: "Lovely Snips Timeless Bundle ",
+        bundleID: "10456643",
+        itemIDs: ["10456623","10456607","10456773"],
+        tenPack: "10452351",
+        single: "10452347"
+    },
+    {
+        name: "Lovely Snips Daydreaming Bundle ",
+        bundleID: "10456641",
+        itemIDs: ["10456407","10456645","10456661"],
+        tenPack: "10452351",
+        single: "10452347"
+    },
+    {
+        name: "Lovely Snips Duality Bundle ",
+        bundleID: "10456639",
+        itemIDs: ["10456279","10456295","10456757"],
+        tenPack: "10452351",
+        single: "10452347"
+    },
+    {
+        name: "St Patty Prep Sour Bundle ",
+        bundleID: "10456603",
+        itemIDs: ["10465095"],
+        tenPack: "10456595",
+        single: "10456591"
+    },
+    {
+        name: "St Patty Prep Jasmine Bundle ",
+        bundleID: "10456601",
+        itemIDs: ["10460777"],
+        tenPack: "10456595",
+        single: "10456591"
+    },
+    {
+        name: "Spring Formal Cheerful Bundle ",
+        bundleID: "10456399",
+        itemIDs: ["10460607"],
+        tenPack: "10456381",
+        single: "10456377"
+    },
+    {
+        name: "Spring Formal Kashmiri Bundle ",
+        bundleID: "10456393",
+        itemIDs: ["10460115"],
+        tenPack: "10456381",
+        single: "10456377"
+    },
+    {
+        name: "Thrifty Encounters Glorious Bundle ",
+        bundleID: "10453733",
+        itemIDs: ["10457337"],
+        tenPack: "10453725",
+        single: "10453721"
+    },
+    {
+        name: "Thrifty Encounters Solo Bundle ",
+        bundleID: "10453731",
+        itemIDs: ["10457189"],
+        tenPack: "10453725",
+        single: "10453721"
+    },
+    {
+        name: "#MoodMusic Sorbet Bundle ",
+        bundleID: "10452949",
+        itemIDs: ["10456337"],
+        tenPack: "10452941",
+        single: "10452937"
+    },
+    {
+        name: "#MoodMusic Candy Bundle ",
+        bundleID: "10452947",
+        itemIDs: ["10454777"],
+        tenPack: "10452941",
+        single: "10452937"
+    },
+    {
+        name: "Txt Msg Brk-up Cosmic Bundle ",
+        bundleID: "10451941",
+        itemIDs: ["10451223"],
+        tenPack: "10451933",
+        single: "10451929"
+    },
+    {
+        name: "Txt Msg Brk-up Swamped Bundle ",
+        bundleID: "10451939",
+        itemIDs: ["10454135"],
+        tenPack: "10451933",
+        single: "10451929"
+    },
+    {
+        name: "Lovers Reunited Sweetheart Bundle ",
+        bundleID: "10450073",
+        itemIDs: ["10451177"],
+        tenPack: "10450065",
+        single: "10450061"
+    },
+    {
+        name: "Lovers Reunited Kinda Special Bundle ",
+        bundleID: "10450071",
+        itemIDs: ["10450355"],
+        tenPack: "10450065",
+        single: "10450061"
+    },
+    {
+        name: "Stay Home Club Classic Bundle ",
+        bundleID: "10447881",
+        itemIDs: ["10442967"],
+        tenPack: "10447867",
+        single: "10447863"
+    },
+    {
+        name: "Stay Home Club Polaris Bundle ",
+        bundleID: "10447873",
+        itemIDs: ["10443225"],
+        tenPack: "10447867",
+        single: "10447863"
+    },
+    {
+        name: "Pet Purradise Opalescent Bundle ",
+        bundleID: "10445795",
+        itemIDs: ["10441949"],
+        tenPack: "10445787",
+        single: "10445783"
+    },
+    {
+        name: "Pet Purradise Starry Bundle ",
+        bundleID: "10445793",
+        itemIDs: ["10441927"],
+        tenPack: "10445787",
+        single: "10445783"
+    },
+    {
+        name: "Cosplay Headstart Mārs Bundle ",
+        bundleID: "10441989",
+        itemIDs: ["10442601"],
+        tenPack: "10441981",
+        single: "10441977"
+    },
+    {
+        name: "Cosplay Headstart Peyo 3Ds Bundle ",
+        bundleID: "10441987",
+        itemIDs: ["10442787"],
+        tenPack: "10441981",
+        single: "10441977"
+    },
+    {
+        name: "Final Resolutions Independent Bundle ",
+        bundleID: "10441415",
+        itemIDs: ["10442917"],
+        tenPack: "10441407",
+        single: "10441403"
+    },
+    {
+        name: "Final Resolutions Posh Bundle ",
+        bundleID: "10441413",
+        itemIDs: ["10442173"],
+        tenPack: "10441407",
+        single: "10441403"
+    },
+    {
+        name: "New Year's Masquerade Cosmic Bundle ",
+        bundleID: "10440477",
+        itemIDs: ["10439347"],
+        tenPack: "10440467",
+        single: "10440463"
+    },
+    {
+        name: "New Year's Masquerade Mysterious Bundle ",
+        bundleID: "10440473",
+        itemIDs: ["10436729"],
+        tenPack: "10440467",
+        single: "10440463"
+    },
+    {
+        name: "Snow Daze Fizzy Bundle ",
+        bundleID: "10438093",
+        itemIDs: ["10437357"],
+        tenPack: "10438085",
+        single: "10438081"
+    },
+    {
+        name: "Snow Daze Cozy Bundle ",
+        bundleID: "10438091",
+        itemIDs: ["10437801"],
+        tenPack: "10438085",
+        single: "10438081"
+    },
+    {
+        name: "Coldest Desires Miserable Bundle ",
+        bundleID: "10434405",
+        itemIDs: ["10435169"],
+        tenPack: "10434397",
+        single: "10434393"
+    },
+    {
+        name: "Coldest Desires Ethereal Bundle ",
+        bundleID: "10434403",
+        itemIDs: ["10435631"],
+        tenPack: "10434397",
+        single: "10434393"
+    },
     // {
     //     name: "",
     //     bundleID: "",

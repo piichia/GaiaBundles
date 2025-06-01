@@ -548,16 +548,16 @@ let missingList = [
         itemData: "10600692"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Netherhood: Reunion Vacant Bundle",
+        itemData: "10550340"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Haunting Hour Starry Bundle ",
+        itemData: "10540506"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Mismatched Socks Creamy Bundle ",
+        itemData: "10479888"
     },
     {
         name: "",
