@@ -2953,13 +2953,223 @@ let RIGbundles = [
         tenPack: "10755399",
         single: "10755393"
     },
+    {
+        name: "The Scariest Day Haunting Bundle ",
+        bundleID: "10751742",
+        itemIDs: ["10755186"],
+        tenPack: "10751730",
+        single: "10751724"
+    },
+    {
+        name: "The Scariest Day Withered Bundle ",
+        bundleID: "10751739",
+        itemIDs: ["10753710"],
+        tenPack: "10751730",
+        single: "10751724"
+    },
+    {
+        name: "Spooky Sundries Creepy Bundle ",
+        bundleID: "10751028",
+        itemIDs: ["10748712","10747851"],
+        tenPack: "10746909",
+        single: "10746903"
+    },
+    {
+        name: "Spooky Sundries Bow Bundle ",
+        bundleID: "10746921",
+        itemIDs: ["10746771","10747881"],
+        tenPack: "10746909",
+        single: "10746903"
+    },
+    {
+        name: "Spooky Sundries Eerie Bundle ",
+        bundleID: "10746918",
+        itemIDs: ["10746741","10746801"],
+        tenPack: "10746909",
+        single: "10746903"
+    },
+    {
+        name: "Cutie Critters Sweet Bundle ",
+        bundleID: "10740036",
+        itemIDs: ["10744836"],
+        tenPack: "10740024",
+        single: "10740018"
+    },
+    {
+        name: "Cutie Critters Gentle Bundle ",
+        bundleID: "10740033",
+        itemIDs: ["10744893"],
+        tenPack: "10740024",
+        single: "10740018"
+    },
+    {
+        name: "Haunt-o-Rama Witchly Bundle ",
+        bundleID: "10739316",
+        itemIDs: ["10742592"],
+        tenPack: "10739304",
+        single: "10739298"
+    },
+    {
+        name: "Haunt-o-Rama Ghostly Bundle ",
+        bundleID: "10739313",
+        itemIDs: ["10742142"],
+        tenPack: "10739304",
+        single: "10739298"
+    },
+    {
+        name: "Do They Bite? Sadistic Bundle ",
+        bundleID: "10739295",
+        itemIDs: ["10740900"],
+        tenPack: "10739283",
+        single: "10739277"
+    },
+    {
+        name: "Do They Bite? Aggressive Bundle ",
+        bundleID: "10739292",
+        itemIDs: ["10740234"],
+        tenPack: "10739283",
+        single: "10739277"
+    },
+    {
+        name: "Keiko's Bakery Double Bundle ",
+        bundleID: "10737519",
+        itemIDs: ["10738647","10739484"],
+        tenPack: "10737501",
+        single: "10737480"
+    },
+    {
+        name: "Keiko's Bakery Withered Bundle ",
+        bundleID: "10737516",
+        itemIDs: ["10739142"],
+        tenPack: "10737501",
+        single: "10737480"
+    },
+    {
+        name: "Keiko's Bakery Quiet Bundle ",
+        bundleID: "10737513",
+        itemIDs: ["10739772"],
+        tenPack: "10737501",
+        single: "10737480"
+    },
+    {
+        name: "Keiko's Bakery Sweet Bundle ",
+        bundleID: "10737510",
+        itemIDs: ["10739061"],
+        tenPack: "10737501",
+        single: "10737480"
+    },
+    {
+        name: "Keiko's Bakery Demonic Bundle ",
+        bundleID: "10737507",
+        itemIDs: ["10739202"],
+        tenPack: "10737501",
+        single: "10737480"
+    },
+    {
+        name: "Narwheel Of Fortune Alluring Bundle ",
+        bundleID: "10736799",
+        itemIDs: ["10736103"],
+        tenPack: "10736787",
+        single: "10736781"
+    },
+    {
+        name: "Narwheel Of Fortune Solemn Bundle ",
+        bundleID: "10736796",
+        itemIDs: ["10735527"],
+        tenPack: "10736787",
+        single: "10736781"
+    },
+    {
+        name: "Nostalgic Doll Trunk Demonic Bundle ",
+        bundleID: "10735671",
+        itemIDs: ["10738380","10738320","10738200"],
+        tenPack: "10735659",
+        single: "10735653"
+    },
+    {
+        name: "Nostalgic Doll Trunk Angelic Bundle ",
+        bundleID: "10735668",
+        itemIDs: ["10738410","10738290","10737990"],
+        tenPack: "10735659",
+        single: "10735653"
+    },
+    {
+        name: "Luminous Luxuries II Opulent Bundle ",
+        bundleID: "10733742",
+        itemIDs: ["10733826"],
+        tenPack: "10733730",
+        single: "10733724"
+    },
+    {
+        name: "Luminous Luxuries II Fresh Bundle ",
+        bundleID: "10733739",
+        itemIDs: ["10733679"],
+        tenPack: "10733730",
+        single: "10733724"
+    },
+    {
+        name: "Muse & Melodies Pearlescent Bundle ",
+        bundleID: "10750899",
+        itemIDs: ["10751310"],
+        tenPack: "10750887",
+        single: "10750881"
+    },
+    {
+        name: "Muse & Melodies Juicy Bundle ",
+        bundleID: "10750896",
+        itemIDs: ["10751061"],
+        tenPack: "10750887",
+        single: "10750881"
+    },
     // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
+    //     name: "Netherhood High Suave Bundle ",
+    //     bundleID: "10742790",
+    //     itemIDs: ["10747965"],
+    //     tenPack: "10742772",
     //     single: ""
     // },
+    // {
+    //     name: "Netherhood High Sweet Bundle ",
+    //     bundleID: "10742787",
+    //     itemIDs: ["10747296"],
+    //     tenPack: "10742772",
+    //     single: ""
+    // },
+    // {
+    //     name: "Netherhood High Ghosting Bundle ",
+    //     bundleID: "10742784",
+    //     itemIDs: ["10746267"],
+    //     tenPack: "10742772",
+    //     single: ""
+    // },
+    // {
+    //     name: "Netherhood High Wilted Bundle ",
+    //     bundleID: "10742781",
+    //     itemIDs: ["10745928"],
+    //     tenPack: "10742772",
+    //     single: ""
+    // },
+    // {
+    //     name: "Netherhood High Dark Bundle ",
+    //     bundleID: "10742778",
+    //     itemIDs: ["10746684"],
+    //     tenPack: "10742772",
+    //     single: ""
+    // },
+    {
+        name: "Spooky Sundries Decorative Bundle ",
+        bundleID: "10746924",
+        itemIDs: ["10747158","10747191"],
+        tenPack: "10746909",
+        single: "10746903"
+    },
+    {
+        name: "Nostalgic Doll Trunk Oldbie Bundle ",
+        bundleID: "10738920",
+        itemIDs: ["10738080","10739346","10738230"],
+        tenPack: "10735659",
+        single: "10735653"
+    },
     // {
     //     name: "",
     //     bundleID: "",
