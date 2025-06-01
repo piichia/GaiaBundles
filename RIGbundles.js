@@ -3541,6 +3541,300 @@ let RIGbundles = [
         tenPack: "10725207",
         single: "10725201"
     },
+    {
+        name: "Nature's Intentions Aurelian Bundle ",
+        bundleID: "10696254",
+        itemIDs: ["10701267"],
+        tenPack: "10696242",
+        single: "10696236"
+    },
+    {
+        name: "Nature's Intentions Blooming Bundle ",
+        bundleID: "10696251",
+        itemIDs: ["10701510"],
+        tenPack: "10696242",
+        single: "10696236"
+    },
+    {
+        name: "Biking Lane Tough Bundle ",
+        bundleID: "10696128",
+        itemIDs: ["10699791"],
+        tenPack: "10696116",
+        single: "10696110"
+    },
+    {
+        name: "Biking Lane Rêves Bundle ",
+        bundleID: "10696125",
+        itemIDs: ["10698891"],
+        tenPack: "10696116",
+        single: "10696110"
+    },
+    {
+        name: "Safety Zone Holographic Bundle ",
+        bundleID: "10695948",
+        itemIDs: ["10697319"],
+        tenPack: "10695936",
+        single: "10695930"
+    },
+    {
+        name: "Safety Zone Blushing Bundle ",
+        bundleID: "10695945",
+        itemIDs: ["10698813"],
+        tenPack: "10695936",
+        single: "10695930"
+    },
+    {
+        name: "In-Game Mechanics End Boss Bundle ",
+        bundleID: "10694526",
+        itemIDs: ["10694631"],
+        tenPack: "10694514",
+        single: "10694508"
+    },
+    {
+        name: "In-Game Mechanics Tactician Bundle ",
+        bundleID: "10694523",
+        itemIDs: ["10694262"],
+        tenPack: "10694514",
+        single: "10694508"
+    },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
     // {
     //     name: "",
     //     bundleID: "",
