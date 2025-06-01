@@ -3121,41 +3121,41 @@ let RIGbundles = [
         tenPack: "10750887",
         single: "10750881"
     },
-    // {
-    //     name: "Netherhood High Suave Bundle ",
-    //     bundleID: "10742790",
-    //     itemIDs: ["10747965"],
-    //     tenPack: "10742772",
-    //     single: ""
-    // },
-    // {
-    //     name: "Netherhood High Sweet Bundle ",
-    //     bundleID: "10742787",
-    //     itemIDs: ["10747296"],
-    //     tenPack: "10742772",
-    //     single: ""
-    // },
-    // {
-    //     name: "Netherhood High Ghosting Bundle ",
-    //     bundleID: "10742784",
-    //     itemIDs: ["10746267"],
-    //     tenPack: "10742772",
-    //     single: ""
-    // },
-    // {
-    //     name: "Netherhood High Wilted Bundle ",
-    //     bundleID: "10742781",
-    //     itemIDs: ["10745928"],
-    //     tenPack: "10742772",
-    //     single: ""
-    // },
-    // {
-    //     name: "Netherhood High Dark Bundle ",
-    //     bundleID: "10742778",
-    //     itemIDs: ["10746684"],
-    //     tenPack: "10742772",
-    //     single: ""
-    // },
+    {
+        name: "Netherhood High Suave Bundle ",
+        bundleID: "10742790",
+        itemIDs: ["10747965"],
+        tenPack: "10742772",
+        single: "10742751"
+    },
+    {
+        name: "Netherhood High Sweet Bundle ",
+        bundleID: "10742787",
+        itemIDs: ["10747296"],
+        tenPack: "10742772",
+        single: "10742751"
+    },
+    {
+        name: "Netherhood High Ghosting Bundle ",
+        bundleID: "10742784",
+        itemIDs: ["10746267"],
+        tenPack: "10742772",
+        single: "10742751"
+    },
+    {
+        name: "Netherhood High Wilted Bundle ",
+        bundleID: "10742781",
+        itemIDs: ["10745928"],
+        tenPack: "10742772",
+        single: "10742751"
+    },
+    {
+        name: "Netherhood High Dark Bundle ",
+        bundleID: "10742778",
+        itemIDs: ["10746684"],
+        tenPack: "10742772",
+        single: "10742751"
+    },
     {
         name: "Spooky Sundries Decorative Bundle ",
         bundleID: "10746924",
@@ -3169,6 +3169,349 @@ let RIGbundles = [
         itemIDs: ["10738080","10739346","10738230"],
         tenPack: "10735659",
         single: "10735653"
+    },
+    {
+        name: "Fall Frenzy Demonic Bundle ",
+        bundleID: "10733091",
+        itemIDs: ["10733508"],
+        tenPack: "10733079",
+        single: "10733073"
+    },
+    {
+        name: "Fall Frenzy Withered Bundle ",
+        bundleID: "10733088",
+        itemIDs: ["10732971"],
+        tenPack: "10733079",
+        single: "10733073"
+    },
+    {
+        name: "Lore and Legends Radiant Bundle ",
+        bundleID: "10729848",
+        itemIDs: ["10732416"],
+        tenPack: "10729830",
+        single: "10729809"
+    },
+    {
+        name: "Lore and Legends Cats Bundle ",
+        bundleID: "10729845",
+        itemIDs: ["10731648"],
+        tenPack: "10729830",
+        single: "10729809"
+    },
+    {
+        name: "Lore and Legends Miserable Bundle ",
+        bundleID: "10729842",
+        itemIDs: ["10731531"],
+        tenPack: "10729830",
+        single: "10729809"
+    },
+    {
+        name: "Lore and Legends Mage Bundle ",
+        bundleID: "10729839",
+        itemIDs: ["10731489"],
+        tenPack: "10729830",
+        single: "10729809"
+    },
+    {
+        name: "Lore and Legends Froggy Bundle ",
+        bundleID: "10729836",
+        itemIDs: ["10731012"],
+        tenPack: "10729830",
+        single: "10729809"
+    },
+    {
+        name: "Better Petter Ascended Bundle ",
+        bundleID: "10724913",
+        itemIDs: ["10724928"],
+        tenPack: "10724901",
+        single: "10724895"
+    },
+    {
+        name: "Better Petter Holographic Bundle ",
+        bundleID: "10724910",
+        itemIDs: ["10724205"],
+        tenPack: "10724901",
+        single: "10724895"
+    },
+    {
+        name: "CONline Crunch Time Bundle ",
+        bundleID: "10723440",
+        itemIDs: ["10723383"],
+        tenPack: "10718958",
+        single: "10718937"
+    },
+    {
+        name: "CONline Brave Bundle ",
+        bundleID: "10718979",
+        itemIDs: ["10722777"],
+        tenPack: "10718958",
+        single: "10718937"
+    },
+    {
+        name: "CONline Sweet Bundle ",
+        bundleID: "10718976",
+        itemIDs: ["10720680"],
+        tenPack: "10718958",
+        single: "10718937"
+    },
+    {
+        name: "CONline Opulent Bundle ",
+        bundleID: "10718970",
+        itemIDs: ["10720962"],
+        tenPack: "10718958",
+        single: "10718937"
+    },
+    {
+        name: "CONline Sherbert Bundle ",
+        bundleID: "10718967",
+        itemIDs: ["10720617"],
+        tenPack: "10718958",
+        single: "10718937"
+    },
+    {
+        name: "CONline Ascended Bundle ",
+        bundleID: "10718964",
+        itemIDs: ["10720107"],
+        tenPack: "10718958",
+        single: "10718937"
+    },
+    {
+        name: "Summer Starter Trunk II Jelly Bundle ",
+        bundleID: "10716636",
+        itemIDs: ["10719108","10719084","10719138"],
+        tenPack: "10716624",
+        single: "10716618"
+    },
+    {
+        name: "Summer Starter Trunk II Beachy Bundle ",
+        bundleID: "10716633",
+        itemIDs: ["10718577","10718601","10719186"],
+        tenPack: "10716624",
+        single: "10716618"
+    },
+    {
+        name: "Shading Summer Colourful Bundle ",
+        bundleID: "10727733",
+        itemIDs: ["10727997"],
+        tenPack: "10727721",
+        single: "10727703"
+    },
+    {
+        name: "Shading Summer Bloody Bundle ",
+        bundleID: "10727730",
+        itemIDs: ["10727967"],
+        tenPack: "10727721",
+        single: "10727703"
+    },
+    {
+        name: "Holy Grounds Painted Bundle ",
+        bundleID: "10721781",
+        itemIDs: ["10720734"],
+        tenPack: "10721769",
+        single: "10721763"
+    },
+    {
+        name: "Holy Grounds Glorious Bundle ",
+        bundleID: "10721778",
+        itemIDs: ["10720773"],
+        tenPack: "10721769",
+        single: "10721763"
+    },
+    {
+        name: "Midsommar's Eve Skyward Bundle ",
+        bundleID: "10721349",
+        itemIDs: ["10718844"],
+        tenPack: "10721334",
+        single: "10721328"
+    },
+    {
+        name: "Midsommar's Eve Opal Bundle ",
+        bundleID: "10721343",
+        itemIDs: ["10722432"],
+        tenPack: "10721334",
+        single: "10721328"
+    },
+    {
+        name: "Fashion Fiends Good Bundle ",
+        bundleID: "10716615",
+        itemIDs: ["10716789"],
+        tenPack: "10716603",
+        single: "10716597"
+    },
+    {
+        name: "Fashion Fiends Boldly Bundle ",
+        bundleID: "10716612",
+        itemIDs: ["10716009"],
+        tenPack: "10716603",
+        single: "10716597"
+    },
+    {
+        name: "Circus Doll Trunk Cosmetics Bundle ",
+        bundleID: "10711959",
+        itemIDs: ["10712283","10712259","10710384"],
+        tenPack: "10711947",
+        single: "10711941"
+    },
+    {
+        name: "Circus Doll Trunk Foolish Bundle ",
+        bundleID: "10711956",
+        itemIDs: ["10710309","10710765","10710789"],
+        tenPack: "10711947",
+        single: "10711941"
+    },
+    {
+        name: "Foire du Gothique Breezy Bundle ",
+        bundleID: "10709925",
+        itemIDs: ["10713072"],
+        tenPack: "10709886",
+        single: "10709787"
+    },
+    {
+        name: "Foire du Gothique Vain Bundle ",
+        bundleID: "10709922",
+        itemIDs: ["10713018"],
+        tenPack: "10709886",
+        single: "10709787"
+    },
+    {
+        name: "Foire du Gothique Bloody Bundle ",
+        bundleID: "10709919",
+        itemIDs: ["10712097"],
+        tenPack: "10709886",
+        single: "10709787"
+    },
+    {
+        name: "Foire du Gothique Godly Bundle ",
+        bundleID: "10709916",
+        itemIDs: ["10712067"],
+        tenPack: "10709886",
+        single: "10709787"
+    },
+    {
+        name: "Foire du Gothique Pure Bundle ",
+        bundleID: "10709913",
+        itemIDs: ["10711350"],
+        tenPack: "10709886",
+        single: "10709787"
+    },
+    {
+        name: "Freezer Frenzy Gossamer Bundle ",
+        bundleID: "10708353",
+        itemIDs: ["10708167"],
+        tenPack: "10708341",
+        single: "10708335"
+    },
+    {
+        name: "Freezer Frenzy I Scream Bundle ",
+        bundleID: "10708350",
+        itemIDs: ["10710615"],
+        tenPack: "10708341",
+        single: "10708335"
+    },
+    {
+        name: "Mythical Mysteries Elusive Bundle ",
+        bundleID: "10707540",
+        itemIDs: ["10707387"],
+        tenPack: "10707528",
+        single: "10707522"
+    },
+    {
+        name: "Mythical Mysteries Floating Bundle ",
+        bundleID: "10707537",
+        itemIDs: ["10708101"],
+        tenPack: "10707528",
+        single: "10707522"
+    },
+    {
+        name: "Familiar Campgrounds Heavensent Bundle ",
+        bundleID: "10705020",
+        itemIDs: ["10705452"],
+        tenPack: "10705008",
+        single: "10705002"
+    },
+    {
+        name: "Familiar Campgrounds Rainy Bundle ",
+        bundleID: "10705017",
+        itemIDs: ["10705197"],
+        tenPack: "10705008",
+        single: "10705002"
+    },
+    {
+        name: "Surf & Turf Blossom Bundle ",
+        bundleID: "10702839",
+        itemIDs: ["10704231"],
+        tenPack: "10700004",
+        single: "10699983"
+    },
+    {
+        name: "Surf & Turf Heavenly Bundle ",
+        bundleID: "10700019",
+        itemIDs: ["10704081"],
+        tenPack: "10700004",
+        single: "10699983"
+    },
+    {
+        name: "Surf & Turf Cathartic Bundle ",
+        bundleID: "10700016",
+        itemIDs: ["10702803"],
+        tenPack: "10700004",
+        single: "10699983"
+    },
+    {
+        name: "Surf & Turf Quacking Bundle ",
+        bundleID: "10700013",
+        itemIDs: ["10701948"],
+        tenPack: "10700004",
+        single: "10699983"
+    },
+    {
+        name: "Surf & Turf Blooming Bundle ",
+        bundleID: "10700010",
+        itemIDs: ["10701342"],
+        tenPack: "10700004",
+        single: "10699983"
+    },
+    {
+        name: "RPGeez! II: Open Beta Patch Bundle ",
+        bundleID: "10700541",
+        itemIDs: ["10700439"],
+        tenPack: "10692978",
+        single: "10692957"
+    },
+    {
+        name: "RPGeez! II: Open Beta Master Bundle ",
+        bundleID: "10696749",
+        itemIDs: ["10696698"],
+        tenPack: "10692978",
+        single: "10692957"
+    },
+    {
+        name: "RPGeez! II: Open Beta Blossoming Bundle ",
+        bundleID: "10694124",
+        itemIDs: ["10696257"],
+        tenPack: "10692978",
+        single: "10692957"
+    },
+    {
+        name: "RPGeez! II: Open Beta Comet Bundle ",
+        bundleID: "10692990",
+        itemIDs: ["10695870"],
+        tenPack: "10692978",
+        single: "10692957"
+    },
+    {
+        name: "RPGeez! II: Open Beta Brave Bundle ",
+        bundleID: "10692987",
+        itemIDs: ["10695444"],
+        tenPack: "10692978",
+        single: "10692957"
+    },
+    {
+        name: "RPGeez! II: Open Beta Ancient Bundle ",
+        bundleID: "10692984",
+        itemIDs: ["10694868"],
+        tenPack: "10692978",
+        single: "10692957"
     },
     // {
     //     name: "",
