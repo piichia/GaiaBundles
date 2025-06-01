@@ -4858,96 +4858,96 @@ let RIGbundles = [
         single: "10551594"
     },
     // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
+    //     name: "Lucky Capsule: Strings of Fate Bundle ",
+    //     bundleID: "10614717",
+    //     itemIDs: ["10614744"],
     //     tenPack: "",
     //     single: ""
     // },
+    {
+        name: "Winter Hairball II Heavenly Bundle ",
+        bundleID: "10577745",
+        itemIDs: ["10579692","10579770","10579746"],
+        tenPack: "10577730",
+        single: "10577724"
+    },
+    {
+        name: "Winter Hairball II Fluffy Bundle ",
+        bundleID: "10577742",
+        itemIDs: ["10579095","10579716"],
+        tenPack: "10577730",
+        single: "10577724"
+    },
+    {
+        name: "Winter Hairball II Stylish Bundle ",
+        bundleID: "10577739",
+        itemIDs: ["10577676","10579218"],
+        tenPack: "10577730",
+        single: "10577724"
+    },
+    {
+        name: "Dreamer's Delight Colorful Bundle ",
+        bundleID: "10576590",
+        itemIDs: ["10576524"],
+        tenPack: "10576578",
+        single: "10576572"
+    },
+    {
+        name: "Dreamer's Delight Miserable Bundle ",
+        bundleID: "10576587",
+        itemIDs: ["10577514"],
+        tenPack: "10576578",
+        single: "10576572"
+    },
     // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
+    //     name: "Fantastic Finds: Party Pack ",
+    //     bundleID: "10574772",
+    //     itemIDs: ["10558173"],
     //     tenPack: "",
-    //     single: ""
+    //     single: "10574760"
     // },
+    {
+        name: "Shinryu's Domain Starry Bundle ",
+        bundleID: "10573770",
+        itemIDs: ["10573875"],
+        tenPack: "10573758",
+        single: "10573752"
+    },
+    {
+        name: "Shinryu's Domain Aurora Bundle ",
+        bundleID: "10573767",
+        itemIDs: ["10573548"],
+        tenPack: "10573758",
+        single: "10573752"
+    },
+    {
+        name: "Hide Nor Hare Galactic Bundle ",
+        bundleID: "10600689",
+        itemIDs: ["10601706"],
+        tenPack: "10600680",
+        single: "10600674"
+    },
     // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
+    //     name: "Hide Nor Hare Chilly Bundle ",
+    //     bundleID: "10600692",
+    //     itemIDs: ["10603770"],
+    //     tenPack: "10600680",
+    //     single: "10600674"
     // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "The Luckiest Catch II Heavenly Bundle ",
+        bundleID: "10561506",
+        itemIDs: ["10562517"],
+        tenPack: "10561494",
+        single: "10561488"
+    },
+    {
+        name: "The Luckiest Catch II Galactic Bundle ",
+        bundleID: "10561503",
+        itemIDs: ["10561293"],
+        tenPack: "10561494",
+        single: "10561488"
+    },
     // {
     //     name: "",
     //     bundleID: "",

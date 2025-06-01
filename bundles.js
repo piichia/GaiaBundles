@@ -15025,16 +15025,16 @@ let bundleList = [
     //     itemData: "10618218",
     //     contains: ["","","","","","","","","","","",""]
     // },
-    // {
-    //     name: "Little Black Bundle ",
-    //     itemData: "10618110",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Call Me Up Bundle ",
-    //     itemData: "10617762",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Little Black Bundle ",
+        itemData: "10618110",
+        contains: ["10128115","10237631","10064939","10108079","10154337","10280937","10286377","10029247","10173445","10022221"]
+    },
+    {
+        name: "Call Me Up Bundle ",
+        itemData: "10617762",
+        contains: ["44162","10129641","10517230","10471149","10383073","10449185","10525442","10507866"]
+    },
     {
         name: "Special Royal Locks Bundle ",
         itemData: "10617657",
@@ -15050,11 +15050,11 @@ let bundleList = [
         itemData: "10617651",
         contains: ["10617792","10617888"]
     },
-    // {
-    //     name: "Recalling All Heroes! ",
-    //     itemData: "10617504",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Recalling All Heroes! ",
+        itemData: "10617504",
+        contains: ["10617414","10617444","10618161","10618269"]
+    },
     // {
     //     name: "Looking Casual Bundle ",
     //     itemData: "10617462",
@@ -15065,11 +15065,11 @@ let bundleList = [
     //     itemData: "10617387",
     //     contains: ["","","","","","","","","","","",""]
     // },
-    // {
-    //     name: "Whole Lotta Hair Bundle ",
-    //     itemData: "10617096",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Whole Lotta Hair Bundle ",
+        itemData: "10617096",
+        contains: ["10365113","10333915","10137507","10440127","10173117","10118239","10118439","10096017","10510370","10118271","10118453","10426235","10118577","10267161"]
+    },
     // {
     //     name: "Memorial Sale 2k19: Summer Cooking Bundle ",
     //     itemData: "10616811",
@@ -15120,16 +15120,16 @@ let bundleList = [
     //     itemData: "10612227",
     //     contains: ["","","","","","","","","","","",""]
     // },
-    // {
-    //     name: "A SHOE! ",
-    //     itemData: "10610373",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
-    // {
-    //     name: "Coupon Classics ",
-    //     itemData: "10609215",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "A SHOE! ",
+        itemData: "10610373",
+        contains: ["10262831","10319619","10447003","10324089","10317473","10416787","10460195","10449853","10606803"]
+    },
+    {
+        name: "Coupon Classics ",
+        itemData: "10609215",
+        contains: ["10267657","10112941","10116043"]
+    },
     // {
     //     name: "Thrift Star Finds ",
     //     itemData: "10609071",
