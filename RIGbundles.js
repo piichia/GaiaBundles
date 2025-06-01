@@ -2309,97 +2309,97 @@ let RIGbundles = [
         tenPack: "10806819",
         single: "10806813"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Gothic Grievances Sweet Bundle ",
+        bundleID: "10804638",
+        itemIDs: ["10806462"],
+        tenPack: "10804626",
+        single: "10804620"
+    },
+    {
+        name: "Gothic Grievances Shady Bundle ",
+        bundleID: "10804635",
+        itemIDs: ["10804179"],
+        tenPack: "10804626",
+        single: "10804620"
+    },
+    {
+        name: "Garden's Growth Momo Bundle ",
+        bundleID: "10803606",
+        itemIDs: ["10802997"],
+        tenPack: "10803594",
+        single: "10803588"
+    },
+    {
+        name: "Garden's Growth Soft Bundle ",
+        bundleID: "10803603",
+        itemIDs: ["10802484"],
+        tenPack: "10803594",
+        single: "10803588"
+    },
+    {
+        name: "Demonically Demanding Deceitful Bundle ",
+        bundleID: "10791063",
+        itemIDs: ["10791174"],
+        tenPack: "10791051",
+        single: "10791045"
+    },
+    {
+        name: "Demonically Demanding Rosy Bundle ",
+        bundleID: "10791060",
+        itemIDs: ["10791228"],
+        tenPack: "10791051",
+        single: "10791045"
+    },
+    {
+        name: "Stolen Styles Extended Bundle ",
+        bundleID: "10792560",
+        itemIDs: ["10799364","10800567"],
+        tenPack: "10792545",
+        single: "10792539"
+    },
+    {
+        name: "Stolen Styles Twintails Bundle ",
+        bundleID: "10792557",
+        itemIDs: ["10799430","10799334"],
+        tenPack: "10792545",
+        single: "10792539"
+    },
+    {
+        name: "Stolen Styles Bangin' Bundle ",
+        bundleID: "10792554",
+        itemIDs: ["10799460","10799304"],
+        tenPack: "10792545",
+        single: "10792539"
+    },
+    {
+        name: "Season's Splendors Twinkling Bundle ",
+        bundleID: "10794438",
+        itemIDs: ["10795275"],
+        tenPack: "10794426",
+        single: "10794420"
+    },
+    {
+        name: "Season's Splendors Quacking Bundle ",
+        bundleID: "10794435",
+        itemIDs: ["10795191"],
+        tenPack: "10794426",
+        single: "10794420"
+    },
+    {
+        name: "Flight Frenzy Heavenly Bundle ",
+        bundleID: "10795362",
+        itemIDs: ["10798140"],
+        tenPack: "10795350",
+        single: "10795344"
+    },
+    {
+        name: "Flight Frenzy Opal Bundle ",
+        bundleID: "10795359",
+        itemIDs: ["10797693"],
+        tenPack: "10795350",
+        single: "10795344"
+    },
     // {
     //     name: "",
     //     bundleID: "",
