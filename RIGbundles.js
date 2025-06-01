@@ -6544,118 +6544,118 @@ let RIGbundles = [
         tenPack: "10380339",
         single: "10380335"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Paradiso Island Suika Bundle ",
+        bundleID: "10379057",
+        itemIDs: ["10373785"],
+        tenPack: "10379049",
+        single: "10379045"
+    },
+    {
+        name: "Paradiso Island Cool Bundle ",
+        bundleID: "10379055",
+        itemIDs: ["10373677"],
+        tenPack: "10379049",
+        single: "10379045"
+    },
+    {
+        name: "Men's Fashion Week Starry Bundle ",
+        bundleID: "10378535",
+        itemIDs: ["10361157"],
+        tenPack: "10378527",
+        single: "10378523"
+    },
+    {
+        name: "Men's Fashion Week Bubbly Bundle ",
+        bundleID: "10378533",
+        itemIDs: ["10371297"],
+        tenPack: "10378527",
+        single: "10378523"
+    },
+    {
+        name: "City of Sin Eternal Bundle ",
+        bundleID: "11137374",
+        itemIDs: ["11136939","11136906"],
+        tenPack: "11137365",
+        single: "11137359"
+    },
+    {
+        name: "A Little SKINdalous Nebula Bundle ",
+        bundleID: "11110827",
+        itemIDs: ["11110581","11110614"],
+        tenPack: "11110815",
+        single: "11110809"
+    },
+    {
+        name: "A Little SKINdalous Lyrical Bundle ",
+        bundleID: "11110824",
+        itemIDs: ["11110980"],
+        tenPack: "11110815",
+        single: "11110809"
+    },
+    {
+        name: "Ascendants Wishful Bundle ",
+        bundleID: "11110224",
+        itemIDs: ["11114715"],
+        tenPack: "11110206",
+        single: "11110185"
+    },
+    {
+        name: "Ascendants Deep Bundle ",
+        bundleID: "11110221",
+        itemIDs: ["11114640"],
+        tenPack: "11110206",
+        single: "11110185"
+    },
+    {
+        name: "Ascendants Sprinkles Bundle ",
+        bundleID: "11110218",
+        itemIDs: ["11113683"],
+        tenPack: "11110206",
+        single: "11110185"
+    },
+    {
+        name: "Ascendants Abyss Bundle ",
+        bundleID: "11110215",
+        itemIDs: ["11113284"],
+        tenPack: "11110206",
+        single: "11110185"
+    },
+    {
+        name: "Ascendants Foggy Bundle ",
+        bundleID: "11110212",
+        itemIDs: ["11111991"],
+        tenPack: "11110206",
+        single: "11110185"
+    },
+    {
+        name: "Change of Scenery Classic Bundle ",
+        bundleID: "11107581",
+        itemIDs: ["11109135"],
+        tenPack: "11107569",
+        single: "11107563"
+    },
+    {
+        name: "Change of Scenery Autumnal Bundle ",
+        bundleID: "11107578",
+        itemIDs: ["11107905"],
+        tenPack: "11107569",
+        single: "11107563"
+    },
+    {
+        name: "Cheers! Goddess Bundle ",
+        bundleID: "11107122",
+        itemIDs: ["11106837","11107047"],
+        tenPack: "11107110",
+        single: "11107104"
+    },
+    {
+        name: "Cheers! Pure Bundle ",
+        bundleID: "11107119",
+        itemIDs: ["11105229"],
+        tenPack: "11107110",
+        single: "11107104"
+    },
     // {
     //     name: "",
     //     bundleID: "",
