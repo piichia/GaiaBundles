@@ -14225,11 +14225,11 @@ let bundleList = [
         itemData: "10668156",
         contains: ["10042205","10106455","10326745","10070031","10058697","10067017","10057031","10060299"]
     },
-    // {
-    //     name: "Hop Into It ",
-    //     itemData: "10668141",
-    //     contains: ["","","","","","","","","","10592898","10609692","10598286"]
-    // },
+    { //Froggy Spells Collection 10540674
+        name: "Hop Into It ",
+        itemData: "10668141",
+        contains: ["10087560","10240119","10265179","10153947","10610718","10592898","10609692","10598286"]
+    },
     {
         name: "Why Hit Rocks? ",
         itemData: "10668132",
@@ -14475,11 +14475,11 @@ let bundleList = [
         itemData: "10647474",
         contains: ["10468245","90113","90367","10164149","10434145","10465055"]
     },
-    // { //DIE GEHASSTEN UNABLE TO BE FOUND
-    //     name: "Gaian Style Showcase: Coats ",
-    //     itemData: "10647303",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    { //DIE GEHASSTEN UNABLE TO BE FOUND 
+        name: "Gaian Style Showcase: Coats ",
+        itemData: "10647303",
+        contains: ["10544346","10374727","10581120","10482688","10500082"]
+    },
     {
         name: "Wizarding Schools: Loyal ",
         itemData: "10646322",
@@ -19611,11 +19611,11 @@ let bundleList = [
         itemData: "10695822",
         contains: ["10695279","10694055","10695564","10695294","10694079","10695468","10695687","10695081"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: ["","","","","","","","","","","",""]
-    // },
+    {
+        name: "Sun Phoenix and Fox Bundle ",
+        itemData: "10635975",
+        contains: ["10476294","10120143","10428203","10115533","10238513","10387811"]
+    },
     // {
     //     name: "",
     //     itemData: "",
