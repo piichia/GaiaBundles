@@ -2631,97 +2631,97 @@ let RIGbundles = [
         tenPack: "10774872",
         single: "10774866"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Fantasia Fest Skyward Bundle ",
+        bundleID: "10801674",
+        itemIDs: ["10801797"],
+        tenPack: "10801662",
+        single: "10801656"
+    },
+    {
+        name: "Fantasia Fest Bubbly Bundle ",
+        bundleID: "10801671",
+        itemIDs: ["10801875"],
+        tenPack: "10801662",
+        single: "10801656"
+    },
+    {
+        name: "Elysiums End Dancer DLC Bundle ",
+        bundleID: "10802031",
+        itemIDs: ["10801389"],
+        tenPack: "10796889",
+        single: "10796868"
+    },
+    {
+        name: "Tempestarii Blossoming Bundle ",
+        bundleID: "10806162",
+        itemIDs: ["10809048"],
+        tenPack: "10806144",
+        single: "10806123"
+    },
+    {
+        name: "Tempestarii Heavenly Bundle ",
+        bundleID: "10806159",
+        itemIDs: ["10808493"],
+        tenPack: "10806144",
+        single: "10806123"
+    },
+    {
+        name: "Tempestarii Rainy Bundle ",
+        bundleID: "10806156",
+        itemIDs: ["10808127"],
+        tenPack: "10806144",
+        single: "10806123"
+    },
+    {
+        name: "Tempestarii Classic Bundle ",
+        bundleID: "10806153",
+        itemIDs: ["10806495"],
+        tenPack: "10806144",
+        single: "10806123"
+    },
+    {
+        name: "Tempestarii Purified Bundle ",
+        bundleID: "10806150",
+        itemIDs: ["10807761"],
+        tenPack: "10806144",
+        single: "10806123"
+    },
+    {
+        name: "Elysium's End Tracer Bundle ",
+        bundleID: "10796907",
+        itemIDs: ["10800477"],
+        tenPack: "10796889",
+        single: "10796868"
+    },
+    {
+        name: "Elysium's End Curative Bundle ",
+        bundleID: "10796904",
+        itemIDs: ["10800510"],
+        tenPack: "10796889",
+        single: "10796868"
+    },
+    {
+        name: "Elysium's End Ninja Bundle ",
+        bundleID: "10796901",
+        itemIDs: ["10799094"],
+        tenPack: "10796889",
+        single: "10796868"
+    },
+    {
+        name: "Elysium's End Melodious Bundle ",
+        bundleID: "10796898",
+        itemIDs: ["10799955"],
+        tenPack: "10796889",
+        single: "10796868"
+    },
+    {
+        name: "Elysium's End Bardbarian Bundle ",
+        bundleID: "10796895",
+        itemIDs: ["10798788"],
+        tenPack: "10796889",
+        single: "10796868"
+    },
     // {
     //     name: "",
     //     bundleID: "",
