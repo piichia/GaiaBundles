@@ -2400,6 +2400,398 @@ let RIGbundles = [
         tenPack: "10795350",
         single: "10795344"
     },
+    {
+        name: "Sharp Instincts Twinkling Bundle ",
+        bundleID: "10784538",
+        itemIDs: ["10787040"],
+        tenPack: "10784526",
+        single: "10784520"
+    },
+    {
+        name: "Sharp Instincts Sublime Bundle ",
+        bundleID: "10784535",
+        itemIDs: ["10784769"],
+        tenPack: "10784526",
+        single: "10784520"
+    },
+    {
+        name: "Royal Recruits Skyward Bundle ",
+        bundleID: "10786446",
+        itemIDs: ["10789662"],
+        tenPack: "10786434",
+        single: "10786428"
+    },
+    {
+        name: "Royal Recruits Divine Bundle ",
+        bundleID: "10786443",
+        itemIDs: ["10789128"],
+        tenPack: "10786434",
+        single: "10786428"
+    },
+    {
+        name: "Lisa's Garden Pale Bundle ",
+        bundleID: "10787523",
+        itemIDs: ["10790682"],
+        tenPack: "10787505",
+        single: "10787484"
+    },
+    {
+        name: "Lisa's Garden Ornate Bundle ",
+        bundleID: "10787520",
+        itemIDs: ["10790016"],
+        tenPack: "10787505",
+        single: "10787484"
+    },
+    {
+        name: "Lisa's Garden Earthen Bundle ",
+        bundleID: "10787517",
+        itemIDs: ["10789959"],
+        tenPack: "10787505",
+        single: "10787484"
+    },
+    {
+        name: "Lisa's Garden Bold Bundle ",
+        bundleID: "10787514",
+        itemIDs: ["10788264"],
+        tenPack: "10787505",
+        single: "10787484"
+    },
+    {
+        name: "Lisa's Garden Sweet Bundle ",
+        bundleID: "10787511",
+        itemIDs: ["10788021"],
+        tenPack: "10787505",
+        single: "10787484"
+    },
+    {
+        name: "Jest Joking Glorious Bundle ",
+        bundleID: "10790985",
+        itemIDs: ["10792404"],
+        tenPack: "10790973",
+        single: "10790967"
+    },
+    {
+        name: "Jest Joking Exclusive Bundle ",
+        bundleID: "10790982",
+        itemIDs: ["10791672"],
+        tenPack: "10790973",
+        single: "10790967"
+    },
+    {
+        name: "Lunar Lagoon Verdant Bundle ",
+        bundleID: "10779363",
+        itemIDs: ["10779282"],
+        tenPack: "10779351",
+        single: "10779345"
+    },
+    {
+        name: "Lunar Lagoon Shiny Bundle ",
+        bundleID: "10779360",
+        itemIDs: ["10779951"],
+        tenPack: "10779351",
+        single: "10779345"
+    },
+    {
+        name: "Luck of the Gaian II Soft Bundle ",
+        bundleID: "10784046",
+        itemIDs: ["10785267"],
+        tenPack: "10784034",
+        single: "10784028"
+    },
+    {
+        name: "Luck of the Gaian II Mossy Bundle ",
+        bundleID: "10784043",
+        itemIDs: ["10784715"],
+        tenPack: "10784034",
+        single: "10784028"
+    },
+    {
+        name: "Borrowed Baubles II Zoological Bundle ",
+        bundleID: "10777845",
+        itemIDs: ["10783479","10782243"],
+        tenPack: "10777827",
+        single: "10777821"
+    },
+    {
+        name: "Borrowed Baubles II Sharp Bundle ",
+        bundleID: "10777842",
+        itemIDs: ["10783950","10783449"],
+        tenPack: "10777827",
+        single: "10777821"
+    },
+    {
+        name: "Borrowed Baubles II Angelic Bundle ",
+        bundleID: "10777839",
+        itemIDs: ["10782612","10783998"],
+        tenPack: "10777827",
+        single: "10777821"
+    },
+    {
+        name: "Borrowed Baubles II Fabulous Bundle ",
+        bundleID: "10777836",
+        itemIDs: ["10782582","10782210"],
+        tenPack: "10777827",
+        single: "10777821"
+    },
+    {
+        name: "Tailored Star: Mixed Messages Nightmare Bundle ",
+        bundleID: "10782723",
+        itemIDs: ["10782747"],
+        tenPack: "10780089",
+        single: "10780068"
+    },
+    {
+        name: "Tailored Star: Mixed Messages Ascended Bundle ",
+        bundleID: "10780107",
+        itemIDs: ["10782273"],
+        tenPack: "10780089",
+        single: "10780068"
+    },
+    {
+        name: "Tailored Star: Mixed Messages Gluttonous Bundle ",
+        bundleID: "10780104",
+        itemIDs: ["10781418"],
+        tenPack: "10780089",
+        single: "10780068"
+    },
+    {
+        name: "Tailored Star: Mixed Messages Goddess Bundle ",
+        bundleID: "10780101",
+        itemIDs: ["10782138"],
+        tenPack: "10780089",
+        single: "10780068"
+    },
+    {
+        name: "Tailored Star: Mixed Messages Dark Bundle ",
+        bundleID: "10780098",
+        itemIDs: ["10779069"],
+        tenPack: "10780089",
+        single: "10780068"
+    },
+    {
+        name: "Tailored Star: Mixed Messages Sleepy Bundle ",
+        bundleID: "10780095",
+        itemIDs: ["10780494"],
+        tenPack: "10780089",
+        single: "10780068"
+    },
+    {
+        name: "Lover's Lane Valentine's Bundle ",
+        bundleID: "10777290",
+        itemIDs: ["10778988"],
+        tenPack: "10777278",
+        single: "10777272"
+    },
+    {
+        name: "Lover's Lane Aggressive Bundle ",
+        bundleID: "10777287",
+        itemIDs: ["10777956"],
+        tenPack: "10777278",
+        single: "10777272"
+    },
+    {
+        name: "Paired Off Opalescent Bundle ",
+        bundleID: "10776471",
+        itemIDs: ["10777239"],
+        tenPack: "10776459",
+        single: "10776453"
+    },
+    {
+        name: "Paired Off Shady Bundle ",
+        bundleID: "10776468",
+        itemIDs: ["10777062"],
+        tenPack: "10776459",
+        single: "10776453"
+    },
+    {
+        name: "Borrowed Baubles Catty Bundle ",
+        bundleID: "10774896",
+        itemIDs: ["10775292","10775427"],
+        tenPack: "10774872",
+        single: "10774866"
+    },
+    {
+        name: "Borrowed Baubles Fluffy Bundle ",
+        bundleID: "10774893",
+        itemIDs: ["10775457","10775487"],
+        tenPack: "10774872",
+        single: "10774866"
+    },
+    {
+        name: "Borrowed Baubles Sovereign Bundle ",
+        bundleID: "10774890",
+        itemIDs: ["10775328","10776063"],
+        tenPack: "10774872",
+        single: "10774866"
+    },
+    {
+        name: "Borrowed Baubles Horned Bundle ",
+        bundleID: "10774887",
+        itemIDs: ["10774110","10774140"],
+        tenPack: "10774872",
+        single: "10774866"
+    },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
     // {
     //     name: "",
     //     bundleID: "",
