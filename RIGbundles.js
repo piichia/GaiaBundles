@@ -6089,6 +6089,342 @@ let RIGbundles = [
         tenPack: "10434397",
         single: "10434393"
     },
+    {
+        name: "Seraphim's Calling Opalescent Bundle ",
+        bundleID: "10434061",
+        itemIDs: ["10433073"],
+        tenPack: "10434035",
+        single: "10434031"
+    },
+    {
+        name: "Seraphim's Calling Angelic Bundle ",
+        bundleID: "10434041",
+        itemIDs: ["10432905"],
+        tenPack: "10434035",
+        single: "10434031"
+    },
+    {
+        name: "Toy Workshop Opalescent Bundle ",
+        bundleID: "10430293",
+        itemIDs: ["10425739"],
+        tenPack: "10430285",
+        single: "10430281"
+    },
+    {
+        name: "Toy Workshop Miserable Bundle ",
+        bundleID: "10430291",
+        itemIDs: ["10422791"],
+        tenPack: "10430285",
+        single: "10430281"
+    },
+    {
+        name: "Monthly Unraveling Maleficent Bundle ",
+        bundleID: "10432043",
+        itemIDs: ["10430243"],
+        tenPack: "10432035",
+        single: "10432031"
+    },
+    {
+        name: "Monthly Unraveling Ethereal Bundle ",
+        bundleID: "10432041",
+        itemIDs: ["10431481"],
+        tenPack: "10432035",
+        single: "10432031"
+    },
+    {
+        name: "Winter Ball Trunk Aether Bundle ",
+        bundleID: "10428771",
+        itemIDs: ["10429395","10429415","10422743"],
+        tenPack: "10428763",
+        single: "10428755"
+    },
+    {
+        name: "Winter Ball Trunk Glistening Bundle ",
+        bundleID: "10428769",
+        itemIDs: ["10422783","10429205","10429225"],
+        tenPack: "10428763",
+        single: "10428755"
+    },
+    {
+        name: "Falling Flowers Sherbert Bundle ",
+        bundleID: "10426471",
+        itemIDs: ["10422115"],
+        tenPack: "10426463",
+        single: "10426459"
+    },
+    {
+        name: "Falling Flowers Somber Bundle ",
+        bundleID: "10426469",
+        itemIDs: ["10422971"],
+        tenPack: "10426463",
+        single: "10426459"
+    },
+    {
+        name: "Fall Fashion Week Celestial Bundle ",
+        bundleID: "10425319",
+        itemIDs: ["10421687"],
+        tenPack: "10425311",
+        single: "10425307"
+    },
+    {
+        name: "Fall Fashion Week Rotten Bundle ",
+        bundleID: "10425317",
+        itemIDs: ["10421555"],
+        tenPack: "10425311",
+        single: "10425307"
+    },
+    {
+        name: "Boo Bash Twoo Magical Bundle ",
+        bundleID: "10420261",
+        itemIDs: ["10403317"],
+        tenPack: "10420253",
+        single: "10420249"
+    },
+    {
+        name: "Boo Bash Twoo Somber Bundle ",
+        bundleID: "10420259",
+        itemIDs: ["10402431"],
+        tenPack: "10420253",
+        single: "10420249"
+    },
+    {
+        name: "Freaky Hauntday Serious Bundle ",
+        bundleID: "10419283",
+        itemIDs: ["10399293"],
+        tenPack: "10419275",
+        single: "10419271"
+    },
+    {
+        name: "Freaky Hauntday Agonized Bundle ",
+        bundleID: "10419281",
+        itemIDs: ["10307541"],
+        tenPack: "10419275",
+        single: "10419271"
+    },
+    {
+        name: "Hallow's Weave Stylish Bundle ",
+        bundleID: "10420185",
+        itemIDs: ["10421627","10422057","10422009"],
+        tenPack: "10419009",
+        single: "10419005"
+    },
+    {
+        name: "Hallow's Weave Malicious Bundle ",
+        bundleID: "10420183",
+        itemIDs: ["10419933","10420965"],
+        tenPack: "10419009",
+        single: "10419005"
+    },
+    {
+        name: "Hallow's Weave Savage Bundle ",
+        bundleID: "10420181",
+        itemIDs: ["10419823","10420889"],
+        tenPack: "10419009",
+        single: "10419005"
+    },
+    {
+        name: "Netherhood Watch Displeased Rosy Bundle ",
+        bundleID: "10417505",
+        itemIDs: ["10424175","10424473"],
+        tenPack: "10417491",
+        single: "10417475"
+    },
+    {
+        name: "Netherhood Watch Slime Bundle ",
+        bundleID: "10417503",
+        itemIDs: ["10419723","10419735","10419763"],
+        tenPack: "10417491",
+        single: "10417475"
+    },
+    {
+        name: "Netherhood Watch Jaded Bundle ",
+        bundleID: "10417501",
+        itemIDs: ["10421075"],
+        tenPack: "10417507",
+        single: "10417487"
+    },
+    {
+        name: "Netherhood Watch Walking Bundle ",
+        bundleID: "10417499",
+        itemIDs: ["10419425"],
+        tenPack: "10417507",
+        single: "10417487"
+    },
+    {
+        name: "Netherhood Watch Magical Bundle ",
+        bundleID: "10417497",
+        itemIDs: ["10421025"],
+        tenPack: "10417491",
+        single: "10417475"
+    },
+    {
+        name: "Netherhood Watch Classic Bundle ",
+        bundleID: "10417495",
+        itemIDs: ["10419509"],
+        tenPack: "10417491",
+        single: "10417475"
+    },
+    {
+        name: "Bewitchin' Ethereal Bundle ",
+        bundleID: "10417101",
+        itemIDs: ["10414359"],
+        tenPack: "10417093",
+        single: "10417089"
+    },
+    {
+        name: "Bewitchin' Serious Bundle ",
+        bundleID: "10417099",
+        itemIDs: ["10383345"],
+        tenPack: "10417093",
+        single: "10417089"
+    },
+    {
+        name: "Spooky Doll Trunk Witch Bundle ",
+        bundleID: "10415715",
+        itemIDs: ["10415717","10415737","10415637"],
+        tenPack: "10408375",
+        single: "10408371"
+    },
+    {
+        name: "Spooky Doll Trunk Demon Bundle ",
+        bundleID: "10415713",
+        itemIDs: ["10415653","10415673","10415693"],
+        tenPack: "10408375",
+        single: "10408371"
+    },
+    {
+        name: "Hallowpunks Rusted Bundle ",
+        bundleID: "10415379",
+        itemIDs: ["10397867"],
+        tenPack: "10415371",
+        single: "10415367"
+    },
+    {
+        name: "Hallowpunks Ghastly Bundle ",
+        bundleID: "10415377",
+        itemIDs: ["10390801"],
+        tenPack: "10415371",
+        single: "10415367"
+    },
+    {
+        name: "Curse of the Vampires Sinful Bundle ",
+        bundleID: "10415593",
+        itemIDs: ["10397621"],
+        tenPack: "10415585",
+        single: "10415581"
+    },
+    {
+        name: "Curse of the Vampires Babycakes Bundle ",
+        bundleID: "10415591",
+        itemIDs: ["10396047"],
+        tenPack: "10415585",
+        single: "10415581"
+    },
+    {
+        name: "Bargain Bin Sinful Bundle ",
+        bundleID: "10413363",
+        itemIDs: ["10316641"],
+        tenPack: "10413355",
+        single: "10413351"
+    },
+    {
+        name: "Bargain Bin Scary Bundle ",
+        bundleID: "10413361",
+        itemIDs: ["10381905"],
+        tenPack: "10413355",
+        single: "10413351"
+    },
+    {
+        name: "Monthly Treasures Wild Bundle ",
+        bundleID: "10404557",
+        itemIDs: ["10391855"],
+        tenPack: "10404549",
+        single: "10404545"
+    },
+    {
+        name: "Monthly Treasures Classical Bundle ",
+        bundleID: "10404555",
+        itemIDs: ["10390395"],
+        tenPack: "10404549",
+        single: "10404545"
+    },
+    {
+        name: "The Factions Mystic Bundle ",
+        bundleID: "10405015",
+        itemIDs: ["10393355"],
+        tenPack: "10405007",
+        single: "10405003"
+    },
+    {
+        name: "The Factions White Bundle ",
+        bundleID: "10405013",
+        itemIDs: ["10390737"],
+        tenPack: "10405007",
+        single: "10405003"
+    },
+    {
+        name: "Let's Camp Burning Bundle ",
+        bundleID: "10404293",
+        itemIDs: ["10388585"],
+        tenPack: "10404285",
+        single: "10404281"
+    },
+    {
+        name: "Let's Camp Ancient Bundle ",
+        bundleID: "10404291",
+        itemIDs: ["10390007"],
+        tenPack: "10404285",
+        single: "10404281"
+    },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
     // {
     //     name: "",
     //     bundleID: "",
