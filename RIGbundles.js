@@ -2722,27 +2722,237 @@ let RIGbundles = [
         tenPack: "10796889",
         single: "10796868"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Crystalline Creations Vintage Bundle ",
+        bundleID: "10772721",
+        itemIDs: ["10776474"],
+        tenPack: "10772700",
+        single: "10772679"
+    },
+    {
+        name: "Crystalline Creations Melancholy Bundle ",
+        bundleID: "10772718",
+        itemIDs: ["10775574"],
+        tenPack: "10772700",
+        single: "10772679"
+    },
+    {
+        name: "Crystalline Creations Fiery Bundle ",
+        bundleID: "10772715",
+        itemIDs: ["10775517"],
+        tenPack: "10772700",
+        single: "10772679"
+    },
+    {
+        name: "Crystalline Creations Elegant Bundle ",
+        bundleID: "10772712",
+        itemIDs: ["10773753"],
+        tenPack: "10772700",
+        single: "10772679"
+    },
+    {
+        name: "Crystalline Creations Pure Bundle ",
+        bundleID: "10772709",
+        itemIDs: ["10772832"],
+        tenPack: "10772700",
+        single: "10772679"
+    },
+    {
+        name: "Crystalline Creations Ja-Dead Bundle ",
+        bundleID: "10772706",
+        itemIDs: ["10772652"],
+        tenPack: "10772700",
+        single: "10772679"
+    },
+    {
+        name: "The Cat's Call Painted Bundle ",
+        bundleID: "10770885",
+        itemIDs: ["10772139"],
+        tenPack: "10770873",
+        single: "10770867"
+    },
+    {
+        name: "The Cat's Call Sooty Bundle ",
+        bundleID: "10770882",
+        itemIDs: ["10771995"],
+        tenPack: "10770873",
+        single: "10770867"
+    },
+    {
+        name: "Marionette Madness Void Bundle ",
+        bundleID: "10768986",
+        itemIDs: ["10770120"],
+        tenPack: "10768974",
+        single: "10768968"
+    },
+    {
+        name: "Marionette Madness Vacant Bundle ",
+        bundleID: "10768983",
+        itemIDs: ["10770492"],
+        tenPack: "10768974",
+        single: "10768968"
+    },
+    {
+        name: "Steamy Nights II Muted Bundle ",
+        bundleID: "10767816",
+        itemIDs: ["10768926"],
+        tenPack: "10767804",
+        single: "10767798"
+    },
+    {
+        name: "Steamy Nights II Ambrosial Bundle ",
+        bundleID: "10767813",
+        itemIDs: ["10768701"],
+        tenPack: "10767804",
+        single: "10767798"
+    },
+    {
+        name: "Snowball Styles Fantastic Bundle ",
+        bundleID: "10765227",
+        itemIDs: ["10766490","10767483"],
+        tenPack: "10765212",
+        single: "10765206"
+    },
+    {
+        name: "Snowball Styles Dazzling Bundle ",
+        bundleID: "10765224",
+        itemIDs: ["10766460","10767087"],
+        tenPack: "10765212",
+        single: "10765206"
+    },
+    {
+        name: "Snowball Styles Stylish Bundle ",
+        bundleID: "10765221",
+        itemIDs: ["10766427","10766520"],
+        tenPack: "10765212",
+        single: "10765206"
+    },
+    {
+        name: "hiBEARnating Auroral Bundle ",
+        bundleID: "10762782",
+        itemIDs: ["10765482"],
+        tenPack: "10762764",
+        single: "10762722"
+    },
+    {
+        name: "hiBEARnating Graceful Bundle ",
+        bundleID: "10762779",
+        itemIDs: ["10765953"],
+        tenPack: "10762764",
+        single: "10762722"
+    },
+    {
+        name: "hiBEARnating Sooty Bundle ",
+        bundleID: "10762776",
+        itemIDs: ["10765872"],
+        tenPack: "10762764",
+        single: "10762722"
+    },
+    {
+        name: "hiBEARnating Lone Bunndle ",
+        bundleID: "10762773",
+        itemIDs: ["10765926"],
+        tenPack: "10762764",
+        single: "10762722"
+    },
+    {
+        name: "hiBEARnating Gentle Bundle ",
+        bundleID: "10762770",
+        itemIDs: ["10765425"],
+        tenPack: "10762764",
+        single: "10762722"
+    },
+    {
+        name: "Freezing Nights Reserved Bundle ",
+        bundleID: "10762215",
+        itemIDs: ["10765557"],
+        tenPack: "10762203",
+        single: "10762197"
+    },
+    {
+        name: "Freezing Nights Filigree Bundle ",
+        bundleID: "10762212",
+        itemIDs: ["10766235"],
+        tenPack: "10762203",
+        single: "10762197"
+    },
+    {
+        name: "Frosted Fields III Ossidian Bundle ",
+        bundleID: "10761099",
+        itemIDs: ["10763004"],
+        tenPack: "10761087",
+        single: "10761081"
+    },
+    {
+        name: "Frosted Fields III Umbral Bundle ",
+        bundleID: "10761096",
+        itemIDs: ["10763442"],
+        tenPack: "10761087",
+        single: "10761081"
+    },
+    {
+        name: "Fall Fantasy Brute Bundle ",
+        bundleID: "10761063",
+        itemIDs: ["10761864"],
+        tenPack: "10761051",
+        single: "10761045"
+    },
+    {
+        name: "Fall Fantasy Courageous Bundle ",
+        bundleID: "10761060",
+        itemIDs: ["10761300"],
+        tenPack: "10761051",
+        single: "10761045"
+    },
+    {
+        name: "hiBEARnating Fox Bundle ",
+        bundleID: "10766340",
+        itemIDs: ["10766289"],
+        tenPack: "10762764",
+        single: "10762722"
+    },
+    {
+        name: "Fated Figments Revered Bundle ",
+        bundleID: "10755414",
+        itemIDs: ["10758903","10759500"],
+        tenPack: "10755399",
+        single: "10755393"
+    },
+    {
+        name: "Fated Figments Lovely Bundle ",
+        bundleID: "10755411",
+        itemIDs: ["10758207","10759575"],
+        tenPack: "10755399",
+        single: "10755393"
+    },
+    {
+        name: "Fated Figments Evil Bundle ",
+        bundleID: "10755408",
+        itemIDs: ["10758177","10758960"],
+        tenPack: "10755399",
+        single: "10755393"
+    },
+    {
+        name: "Family Function Ambrosial Bundle ",
+        bundleID: "10753782",
+        itemIDs: ["10756134"],
+        tenPack: "10753755",
+        single: "10753716"
+    },
+    {
+        name: "Family Function Reserved Bundle ",
+        bundleID: "10753779",
+        itemIDs: ["10756944"],
+        tenPack: "10753755",
+        single: "10753716"
+    },
+    {
+        name: "Fated Figments Regal Bundle ",
+        bundleID: "10758237",
+        itemIDs: ["10758843","10759605"],
+        tenPack: "10755399",
+        single: "10755393"
+    },
     // {
     //     name: "",
     //     bundleID: "",
