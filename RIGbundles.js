@@ -6656,139 +6656,139 @@ let RIGbundles = [
         tenPack: "11107110",
         single: "11107104"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Power of Love Warden Bundle ",
+        bundleID: "11102238",
+        itemIDs: ["11103198"],
+        tenPack: "11102226",
+        single: "11102220"
+    },
+    {
+        name: "Power of Love Alluring Bundle ",
+        bundleID: "11102235",
+        itemIDs: ["11101863"],
+        tenPack: "11102226",
+        single: "11102220"
+    },
+    {
+        name: "Re: Minded Ancient Bundle ",
+        bundleID: "11041425",
+        itemIDs: ["11040729"],
+        tenPack: "11041413",
+        single: "11041407"
+    },
+    {
+        name: "Re: Minded Cathartic Bundle ",
+        bundleID: "11041422",
+        itemIDs: ["11041272"],
+        tenPack: "11041413",
+        single: "11041407"
+    },
+    {
+        name: "Lake of Growth Heavenly Bundle ",
+        bundleID: "11043249",
+        itemIDs: ["11044884"],
+        tenPack: "11043237",
+        single: "11043231"
+    },
+    {
+        name: "Lake of Growth Alexandrite Bundle ",
+        bundleID: "11043246",
+        itemIDs: ["11043783"],
+        tenPack: "11043237",
+        single: "11043231"
+    },
+    {
+        name: "Borrowed Baubles III Outerwear Bundle ",
+        bundleID: "11043555",
+        itemIDs: ["11046753","11047653"],
+        tenPack: "11043540",
+        single: "11043534"
+    },
+    {
+        name: "Borrowed Baubles III Downy Bundle ",
+        bundleID: "11043552",
+        itemIDs: ["11045751","11045781"],
+        tenPack: "11043540",
+        single: "11043534"
+    },
+    {
+        name: "Borrowed Baubles III Bows Bundle ",
+        bundleID: "11043549",
+        itemIDs: ["11046120","11045880"],
+        tenPack: "11043540",
+        single: "11043534"
+    },
+    {
+        name: "Natsu Fest Pixie Bundle ",
+        bundleID: "11037387",
+        itemIDs: ["11039211"],
+        tenPack: "11037375",
+        single: "11037369"
+    },
+    {
+        name: "Natsu Fest Sweet Bundle ",
+        bundleID: "11037384",
+        itemIDs: ["11037297"],
+        tenPack: "11037375",
+        single: "11037369"
+    },
+    {
+        name: "Stylish Snips Lively Bundle ",
+        bundleID: "11035827",
+        itemIDs: ["11035563","11036562","11037045","11038872"],
+        tenPack: "11035815",
+        single: "11035809"
+    },
+    {
+        name: "Stylish Snips Whimsy Bundle ",
+        bundleID: "11035824",
+        itemIDs: ["11036448","11036478","11037015","11036985"],
+        tenPack: "11035815",
+        single: "11035809"
+    },
+    {
+        name: "Summer Haunts Bony Bundle ",
+        bundleID: "11034702",
+        itemIDs: ["11033163"],
+        tenPack: "11034690",
+        single: "11034684"
+    },
+    {
+        name: "Summer Haunts Secret Bundle ",
+        bundleID: "11034699",
+        itemIDs: ["11033271"],
+        tenPack: "11034690",
+        single: "11034684"
+    },
+    {
+        name: "In the Loop Plastic Bundle ",
+        bundleID: "11236724",
+        itemIDs: ["11236618"],
+        tenPack: "11236716",
+        single: "11236712"
+    },
+    {
+        name: "In the Loop Sadistic Bundle ",
+        bundleID: "11236722",
+        itemIDs: ["11235858"],
+        tenPack: "11236716",
+        single: "11236712"
+    },
+    {
+        name: "For Good Boned Bundle ",
+        bundleID: "11235951",
+        itemIDs: ["11237795"],
+        tenPack: "11235939",
+        single: "11235933"
+    },
+    {
+        name: "For Good Enraptured Bundle ",
+        bundleID: "11235948",
+        itemIDs: ["11237756"],
+        tenPack: "11235939",
+        single: "11235933"
+    },
     // {
     //     name: "",
     //     bundleID: "",
