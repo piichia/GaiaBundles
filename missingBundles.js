@@ -500,10 +500,6 @@ let missingList = [
         itemData: "11233893"
     },
     {
-        name: "Spritely Spring: Petals & Pins ",
-        itemData: "11233890"
-    },
-    {
         name: "Spritely Spring: Beauty Blooming ",
         itemData: "11233887"
     },
