@@ -930,13 +930,13 @@ let RIGbundles = [
         tenPack: "11234427",
         single: "11234421"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "11234427",
-    //     single: "11234421"
-    // },
+    {
+        name: "Motifs Aocha Bundle ",
+        bundleID: "11234439",
+        itemIDs: ["11232954"],
+        tenPack: "11234427",
+        single: "11234421"
+    },
     {
         name: "The Eternal Debate Foggy Bundle ",
         bundleID: "10959684",
@@ -6789,20 +6789,20 @@ let RIGbundles = [
         tenPack: "11235939",
         single: "11235933"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Dark Sides Sentimental Bundle ",
+        bundleID: "11234268",
+        itemIDs: ["11236257"],
+        tenPack: "11234256",
+        single: "11234250"
+    },
+    {
+        name: "Dark Sides Iridescent Bundle ",
+        bundleID: "11234265",
+        itemIDs: ["11234682"],
+        tenPack: "11234256",
+        single: "11234250"
+    },
     // {
     //     name: "",
     //     bundleID: "",
