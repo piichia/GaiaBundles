@@ -552,12 +552,12 @@ let missingList = [
         itemData: "10479888"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Vibrant Vibes ",
+        itemData: "11233944"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Retained Refinement ",
+        itemData: "11233959"
     },
     {
         name: "",

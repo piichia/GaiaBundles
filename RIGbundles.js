@@ -6803,223 +6803,223 @@ let RIGbundles = [
         tenPack: "11234256",
         single: "11234250"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "As Fall Flourishes Boned Bundle ",
+        bundleID: "11065104",
+        itemIDs: ["11064033"],
+        tenPack: "11065092",
+        single: "11065086"
+    },
+    {
+        name: "As Fall Flourishes Alluring Bundle ",
+        bundleID: "11065101",
+        itemIDs: ["11063706"],
+        tenPack: "11065092",
+        single: "11065086"
+    },
+    {
+        name: "Very Superstitious Alexandrite Bundle ",
+        bundleID: "11066406",
+        itemIDs: ["11069220"],
+        tenPack: "11066394",
+        single: "11066388"
+    },
+    {
+        name: "Very Superstitious Sprinkled Bundle ",
+        bundleID: "11066403",
+        itemIDs: ["11068266"],
+        tenPack: "11066394",
+        single: "11066388"
+    },
+    {
+        name: "Sartorial Sorcery Candied Bundle ",
+        bundleID: "11066940",
+        itemIDs: ["11071422"],
+        tenPack: "11066928",
+        single: "11066922"
+    },
+    {
+        name: "Sartorial Sorcery Wondrous Bundle ",
+        bundleID: "11066937",
+        itemIDs: ["11070426"],
+        tenPack: "11066928",
+        single: "11066922"
+    },
+    {
+        name: "Mysterious Doll Trunk Hazard Bundle ",
+        bundleID: "11073885",
+        itemIDs: ["11073498","11073318","11074263"],
+        tenPack: "11073873",
+        single: "11073867"
+    },
+    {
+        name: "Mysterious Doll Trunk Secret Bundle ",
+        bundleID: "11073882",
+        itemIDs: ["11071521","11072670","11072580"],
+        tenPack: "11073873",
+        single: "11073867"
+    },
+    {
+        name: "Stealing the Sights Lyrical Bundle ",
+        bundleID: "11042712",
+        itemIDs: ["11042379","11042388","11042397"],
+        tenPack: "11042700",
+        single: "11042694"
+    },
+    {
+        name: "Stealing the Sights Withered Bundle ",
+        bundleID: "11042709",
+        itemIDs: ["11043204","11043213","11043222"],
+        tenPack: "11042700",
+        single: "11042694"
+    },
+    {
+        name: "Birth of a God Iridescent Bundle ",
+        bundleID: "11053002",
+        itemIDs: ["11053410"],
+        tenPack: "11052990",
+        single: "11052984"
+    },
+    {
+        name: "Birth of a God Heavenly Bundle ",
+        bundleID: "11052999",
+        itemIDs: ["11053818"],
+        tenPack: "11052990",
+        single: "11052984"
+    },
+    {
+        name: "Mystic Skirmish Lyra Bundle ",
+        bundleID: "11051562",
+        itemIDs: ["11050434"],
+        tenPack: "11051550",
+        single: "11051544"
+    },
+    {
+        name: "Mystic Skirmish Sweet Bundle ",
+        bundleID: "11051559",
+        itemIDs: ["11050377"],
+        tenPack: "11051550",
+        single: "11051544"
+    },
+    {
+        name: "Teatime Confections Burnt Bundle ",
+        bundleID: "11058501",
+        itemIDs: ["11058312"],
+        tenPack: "11058489",
+        single: "11058483"
+    },
+    {
+        name: "Teatime Confections Silken Bundle ",
+        bundleID: "11058498",
+        itemIDs: ["11057457"],
+        tenPack: "11058489",
+        single: "11058483"
+    },
+    {
+        name: "Illuminous Luxuries Sprinkle Bundle ",
+        bundleID: "11063184",
+        itemIDs: ["11062707"],
+        tenPack: "11063172",
+        single: "11063166"
+    },
+    {
+        name: "Illuminous Luxuries Pure Bundle ",
+        bundleID: "11063181",
+        itemIDs: ["11062206"],
+        tenPack: "11063172",
+        single: "11063166"
+    },
+    {
+        name: "Artistically Free Sailor Bundle ",
+        bundleID: "11048640",
+        itemIDs: ["11048706","11048763"],
+        tenPack: "11048628",
+        single: "11048622"
+    },
+    {
+        name: "Artistically Free Opal Bundle ",
+        bundleID: "11048637",
+        itemIDs: ["11048385"],
+        tenPack: "11048628",
+        single: "11048622"
+    },
+    {
+        name: "Lo-fi Fashion Boned Bundle ",
+        bundleID: "11054529",
+        itemIDs: ["11054487"],
+        tenPack: "11054517",
+        single: "11054511"
+    },
+    {
+        name: "Lo-fi Fashion Soft Bundle ",
+        bundleID: "11054526",
+        itemIDs: ["11054430"],
+        tenPack: "11054517",
+        single: "11054511"
+    },
+    {
+        name: "Puppy Penthouse Poodle Bundle ",
+        bundleID: "11034264",
+        itemIDs: ["11034411"],
+        tenPack: "11034252",
+        single: "11034246"
+    },
+    {
+        name: "Puppy Penthouse Natural Bundle ",
+        bundleID: "11034261",
+        itemIDs: ["11033580"],
+        tenPack: "11034252",
+        single: "11034246"
+    },
+    {
+        name: "The Great Heist Dashing Bundle ",
+        bundleID: "11027997",
+        itemIDs: ["11028564","11028708","11028879"],
+        tenPack: "11027982",
+        single: "11027976"
+    },
+    {
+        name: "The Great Heist Creature Bundle ",
+        bundleID: "11027994",
+        itemIDs: ["11028759","11028789","11029092"],
+        tenPack: "11027982",
+        single: "11027976"
+    },
+    {
+        name: "The Great Heist Bunny Bundle ",
+        bundleID: "11027991",
+        itemIDs: ["11028534","11028909","11028678"],
+        tenPack: "11027982",
+        single: "11027976"
+    },
+    {
+        name: "Perplexingly Human Vintage Bundle ",
+        bundleID: "11027247",
+        itemIDs: ["11025252"],
+        tenPack: "11027235",
+        single: "11027229"
+    },
+    {
+        name: "Perplexingly Human Sleepy Bundle ",
+        bundleID: "11027244",
+        itemIDs: ["11027862","11027823"],
+        tenPack: "11027235",
+        single: "11027229"
+    },
+    {
+        name: "Flowering Fields II Blooming Bundle ",
+        bundleID: "11025195",
+        itemIDs: ["11025435"],
+        tenPack: "11025183",
+        single: "11025177"
+    },
+    {
+        name: "Flowering Fields II Molu Bundle ",
+        bundleID: "11025192",
+        itemIDs: ["11023671"],
+        tenPack: "11025183",
+        single: "11025177"
+    },
     // {
     //     name: "",
     //     bundleID: "",
