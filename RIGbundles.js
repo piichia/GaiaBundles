@@ -7020,6 +7020,321 @@ let RIGbundles = [
         tenPack: "11025183",
         single: "11025177"
     },
+    {
+        name: "Spring Doll Trunk Fleurs Bundle ",
+        bundleID: "11020680",
+        itemIDs: ["11023419","11022135","11023734"],
+        tenPack: "11020668",
+        single: "11020662"
+    },
+    {
+        name: "Spring Doll Trunk Garden Bundle ",
+        bundleID: "11020677",
+        itemIDs: ["11022993","11023023","11023053"],
+        tenPack: "11020668",
+        single: "11020662"
+    },
+    {
+        name: "Gilded Clouds Retained Bundle ",
+        bundleID: "11019285",
+        itemIDs: ["11019675","11021367"],
+        tenPack: "11019273",
+        single: "11019267"
+    },
+    {
+        name: "Gilded Clouds Dandy Bundle ",
+        bundleID: "11019282",
+        itemIDs: ["11019600"],
+        tenPack: "11019273",
+        single: "11019267"
+    },
+    {
+        name: "Kaleidoscope Dreams Rainy Bundle ",
+        bundleID: "11016906",
+        itemIDs: ["11018442"],
+        tenPack: "11016894",
+        single: "11016888"
+    },
+    {
+        name: "Kaleidoscope Dreams Natural Bundle ",
+        bundleID: "11016903",
+        itemIDs: ["11017971"],
+        tenPack: "11016894",
+        single: "11016888"
+    },
+    {
+        name: "Flowering Fields Pure Bundle ",
+        bundleID: "11015478",
+        itemIDs: ["11017299"],
+        tenPack: "11015466",
+        single: "11015460"
+    },
+    {
+        name: "Flowering Fields Wondrous Bundle ",
+        bundleID: "11015475",
+        itemIDs: ["11014449"],
+        tenPack: "11015466",
+        single: "11015460"
+    },
+    {
+        name: "Conflicting Cuts Sky & Sea Bundle ",
+        bundleID: "11010510",
+        itemIDs: ["11013411","11014671"],
+        tenPack: "11010495",
+        single: "11010489"
+    },
+    {
+        name: "Conflicting Cuts Untamed Bundle ",
+        bundleID: "11010507",
+        itemIDs: ["11013066","11012778"],
+        tenPack: "11010495",
+        single: "11010489"
+    },
+    {
+        name: "Conflicting Cuts Restful Bundle ",
+        bundleID: "11010504",
+        itemIDs: ["11013381","11012748"],
+        tenPack: "11010495",
+        single: "11010489"
+    },
+    {
+        name: "Beloved Belongings Rainy Bundle ",
+        bundleID: "11010486",
+        itemIDs: ["11011344"],
+        tenPack: "11010474",
+        single: "11010468"
+    },
+    {
+        name: "Beloved Belongings Passionate Bundle ",
+        bundleID: "11010483",
+        itemIDs: ["11008971"],
+        tenPack: "11010474",
+        single: "11010468"
+    },
+    {
+        name: "Brutes & Books Iridescent Bundle ",
+        bundleID: "11009994",
+        itemIDs: ["11009757"],
+        tenPack: "11009982",
+        single: "11009976"
+    },
+    {
+        name: "Brutes & Books Sweet Bundle ",
+        bundleID: "11009991",
+        itemIDs: ["11010306"],
+        tenPack: "11009982",
+        single: "11009976"
+    },
+    {
+        name: "Sweet NEIGHbors Opal Bundle ",
+        bundleID: "11008479",
+        itemIDs: ["11008482"],
+        tenPack: "11008467",
+        single: "11008461"
+    },
+    {
+        name: "Sweet NEIGHbors Wondrous Bundle ",
+        bundleID: "11008476",
+        itemIDs: ["11008128"],
+        tenPack: "11008467",
+        single: "11008461"
+    },
+    {
+        name: "Seasonal Confusion Edgy Bundle ",
+        bundleID: "11006913",
+        itemIDs: ["11005560"],
+        tenPack: "11006901",
+        single: "11006895"
+    },
+    {
+        name: "Seasonal Confusion Rosy Bundle ",
+        bundleID: "11006910",
+        itemIDs: ["11006295"],
+        tenPack: "11006901",
+        single: "11006895"
+    },
+    {
+        name: "Reactively Rainbow Pure Bundle ",
+        bundleID: "11004048",
+        itemIDs: ["11003919","11003865"],
+        tenPack: "11004036",
+        single: "11004030"
+    },
+    {
+        name: "Reactively Rainbow Retained Bundle ",
+        bundleID: "11004045",
+        itemIDs: ["11003139"],
+        tenPack: "11004036",
+        single: "11004030"
+    },
+    {
+        name: "Stolen Styles V Winsome Bundle ",
+        bundleID: "10997493",
+        itemIDs: ["11002002","11001117","11001708"],
+        tenPack: "10997481",
+        single: "10997475"
+    },
+    {
+        name: "Stolen Styles V Captivating Bundle ",
+        bundleID: "10997490",
+        itemIDs: ["11001738","11001024","11001147"],
+        tenPack: "10997481",
+        single: "10997475"
+    },
+    {
+        name: "Cupid's Comet Sleepy Bundle ",
+        bundleID: "10996776",
+        itemIDs: ["11032380"],
+        tenPack: "10996755",
+        single: "10996734"
+    },
+    {
+        name: "Cupid's Comet Pearlescent Bundle ",
+        bundleID: "10996764",
+        itemIDs: ["11031414"],
+        tenPack: "10996755",
+        single: "10996734"
+    },
+    {
+        name: "Prismatic Pulls Heavenly Bundle ",
+        bundleID: "10996614",
+        itemIDs: ["10998744"],
+        tenPack: "10996602",
+        single: "10996596"
+    },
+    {
+        name: "Prismatic Pulls Tender Bundle ",
+        bundleID: "10996611",
+        itemIDs: ["10997076"],
+        tenPack: "10996602",
+        single: "10996596"
+    },
+    {
+        name: "Splash-o-Color II Luminescent Bundle ",
+        bundleID: "10996353",
+        itemIDs: ["10995918"],
+        tenPack: "10996341",
+        single: "10996335"
+    },
+    {
+        name: "Splash-o-Color II Mysterious Bundle ",
+        bundleID: "10996350",
+        itemIDs: ["10995861"],
+        tenPack: "10996341",
+        single: "10996335"
+    },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
     // {
     //     name: "",
     //     bundleID: "",
