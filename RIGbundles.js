@@ -7223,118 +7223,118 @@ let RIGbundles = [
         tenPack: "10996341",
         single: "10996335"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Impressively Dressed Sweet Bundle ",
+        bundleID: "10991688",
+        itemIDs: ["10992717","10992663"],
+        tenPack: "10991676",
+        single: "10991670"
+    },
+    {
+        name: "Impressively Dressed Wonderful Bundle ",
+        bundleID: "10991685",
+        itemIDs: ["10991397"],
+        tenPack: "10991676",
+        single: "10991670"
+    },
+    {
+        name: "Lost Belongings Boned Bundle ",
+        bundleID: "10989990",
+        itemIDs: ["10994040"],
+        tenPack: "10989972",
+        single: "10989966"
+    },
+    {
+        name: "Lost Belongings Moonlit Bundle ",
+        bundleID: "10989981",
+        itemIDs: ["10994640"],
+        tenPack: "10989972",
+        single: "10989966"
+    },
+    {
+        name: "Mysterious Findings Pure Bundle ",
+        bundleID: "10989963",
+        itemIDs: ["10990626"],
+        tenPack: "10989951",
+        single: "10989945"
+    },
+    {
+        name: "Mysterious Findings Zen Bundle ",
+        bundleID: "10989960",
+        itemIDs: ["10989819"],
+        tenPack: "10989951",
+        single: "10989945"
+    },
+    {
+        name: "The Golden Rabbit Charged Bundle ",
+        bundleID: "10989537",
+        itemIDs: ["10989540"],
+        tenPack: "10989525",
+        single: "10989519"
+    },
+    {
+        name: "The Golden Rabbit Candied Bundle ",
+        bundleID: "10989534",
+        itemIDs: ["10989234"],
+        tenPack: "10989525",
+        single: "10989519"
+    },
+    {
+        name: "Story Retold Umbral Bundle ",
+        bundleID: "10981689",
+        itemIDs: ["10982964"],
+        tenPack: "10981677",
+        single: "10981671"
+    },
+    {
+        name: "Story Retold Sleepy Bundle ",
+        bundleID: "10981686",
+        itemIDs: ["10982595"],
+        tenPack: "10981677",
+        single: "10981671"
+    },
+    {
+        name: "Randomly Received Opal Bundle ",
+        bundleID: "10980030",
+        itemIDs: ["10980402"],
+        tenPack: "10979982",
+        single: "10979976"
+    },
+    {
+        name: "Randomly Received Pure Bundle ",
+        bundleID: "10980027",
+        itemIDs: ["10980135"],
+        tenPack: "10979982",
+        single: "10979976"
+    },
+    {
+        name: "The Year's Over Bashful Bundle ",
+        bundleID: "10985340",
+        itemIDs: ["10985172"],
+        tenPack: "10985328",
+        single: "10985316"
+    },
+    {
+        name: "The Year's Over Saiphic Bundle ",
+        bundleID: "10985337",
+        itemIDs: ["10987863"],
+        tenPack: "10985328",
+        single: "10985316"
+    },
+    {
+        name: "Winter's Playground Sooty Bundle ",
+        bundleID: "10982433",
+        itemIDs: ["10984548"],
+        tenPack: "10982421",
+        single: "10982415"
+    },
+    {
+        name: "Winter's Playground Dandy Bundle ",
+        bundleID: "10982430",
+        itemIDs: ["10983711"],
+        tenPack: "10982421",
+        single: "10982415"
+    },
     // {
     //     name: "",
     //     bundleID: "",
