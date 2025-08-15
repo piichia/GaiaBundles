@@ -28,10 +28,6 @@ let missingList = [
         itemData: "11130960"
     },
     {
-        name: "Hello Holo ",
-        itemData: "11191509"
-    },
-    {
         name: "Phantom Phones ",
         itemData: "11191500"
     },
@@ -398,10 +394,6 @@ let missingList = [
     {
         name: "Serpentine Celebrations: Blade Bash ",
         itemData: "11200971"
-    },
-    {
-        name: "Stocking Up ",
-        itemData: "11191503"
     },
     {
         name: "Winter Magic: Happy Holidays ",
