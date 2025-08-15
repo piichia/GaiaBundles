@@ -19377,96 +19377,96 @@ let bundleList = [
         itemData: "11241931",
         contains: ["10475586","10664913","11124708","11147394","10584084","11239698"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Vending Vibes (Mochi Mochi): Chewy ",
+        itemData: "11241938",
+        contains: ["10430463","10268567","11122824","11106069","10361725","11239870"]
+    },
+    {
+        name: "Vending Vibes (Mochi Mochi): Smooth ",
+        itemData: "11241939",
+        contains: ["10615812","10279387","11124063","10947507","10881942","11239761"]
+    },
+    {
+        name: "Vending Vibes (Mochi Mochi): Fluffy ",
+        itemData: "11241940",
+        contains: ["10521942","10583205","11121336","10649163","10295093","11242006"]
+    },
+    {
+        name: "Vending Vibes (Mochi Mochi): Soft ",
+        itemData: "11241941",
+        contains: ["10884573","10631271","10964940","11071728","10355579","11241722"]
+    },
+    {
+        name: "Vending Vibes (Mochi Mochi): Sleek ",
+        itemData: "11241942",
+        contains: ["10301951","10403709","10935753","11164467","10372407","11241486"]
+    },
+    {
+        name: "Vending Vibes (Shuwa Shuwa): Pop ",
+        itemData: "11239931",
+        contains: ["10656081","10255987","11133018","11133270","10701741","11241377"]
+    },
+    {
+        name: "Lumina City: Skeleton Spark ",
+        itemData: "11239904",
+        contains: ["10436139","10755186","10546108","10675503","10778586","10981101","10311871","10963896","10962219","11176458","11238851"]
+    },
+    {
+        name: "LuminaCity: Punk Panache ",
+        itemData: "11239902",
+        contains: ["10663311","10174957","11005191","10369477","10166567","11101902","10829808","10071895","10071739","10068123","11241629"]
+    },
+    {
+        name: "LuminaCity: Decora Dazzle ",
+        itemData: "11239903",
+        contains: ["10680228","10254385","10293825","11092281","11213256","11185605","11193654","11044671","11133165","11240643"]
+    },
+    {
+        name: "LuminaCity: Dragonfruit Dazzle ",
+        itemData: "11239905",
+        contains: ["11180781","11144811","11127156","11152032","11130747","11126391","11238626"]
+    },
+    {
+        name: "LuminaCity: Star Style ",
+        itemData: "11239906",
+        contains: ["10014711","10361965","10169725","10092211","11044884","11155848","11169552","11096373","10983087"]
+    },
+    {
+        name: "LuminaCity: Mermaid Moxie ",
+        itemData: "11239911",
+        contains: ["10997028","11029602","10928148","10920786","11003415","11122974","11154288"]
+    },
+    {
+        name: "LuminaCity: Zen Zone ",
+        itemData: "11239912",
+        contains: ["10996383","10612608","11193825","11009706","11031360","11032071","11041953"]
+    },
+    {
+        name: "LuminaCity: Twintail Twist ",
+        itemData: "11239913",
+        contains: ["10945023","10678620","10776885","10894362","10836972","10598850","10980765","11076774","11138463","11202924","11067678","11241504"]
+    },
+    {
+        name: "LuminaCity: Ear-y Effect ",
+        itemData: "11239916",
+        contains: ["10492298","10925610","11158854","11178609","11197440","11190633","11108268"]
+    },
+    {
+        name: "LuminaCity: Enchanted Energy ",
+        itemData: "11239921",
+        contains: ["10228651","10099793","11089248","10076123","11015403","10394233","10398439","10756443","11000256","11146794","11226789","11226843"]
+    },
+    {
+        name: "LuminaCity: Aocha Aura ",
+        itemData: "11239922",
+        contains: ["11146524","11191239","11181873","11187426","11169312","11189637","11233632"]
+    },
+    {
+        name: "Lumina City: Jacket Joy ",
+        itemData: "11239925",
+        contains: ["11124444","11129724","11178564","11134080","11169024","11190903"]
+    },
     // {
     //     name: "",
     //     itemData: "",
