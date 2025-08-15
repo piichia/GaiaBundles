@@ -14682,11 +14682,6 @@ let bundleList = [
     //     contains: 
     // },
     // {
-    //     name: "Satisfaction for a Toxic Apatite ",
-    //     itemData: "10615950",
-    //     contains: 
-    // },
-    // {
     //     name: "Grand Catch Cosplay Bundle ",
     //     itemData: "10612350",
     //     contains: 
@@ -19487,106 +19482,106 @@ let bundleList = [
         itemData: "11235132",
         contains: ["11141673","11040621","11178642","11162466","11173290","11007288","11120742","11067450","11130996"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Have a Dere Night! Himedere Bundle ",
+        itemData: "10406527",
+        contains: ["10304363","10347329","10349899","10324711","10411683"]
+    },
+    {
+        name: "Last-Minute Gift Basket ",
+        itemData: "10430547",
+        contains: ["10372883","10294149","10334411","10385043","10336299","10334195","10334153","10411663","10329587","10386177","10401923"]
+    },
+    {
+        name: "Antique Evolving Item Bundle ",
+        itemData: "10019295",
+        contains: ["68879","43128","54249","87661","92069"]
+    },
+    {
+        name: "Forbidden Fruit: Blackberry ",
+        itemData: "10289727",
+        contains: ["10150087","10146929","10149001","10237287","10236033","10226645","10233867","10237557","10274647","10281977"]
+    },
+    {
+        name: "Rufus Collection Bundle ",
+        itemData: "10015867",
+        contains: ["39412","54041","42968"]
+    },
+    {
+        name: "Tax Day: Form 1040EZ ",
+        itemData: "10145791",
+        contains: ["10140667","10018417","10059171","10058383","10079047","10133753"]
+    },
+    {
+        name: "Doki Doki Bundle ",
+        itemData: "10069141",
+        contains: ["10059541","10059961","10065673"]
+    },
+    {
+        name: "Contemporary EI Bundle ",
+        itemData: "10035059",
+        contains: ["76627","10018887","10020383","10021509","10033179"]
+    },
+    {
+        name: "Bundle of the Were-beasts: Werereptile ",
+        itemData: "10143163",
+        contains: ["10142489","10142645","10032007","10111649","72987","10078337"]
+    },
+    {
+        name: "Box of Godina ",
+        itemData: "10050321",
+        contains: ["10027749","10046473","10049631","10049671","10049711","10049731","10049739","10049765","10049773","10049793"]
+    },
+    {
+        name: "Satisfaction for a Toxic Apatite ",
+        itemData: "10615950",
+        contains: ["10617048","10617099","10616931","10616883"]
+    },
+    {
+        name: "Weapons in Arms: Whip ",
+        itemData: "10191685",
+        contains: ["10029477","10018727","10105631","10048555","10044989","10195229"]
+    },
+    {
+        name: "Independence Spectrum Bundle ",
+        itemData: "10279839",
+        contains: ["10274775","10226535","10207713","10202987","10264765","10226171"]
+    },
+    {
+        name: "Winter Madrigal for Her ",
+        itemData: "10107821",
+        contains: ["10103041","10104685","10104605","10104741","10103951"]
+    },
+    {
+        name: "Adventuring Champions: Fairy ",
+        itemData: "10147649",
+        contains: ["10146865","84475","10048369","10106613","10033393"]
+    },
+    {
+        name: "Halloween Bloody Tote ",
+        itemData: "10204947",
+        contains: ["10207579","10045105","10044147","10053981","10044541","10066241"]
+    },
+    {
+        name: "Xmas 2k15 Twilight Bundle ",
+        itemData: "10227788",
+        contains: ["10220721","10130881","10208663","10114647","10208537"]
+    },
+    {
+        name: "Imaginary Friends: Cuddly Friend ",
+        itemData: "10193043",
+        contains: ["10192903","10056945","10029211","10082541","10062587","10087438","10087312"]
+    },
+    {
+        name: "Dynamic Duos Bundles: Celestial Duos ",
+        itemData: "10188433",
+        contains: ["10188739","10138187","10137079","10097887","10108463","10099773","10108703"]
+    },
+    {
+        name: "Within the Nightmare: Nyctophobia ",
+        itemData: "10123335",
+        contains: ["10123271","10092787","10014861","10048013","37769","10110065"]
+    },
     // {
     //     name: "",
     //     itemData: "",
