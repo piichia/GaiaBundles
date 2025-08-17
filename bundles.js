@@ -19742,56 +19742,56 @@ let bundleList = [
         itemData: "10024419",
         contains: ["10001649","10006349","10001717","57147","10004035","10001831"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Staff's Choice 2015: Rance Clear ",
+        itemData: "10225755",
+        contains: ["10105567","10069637","10146769","10140869","10141689"]
+    },
+    {
+        name: "Fire Elemental Bundle ",
+        itemData: "10024417",
+        contains: ["10011333","39248","62495","93457","93115","82691"]
+    },
+    {
+        name: "Liam's Beefcake Bundle ",
+        itemData: "10244697",
+        contains: ["10233565","10222927","10092603","10170327","10177587"]
+    },
+    {
+        name: "Fragmented Wings: Rainbow ",
+        itemData: "10085141",
+        contains: ["10085415","10085579","10085411","10050293","10056435","10015667","10014515"]
+    },
+    {
+        name: "Green Egg Bundle ",
+        itemData: "10033475",
+        contains: ["10028475","89541","92581","67915","34409","10007839","93169","65621"]
+    },
+    {
+        name: "Easter Treats: Jellybean ",
+        itemData: "10251275",
+        contains: ["10235969","10232701","10197561","10240499","10190451"]
+    },
+    {
+        name: "Melon Bundle ",
+        itemData: "10214863",
+        contains: ["10213427","10213405","10213371"]
+    },
+    {
+        name: "Adventuring Champions: Gun Master ",
+        itemData: "10147645",
+        contains: ["10146657","10052453","10047617","10109255","10100999"]
+    },
+    {
+        name: "Girl's Bundlemas Day One ",
+        itemData: "10052563",
+        contains: ["10048061","62397","10044641","10046915","10042337","10034745"]
+    },
+    {
+        name: "Simply Goddess Bundle ",
+        itemData: "10122875",
+        contains: ["10120633","10054203","10120577","10120615"]
+    },
     // {
     //     name: "",
     //     itemData: "",
