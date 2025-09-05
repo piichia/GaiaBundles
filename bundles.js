@@ -19812,11 +19812,11 @@ let bundleList = [
         itemData: "11183115",
         contains: ["10874247","10909569","11121906","10570728","10367349","11182023"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Sweet Bunny Vibes Bundle ",
+        itemData: "11136702",
+        contains: ["11134725","11134758"]
+    },
     // {
     //     name: "",
     //     itemData: "",
