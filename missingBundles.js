@@ -104,10 +104,6 @@ let missingList = [
         itemData: "11174916"
     },
     {
-        name: "Jinx!: Furmiliars ",
-        itemData: "11174913"
-    },
-    {
         name: "Jinx!: Lugubrious Leonine ",
         itemData: "11174910"
     },
@@ -118,10 +114,6 @@ let missingList = [
     {
         name: "Jinx!: Creepy, Crawly ",
         itemData: "11174904"
-    },
-    {
-        name: "Jinx!: Just Don't Look ",
-        itemData: "11174901"
     },
     {
         name: "Jinx!: Gloomy Glamour ",
@@ -142,10 +134,6 @@ let missingList = [
     {
         name: "Be Hairful ",
         itemData: "11166255"
-    },
-    {
-        name: "Hearty Honey ",
-        itemData: "11166252"
     },
     {
         name: "Coolest Coffins ",
@@ -474,10 +462,6 @@ let missingList = [
     {
         name: "Jinx!: More like Die-adem ",
         itemData: "11174952"
-    },
-    {
-        name: "Jinx!: Reality Bites ",
-        itemData: "11174958"
     },
     {
         name: "Heal Here! ",
