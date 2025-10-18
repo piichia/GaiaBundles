@@ -84,10 +84,6 @@ let missingList = [
         itemData: "11176305"
     },
     {
-        name: "Jinx!: Alexandrite Apparitions ",
-        itemData: "11174934"
-    },
-    {
         name: "Jinx!: Bad to the Bones ",
         itemData: "11174928"
     },
@@ -256,10 +252,6 @@ let missingList = [
         itemData: "11119155"
     },
     {
-        name: "Fluttering Friends ",
-        itemData: "11119143"
-    },
-    {
         name: "Monthly Legends ",
         itemData: "11117172"
     },
@@ -278,10 +270,6 @@ let missingList = [
     {
         name: "Winter Whimsy: Peppy Perfection ",
         itemData: "11092197"
-    },
-    {
-        name: "Winter Whimsy: Celestial Serenity ",
-        itemData: "11092158"
     },
     {
         name: "Wicked Witches ",
@@ -430,10 +418,6 @@ let missingList = [
     {
         name: "Jinx!: Wolf? Where? ",
         itemData: "11174943"
-    },
-    {
-        name: "Jinx!: Eerily Auspicious ",
-        itemData: "11174955"
     },
     {
         name: "Jinx!: Late Knights ",
