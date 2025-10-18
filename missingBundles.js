@@ -280,16 +280,8 @@ let missingList = [
         itemData: "11092197"
     },
     {
-        name: "Winter Whimsy: Seasonal Scares ",
-        itemData: "11092179"
-    },
-    {
         name: "Winter Whimsy: Celestial Serenity ",
         itemData: "11092158"
-    },
-    {
-        name: "Bewitching Backgrounds ",
-        itemData: "11070660"
     },
     {
         name: "Wicked Witches ",
@@ -362,10 +354,6 @@ let missingList = [
     {
         name: "Serpentine Celebrations: Wing-ding ",
         itemData: "11200983"
-    },
-    {
-        name: "Serpentine Celebrations: Kaguya Carnival ",
-        itemData: "11200974"
     },
     {
         name: "Serpentine Celebrations: Last Hair-rah ",
