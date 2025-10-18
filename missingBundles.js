@@ -264,10 +264,6 @@ let missingList = [
         itemData: "11117172"
     },
     {
-        name: "21st Fest: Celebration Station ",
-        itemData: "11108400"
-    },
-    {
         name: "21st Fest: Time After Time ",
         itemData: "11108394"
     },
@@ -458,10 +454,6 @@ let missingList = [
     {
         name: "Jinx!: More like Die-adem ",
         itemData: "11174952"
-    },
-    {
-        name: "Heal Here! ",
-        itemData: "11158974"
     },
     {
         name: "Spritely Spring: Melodious Serenity Collection ",
