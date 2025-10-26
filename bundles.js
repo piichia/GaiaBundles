@@ -19917,46 +19917,46 @@ let bundleList = [
         itemData: "10073487",
         contains: ["86559","10015717","10000947","10042461","10054965","10000317"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Rainbow Arcade: Delusions ",
+        itemData: "11247705",
+        contains: ["11247774","11247791","11247809"]
+    },
+    {
+        name: "Rainbow Arcade: Shinigami ",
+        itemData: "11247706",
+        contains: ["11247059","11248203","11248221"]
+    },
+    {
+        name: "Rainbow Arcade: Daybreak ",
+        itemData: "11247707",
+        contains: ["11247966","11247926","11247946"]
+    },
+    {
+        name: "Rainbow Arcade: Coarse ",
+        itemData: "11247708",
+        contains: ["11248589","11248551","11248570"]
+    },
+    {
+        name: "Rainbow Arcade: Serenity ",
+        itemData: "11247709",
+        contains: ["11248093","11248315","11248242"]
+    },
+    {
+        name: "Rainbow Arcade: Deep Slate ",
+        itemData: "11247710",
+        contains: ["11248075","11248063","11248051"]
+    },
+    {
+        name: "Rainbow Arcade: Sentimental ",
+        itemData: "11247711",
+        contains: ["11247873","11247893","11247912"]
+    },
+    {
+        name: "Rainbow Arcade: Harlequin ",
+        itemData: "11247704",
+        contains: ["11248483","11248466","11248453"]
+    },
     // {
     //     name: "",
     //     itemData: "",
