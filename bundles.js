@@ -20813,11 +20813,11 @@ let bundleList = [
     //     itemData: "10416563",
     //     contains: ["10220395","10310361","10238827","10193051","10416215"]["10220395","10310361","10238827","10193051","10416215"]
     // },
-    // {
-    //     name: "Colors of Autumn: Calabash ",
-    //     itemData: "10416561",
-    //     contains: ["10305143","10310687","10307299","10367175","10418139"]
-    // },
+    {
+        name: "Colors of Autumn: Calabash ",
+        itemData: "10416561",
+        contains: ["10305143","10310687","10307299","10367175","10418139"]
+    },
     {
         name: "Fruits of Autumn: Blackberry ",
         itemData: "10415503",
@@ -21188,21 +21188,21 @@ let bundleList = [
         itemData: "10404397",
         contains: ["10231831","10229719","10320779","10244751","10247677","10229901","10229161"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Cosplay Booth Baes: Moira ",
+        itemData: "10397695",
+        contains: ["10012795","10333853","10347819","10336643","10337263","10407915"]
+    },
+    {
+        name: "Cosplay Booth Baes: Liam ",
+        itemData: "10397691",
+        contains: ["10233565","10335165","10354487","10348717","10343843","10399873"]
+    },
+    {
+        name: "Cosplay Booth Baes: Diedrich ",
+        itemData: "10397689",
+        contains: ["10245909","10343497","10349489","10347519","10352263","10408021"]
+    },
     // {
     //     name: "",
     //     itemData: "",
