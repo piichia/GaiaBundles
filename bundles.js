@@ -21293,26 +21293,26 @@ let bundleList = [
         itemData: "10394353",
         contains: ["10128337","10082347","10257163","10302853","10331109","10325319","10332113","10207701","10277681","10293637"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Rusty Pigment Bundle ",
+        itemData: "10403129",
+        contains: ["10399029","10403625","10410637","10411055"]
+    },
+    {
+        name: "Let It Glow Bundle ",
+        itemData: "10403103",
+        contains: ["10406227","10406345","10404917"]
+    },
+    {
+        name: "Get Some Sherbert ",
+        itemData: "10402641",
+        contains: ["10399277","10403665","10404101","10403485"]
+    },
+    {
+        name: "When You Wish Upon A Star ",
+        itemData: "10402637",
+        contains: ["10402015","10402041","10402001","10401983"]
+    },
     // {
     //     name: "",
     //     itemData: "",
