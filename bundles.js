@@ -21203,16 +21203,16 @@ let bundleList = [
         itemData: "10397689",
         contains: ["10245909","10343497","10349489","10347519","10352263","10408021"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Soft Edgelords' Style ",
+        itemData: "10405019",
+        contains: ["10402987","10402971","10402955","10402939"]
+    },
+    {
+        name: "Elven Aesthetics Kit ",
+        itemData: "10405017",
+        contains: ["10399365","10399349","10399413","10399397"]
+    },
     // {
     //     name: "",
     //     itemData: "",
