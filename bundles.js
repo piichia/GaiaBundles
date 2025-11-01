@@ -20758,46 +20758,46 @@ let bundleList = [
         itemData: "10422457",
         contains: ["10424593","10292137","10367055","10370133"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Community Picks: Ghostly Ghouls: Bouquet of Diamonds ",
+        itemData: "10419253",
+        contains: ["10202177","10308357","10238613","10308363","10356083","10210607"]
+    },
+    {
+        name: "Community Picks: Ghostly Ghouls: Vro ",
+        itemData: "10419251",
+        contains: ["10222067","10377935","10291779","10420301","10308543"]
+    },
+    {
+        name: "Community Picks: Ghostly Ghouls: Lynx Saint Keiya ",
+        itemData: "10419249",
+        contains: ["10195971","10259953","10308695","10268265","10360363"]
+    },
+    {
+        name: "Community Picks: Ghostly Ghouls: Bingo Bango Bongo ",
+        itemData: "10419247",
+        contains: ["10204443","10353045","10337009","10245877","10414791"]
+    },
+    {
+        name: "Community Picks: Ghostly Ghouls: Philippa May Regnard ",
+        itemData: "10419245",
+        contains: ["10200207","10207121","10205333","10211605","10208421"]
+    },
+    {
+        name: "Friday the 13th: Devilry Bundle ",
+        itemData: "10417279",
+        contains: ["10417283","10192991","10261037","10306409","10319069","10309337","10297059","10345025","10324357"]
+    },
+    {
+        name: "Friday the 13th: Undead Bundle ",
+        itemData: "10417277",
+        contains: ["10419445","10306809","10303305","10312103","10329859","10345297","10358039","10332919","10319289"]
+    },
+    {
+        name: "Friday the 13th: Blood & Gore Bundle ",
+        itemData: "10417281",
+        contains: ["10201725","10236081","10193947","10311783","10289555","10272175","10312583","10311559","10342713"]
+    },
     // {
     //     name: "",
     //     itemData: "",
