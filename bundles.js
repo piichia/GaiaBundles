@@ -21008,6 +21008,606 @@ let bundleList = [
         itemData: "10410803",
         contains: ["10403163","10406315"]
     },
+    {
+        name: "Gaian Style Collection: 05 ",
+        itemData: "10407181",
+        contains: ["10316405","10326955","10312647","10289953"]
+    },
+    {
+        name: "Gaian Style Collection: 04 ",
+        itemData: "10407179",
+        contains: ["10311847","10294891","10333873","10339875"]
+    },
+    {
+        name: "Gaian Style Collection: 03 ",
+        itemData: "10407177",
+        contains: ["10309405","10336533","10319771","10352065"]
+    },
+    {
+        name: "Gaian Style Collection: 01 ",
+        itemData: "10407173",
+        contains: ["10341751","10338793","10343021","10291053"]
+    },
+    {
+        name: "Balls of Yarn: Yellow ",
+        itemData: "10406805",
+        contains: ["10208483","10232503","10269517","10298745","10334895","10350405","10293953"]
+    },
+    {
+        name: "Balls of Yarn: Purple ",
+        itemData: "10406803",
+        contains: ["10247629","10265727","10287409","10250127","10239775","10281843","10337913"]
+    },
+    {
+        name: "Balls of Yarn: Blue ",
+        itemData: "10406801",
+        contains: ["10215445","10226615","10315979","10283559","10350167","10317607","10384623"]
+    },
+    {
+        name: "Balls of Yarn: Red ",
+        itemData: "10406799",
+        contains: ["10221679","10187039","10222463","10296305","10361357","10280661","10349095"]
+    },
+    {
+        name: "Have a Dere Night! Kuudere Bundle ",
+        itemData: "10406531",
+        contains: ["10347259","10334159","10343843","10335529","10412575"]
+    },
+    {
+        name: "Have a Dere Night! Yandere Bundle ",
+        itemData: "10406529",
+        contains: ["10344383","10344635","10345965","10342291","10411419"]
+    },
+    {
+        name: "Have a Dere Night! Tsundere Bundle ",
+        itemData: "10406525",
+        contains: ["10351953","10299821","10338549","10335877","10411441"]
+    },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
     // {
     //     name: "",
     //     itemData: "",
