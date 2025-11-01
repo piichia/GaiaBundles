@@ -20923,91 +20923,91 @@ let bundleList = [
         itemData: "10414039",
         contains: ["10352169","10353017","10170113","10127211","10116075","10104821","10277809","10083643","10318185","10183285","10356321","10244181"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Thirsty for Autumn: Chai Latte ",
+        itemData: "10412443",
+        contains: ["10305429","10307227","10326171","10313623","10326213","10410663"]
+    },
+    {
+        name: "Thirsty for Autumn: Hot Buttered Cranberry ",
+        itemData: "10412441",
+        contains: ["10315955","10306449","10306429","10322803","10322257","10385143"]
+    },
+    {
+        name: "Thirsty for Autumn: Apple Cider ",
+        itemData: "10412439",
+        contains: ["10307271","10322933","10313725","10311185","10324113","10396801"]
+    },
+    {
+        name: "Thirsty for Autumn: Pumpkin Spice Latte ",
+        itemData: "10412437",
+        contains: ["10305823","10297473","10326333","10309469","10325589","10387671"]
+    },
+    {
+        name: "Hair We Go Again ",
+        itemData: "10412365",
+        contains: ["10411759","10408441","10408425","10411775"]
+    },
+    {
+        name: "Nightbreak Sleepover Fantasies ",
+        itemData: "10410925",
+        contains: ["10415233","10415275","10415217","10414739"]
+    },
+    {
+        name: "Ol-live Nerdily ",
+        itemData: "10410919",
+        contains: ["10414541","10414525","10414503","10414705"]
+    },
+    {
+        name: "Dysfunctional Family Bundle: Norahlie ",
+        itemData: "10410835",
+        contains: ["10413681","10413665"]
+    },
+    {
+        name: "Dysfunctional Family Bundle: Natsube ",
+        itemData: "10410833",
+        contains: ["10413087","10413411"]
+    },
+    {
+        name: "Dysfunctional Family Bundle: blubber tubber ",
+        itemData: "10410831",
+        contains: ["10411097","10411117"]
+    },
+    {
+        name: "Dysfunctional Family Bundle: pepper-tea ",
+        itemData: "10410829",
+        contains: ["10407759","10410939"]
+    },
+    {
+        name: "Dysfunctional Family Bundle: Neko ",
+        itemData: "10410827",
+        contains: ["10410389","10410417"]
+    },
+    {
+        name: "Dysfunctional Family Bundle: mdaluz ",
+        itemData: "10410825",
+        contains: ["10405661","10405619"]
+    },
+    {
+        name: "Dysfunctional Family Bundle: Anonymous_minion ",
+        itemData: "10410819",
+        contains: ["10404177","10403727"]
+    },
+    {
+        name: "Dysfunctional Family Bundle: wscale ",
+        itemData: "10410809",
+        contains: ["10399801","10399837"]
+    },
+    {
+        name: "Dysfunctional Family Bundle: Cutesi ",
+        itemData: "10410805",
+        contains: ["10404351","10399313"]
+    },
+    {
+        name: "Dysfunctional Family Bundle: Seduces ",
+        itemData: "10410803",
+        contains: ["10403163","10406315"]
+    },
     // {
     //     name: "",
     //     itemData: "",
