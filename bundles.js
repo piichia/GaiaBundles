@@ -22063,11 +22063,11 @@ let bundleList = [
         itemData: "10293093",
         contains: ["10225525","10226555","10268023","10273995","10224107","10274399"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Return of the Cursed Bundle ",
+        itemData: "10296721",
+        contains: ["10283221","10283245","10284047","10284755"]
+    },
     // {
     //     name: "",
     //     itemData: "",
