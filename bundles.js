@@ -23278,41 +23278,41 @@ let bundleList = [
         itemData: "10255295",
         contains: ["10050543","10050853","10062587","10051781","10056575","10246069","10085533","10194467"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Gambino Book Fair: Children's ",
+        itemData: "10264097",
+        contains: ["10078889","10236129","10070893","10156951"]
+    },
+    {
+        name: "Gambino Book Fair: History ",
+        itemData: "10264095",
+        contains: ["10072315","10191227","10181199","10239993"]
+    },
+    {
+        name: "Gambino Book Fair: Horror ",
+        itemData: "10264093",
+        contains: ["10211971","10239073","10037285","10180781"]
+    },
+    {
+        name: "Gambino Book Fair: Romance ",
+        itemData: "10264091",
+        contains: ["10037937","10097903","10054189","10212097"]
+    },
+    {
+        name: "Gambino Book Fair: Mystery ",
+        itemData: "10264089",
+        contains: ["10070481","10090071","10211469","10145127"]
+    },
+    {
+        name: "Gambino Book Fair: Fantasy ",
+        itemData: "10264087",
+        contains: ["10104669","10178163","10199841","10240319"]
+    },
+    {
+        name: "Gambino Book Fair: Cookbook ",
+        itemData: "10264081",
+        contains: ["10153047","10238203","10183969","10181273"]
+    },
     // {
     //     name: "",
     //     itemData: "",
