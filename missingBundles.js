@@ -504,20 +504,20 @@ let missingList = [
         itemData: "10313931"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Aekea Theatre Expo: Comedy",
+        itemData: "10275637"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Aekea Theatre Expo: Children's",
+        itemData: "10275635"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Aekea Theatre Expo: Romantic",
+        itemData: "10275633"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Aekea Theatre Expo: Fantasy",
+        itemData: "10275641"
     },
     {
         name: "",
