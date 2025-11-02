@@ -21563,41 +21563,41 @@ let bundleList = [
         itemData: "11238247",
         contains: ["10835607","10901193","11019777","11154063","10599999","10627728","11115207"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Have a Dere Winter!: Dandere Bundle ",
+        itemData: "10323325",
+        contains: ["10272701","10267585","10284853","10289141","10293183"]
+    },
+    {
+        name: "Have a Dere Winter!: Kuudere Bundle ",
+        itemData: "10323323",
+        contains: ["10237481","10245535","10272863","10264875","10325641"]
+    },
+    {
+        name: "Have a Dere Winter!: Yandere Bundle ",
+        itemData: "10323321",
+        contains: ["10255067","10314707","10223741","10256439","10329463"]
+    },
+    {
+        name: "Have a Dere Winter!: Tsundere Bundle ",
+        itemData: "10323319",
+        contains: ["10218505","10152607","10257851","10273877","10307679"]
+    },
+    {
+        name: "Have a Dere Winter!: Deredere Bundle ",
+        itemData: "10323317",
+        contains: ["10094421","10274111","10316349","10274055","10324341"]
+    },
+    {
+        name: "Dragon Souls Bundle ",
+        itemData: "10323009",
+        contains: ["10323365","10323347","10323385","10323093"]
+    },
+    {
+        name: "El Queue Bash Dos ",
+        itemData: "10323035",
+        contains: ["10205643","10240269","10213339","10200133","10209147"]
+    },
     // {
     //     name: "",
     //     itemData: "",
