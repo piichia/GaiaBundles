@@ -21893,6 +21893,786 @@ let bundleList = [
         itemData: "10311099",
         contains: ["10313543","10309581","10305951","10308195","10307917","10306069","10314743","10307627","10309259","10306293","10309763","10310933","10307949","10306957","10306059","10313193","10307967","10306277","10307957","10308179","10276429","10190683","10309909","10309823","10307589","10306023","10263181","10307563","10292067","10305261","10313915","10311227","10307851","10308217","10284571","10310771"]
     },
+    {
+        name: "Have a Dere Autumn!: Kuudere Bundle ",
+        itemData: "10307861",
+        contains: ["10305007","10142283","10255053","10142323","10248439"]
+    },
+    {
+        name: "Have a Dere Autumn!: Deredere Bundle ",
+        itemData: "10307859",
+        contains: ["10308065","10301761","10200553","10275231","10253227"]
+    },
+    {
+        name: "Have a Dere Autumn!: Yandere Bundle ",
+        itemData: "10307857",
+        contains: ["10304721","10260363","10180213","10290291","10251277"]
+    },
+    {
+        name: "Have a Dere Autumn!: Tsundere Bundle ",
+        itemData: "10307855",
+        contains: ["10308001","10297577","10259527","10247237","10252321"]
+    },
+    {
+        name: "September 2k16 Party Favors ",
+        itemData: "10307677",
+        contains: ["10296297","10296745","10296767","10297169","10297411","10298341","10298463","10297717","10297177","10297417","10299013","10299099","10299677","10299167","10299717","10299809","10300409","10300423","10300909","10301029","10301509","10302539","10302829","10301557","10301903","10303757","10301927","10301939","10302231","10302609","10302891","10302873","10303329","10304813","10304803","10296323","10304537"]
+    },
+    {
+        name: "Community Picks: PUNKin Patch (volpina) ",
+        itemData: "10307601",
+        contains: ["10237001","10254497","10080351","10268599","10140579"]
+    },
+    {
+        name: "Community Picks: PUNKin Patch (Fayt_of_Redemption) ",
+        itemData: "10307599",
+        contains: ["10217209","10253517","10226277","10205567","10208621","10247335"]
+    },
+    {
+        name: "Community Picks: PUNKin Patch (Syunii) ",
+        itemData: "10307597",
+        contains: ["87665","10171877","10204393","10254127","10226645"]
+    },
+    {
+        name: "Community Picks: PUNKin Patch (PrettyLadyC) ",
+        itemData: "10307595",
+        contains: ["10213659","10057997","10170113","10139501","10116871","10228707"]
+    },
+    {
+        name: "Community Picks: PUNKin Patch (Rae Starshine) ",
+        itemData: "10307593",
+        contains: ["10197065","10192903","10261483","10202273","10222067","10233997","10148781"]
+    },
+    {
+        name: "Gaia Merch Box Surprise! ",
+        itemData: "10306275",
+        contains: ["10326907"]
+    },
+    {
+        name: "July 2k16 Party Favors ",
+        itemData: "10301445",
+        contains: ["10279115","10279191","10282915","10283795","10283447","10284457","10283527","10284509","10284839","10284541","10283813","10284801","10287097","10286743","10287573","10287113","10287677","10283517","10281139","10282959","10282571","10282555","10281077","10281089","10281091","10278755","10279847","10282073","10282597","10282973","10286779","10287473","10289639"]
+    },
+    {
+        name: "Homecoming Royalty: Princess ",
+        itemData: "10300921",
+        contains: ["10234295","10181669","10182419","10285297","10237719","10285805","10149401","10211131","10254931","10301761"]
+    },
+    {
+        name: "Homecoming Royalty: Prince ",
+        itemData: "10300919",
+        contains: ["10228651","10171681","10191125","10190987","10237801","10252405","10208991","10239251","10241007","10300089"]
+    },
+    {
+        name: "Homecoming Royalty: Queen ",
+        itemData: "10300917",
+        contains: ["10122005","10184475","10192233","10235853","10228053","10148893","10084271","10113137","10239291","10298407"]
+    },
+    {
+        name: "Homecoming Royalty: King ",
+        itemData: "10300915",
+        contains: ["10215059","10223301","10236033","10241527","10232047","10234843","10223741","10244751","10250417","10300007"]
+    },
+    {
+        name: "Community Picks: Back to School (Arowan) ",
+        itemData: "10299181",
+        contains: ["10262523","10222419","10273083","10225403","10240551","10198407","10157785"]
+    },
+    {
+        name: "Community Picks: Back to School (Lapinne) ",
+        itemData: "10299179",
+        contains: ["10276909","10269113","10151971","10264193","10141751","10128879","10241025"]
+    },
+    {
+        name: "Community Picks: Back to School (Wisterias) ",
+        itemData: "10299177",
+        contains: ["10072895","10233759","10244709","10108901","10244825","10182291","10111451"]
+    },
+    {
+        name: "Community Picks: Back to School (Jinglybell) ",
+        itemData: "10299175",
+        contains: ["10262831","10211083","10084645","10196633","10195515","10159417"]
+    },
+    {
+        name: "Autumn Harvest: Beets ",
+        itemData: "10299041",
+        contains: ["10206405","10197681","10223741","10223301","10298765"]
+    },
+    {
+        name: "Community Picks: Back to School (Sailor Seren) ",
+        itemData: "10299171",
+        contains: ["89779","10217115","10171287","10263945","10171285","10134295"]
+    },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
     // {
     //     name: "",
     //     itemData: "",
