@@ -23004,6 +23004,216 @@ let bundleList = [
         contains: ["10272409","10216827","10212693","10209927","10217943","10221375"]
     },
     // {
+    //     name: "Monochrome Color Bundle ",
+    //     itemData: "10265917",
+    //     contains: 
+    // },
+    // {
+    //     name: "Creamy Candy Color Bundle ",
+    //     itemData: "10265915",
+    //     contains: 
+    // },
+    // {
+    //     name: "Amaranth Color Bundle ",
+    //     itemData: "10265913",
+    //     contains: 
+    // },
+    // {
+    //     name: "Sinful Color Bundle ",
+    //     itemData: "10265909",
+    //     contains: 
+    // },
+    // {
+    //     name: "Melty Color Bundle ",
+    //     itemData: "10265907",
+    //     contains: 
+    // },
+    // {
+    //     name: "Yellow & Black Color Bundle ",
+    //     itemData: "10265905",
+    //     contains: 
+    // },
+    // {
+    //     name: "Crimson Color Bundle ",
+    //     itemData: "10265903",
+    //     contains: 
+    // },
+    // {
+    //     name: "Springtime Tea: Herbal ",
+    //     itemData: "10267735",
+    //     contains: 
+    // },
+    // {
+    //     name: "Springtime Tea: Hibiscus ",
+    //     itemData: "10267733",
+    //     contains: 
+    // },
+    // {
+    //     name: "Springtime Tea: Matcha ",
+    //     itemData: "10267731",
+    //     contains: 
+    // },
+    // {
+    //     name: "Springtime Tea: Oolong ",
+    //     itemData: "10267729",
+    //     contains: 
+    // },
+    {
+        name: "Gaian Treasures: Ancient Katanas ",
+        itemData: "10262291",
+        contains: ["10128351","10110495","10207689","10207701","10126539"]
+    },
+    {
+        name: "Gaian Treasures: Halos ",
+        itemData: "10262289",
+        contains: ["10094065","10069283","10096635","10114255","10179147"]
+    },
+    {
+        name: "Gaian Treasures: DJ Studio Headphones ",
+        itemData: "10262293",
+        contains: ["10080165","10100003","10128363","10134941","10170913"]
+    },
+    {
+        name: "Wrath Bundle ",
+        itemData: "10261827",
+        contains: ["10044447","10223961","10209461","10236233","10223643","10183307","10226645"]
+    },
+    {
+        name: "Sloth Bundle ",
+        itemData: "10261825",
+        contains: ["10225019","10131531","10063049","10070365","10246089","10235831","10210607"]
+    },
+    {
+        name: "Gluttony Bundle ",
+        itemData: "10261823",
+        contains: ["10025225","10171399","10104821","10091171","10233253","10211235","10126781"]
+    },
+    {
+        name: "Envy Bundle ",
+        itemData: "10261821",
+        contains: ["10159071","10231535","10245303","10101437","10129419","10209479"]
+    },
+    {
+        name: "Pride Bundle ",
+        itemData: "10261819",
+        contains: ["83385","10185015","10220113","10200065","10069163","10158319","10196645"]
+    },
+    {
+        name: "Lust Bundle ",
+        itemData: "10261817",
+        contains: ["10023947","10057007","10164117","10037937","10209325","10205747"]
+    },
+    {
+        name: "Greed Bundle ",
+        itemData: "10261815",
+        contains: ["10252543","10044455","10112807","10210291","10184575","10218153"]
+    },
+    {
+        name: "Bed Time Bundle ",
+        itemData: "10259365",
+        contains: ["10166377","10153637","10206447","10204667","10202885"]
+    },
+    {
+        name: "Happy Hour Bundle ",
+        itemData: "10259363",
+        contains: ["10159905","10152339","10163747","10206223","10142161"]
+    },
+    {
+        name: "Tea Time Bundle ",
+        itemData: "10259361",
+        contains: ["10142923","10144721","10150087","10178925","10144409"]
+    },
+    {
+        name: "Afternoon Delight Bundle ",
+        itemData: "10259359",
+        contains: ["10155107","10161949","10146003","10157337","10166567"]
+    },
+    {
+        name: "Morning Glory Bundle ",
+        itemData: "10259357",
+        contains: ["10145081","10208149","10183131","10142211"]
+    },
+    {
+        name: "Dawn of Darkness Bundle ",
+        itemData: "10259355",
+        contains: ["10166095","10207421","10207121","10206585","10165611"]
+    },
+    {
+        name: "Community Picks: Tsukita-chan ",
+        itemData: "10259103",
+        contains: ["10137843","10138807","10168843","10182417","10209077"]
+    },
+    {
+        name: "Community Picks: of course you can ",
+        itemData: "10259101",
+        contains: ["10128855","10139399","10198747","10202139","10246781","10254069","10121047"]
+    },
+    {
+        name: "Community Picks: Angels Alibi ",
+        itemData: "10259099",
+        contains: ["10209077","10173967","10059215","10172397","10173215"]
+    },
+    {
+        name: "Community Picks: vodka_vixen ",
+        itemData: "10259097",
+        contains: ["10215165","10179457","10217427","10177967","10131181","10130569"]
+    },
+    {
+        name: "Community Picks: Nynaevie ",
+        itemData: "10259095",
+        contains: ["10161545","10247877","10149729","10068557","10129609"]
+    },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
     //     name: "",
     //     itemData: "",
     //     contains: 
@@ -23063,7 +23273,97 @@ let bundleList = [
     //     itemData: "",
     //     contains: 
     // },
-// {
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
     //     name: "",
     //     itemData: "",
     //     contains: 
