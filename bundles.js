@@ -22573,71 +22573,71 @@ let bundleList = [
         itemData: "10274967",
         contains: ["10271943","10211877","10221679","10222463","10219929"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Summer Elemental Beast Bundle ",
+        itemData: "10281089",
+        contains: ["10098227","10094321","10179691","10162071"]
+    },
+    {
+        name: "Summer Water Bundle ",
+        itemData: "10281087",
+        contains: ["10240551","10107157","10230321","10265733","10042451"]
+    },
+    {
+        name: "Summer Air Bundle ",
+        itemData: "10281085",
+        contains: ["10192693","3863","10172377","10173445","10170771"]
+    },
+    {
+        name: "Summer Earth Bundle ",
+        itemData: "10281083",
+        contains: ["10134123","10139399","10257549","10217919","10262831"]
+    },
+    {
+        name: "Summer Fire Bundle ",
+        itemData: "10281081",
+        contains: ["10076149","10122415","10203449","10230503","10198509"]
+    },
+    {
+        name: "Antique Weapon Collection ",
+        itemData: "10280819",
+        contains: ["10268317","10275025","10275055","10275069"]
+    },
+    {
+        name: "Carnival Cuisine: Candied Apples ",
+        itemData: "10279855",
+        contains: ["10211469","10171131","10229033","10212097","10277119"]
+    },
+    {
+        name: "Carnival Cuisine: Lemonade ",
+        itemData: "10279853",
+        contains: ["10173987","10256373","10231287","10225309","10277715"]
+    },
+    {
+        name: "Carnival Cuisine: Funnel Cake ",
+        itemData: "10279851",
+        contains: ["10214289","10236733","10254675","10226403","10272313"]
+    },
+    {
+        name: "Independence Paw Bundle ",
+        itemData: "10279843",
+        contains: ["10155261","10183989","10098401","10098333","10098331"]
+    },
+    {
+        name: "Independence Rainbow Bundle ",
+        itemData: "10279841",
+        contains: ["10263831","10199723","10136373","46579","64279","10198339"]
+    },
+    {
+        name: "Independence Slushy Bundle ",
+        itemData: "10279837",
+        contains: ["10278001","10260913","10252711","10259105","10260363","10258979"]
+    },
+    {
+        name: "Independence Day Bundle ",
+        itemData: "10279835",
+        contains: ["10271489","10076689","10027349","10222109","10184089","10276849"]
+    },
     // {
     //     name: "",
     //     itemData: "",
