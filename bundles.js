@@ -23518,26 +23518,26 @@ let bundleList = [
         itemData: "10267701",
         contains: ["10179027","10128975","10258885","10186473","10223897","10262757"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Dueling Academy: Aekea ",
+        itemData: "10255339",
+        contains: ["10253849","10188359","10146541","10187741","10189409","10187085"]
+    },
+    {
+        name: "Dueling Academy: Gambino ",
+        itemData: "10255337",
+        contains: ["10254083","10146731","10185541","10188297","10184209","10188357"]
+    },
+    {
+        name: "Dueling Academy: Durem ",
+        itemData: "10255335",
+        contains: ["10254215","10186961","10146499","10186555","10188491","10189463"]
+    },
+    {
+        name: "Dueling Academy: Barton ",
+        itemData: "10255333",
+        contains: ["10254529","10186985","10187759","10148103","10189477","10181869"]
+    },
     // {
     //     name: "",
     //     itemData: "",
