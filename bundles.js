@@ -22213,51 +22213,51 @@ let bundleList = [
         itemData: "10289259",
         contains: ["10286977","10086159","10214361","10186961","10188491","10186929","10232627","10174873","10233203","10085929"]
     },
-    // {
-    //     name: "Instaselfie Bundle ",
-    //     itemData: "10289237",
-    //     contains: 
-    // },
-    // {
-    //     name: "Summer Nostalgia Bundle ",
-    //     itemData: "10289235",
-    //     contains: 
-    // },
-    // {
-    //     name: "Summer Camp: Science Camp ",
-    //     itemData: "10288811",
-    //     contains: 
-    // },
-    // {
-    //     name: "Summer Camp: Zoo Camp ",
-    //     itemData: "10288809",
-    //     contains: 
-    // },
-    // {
-    //     name: "Summer Camp: Math Camp ",
-    //     itemData: "10288807",
-    //     contains: 
-    // },
-    // {
-    //     name: "Summer Camp: Fitness Camp ",
-    //     itemData: "10288805",
-    //     contains: 
-    // },
-    // {
-    //     name: "Summer Camp: Fashion Camp ",
-    //     itemData: "10288803",
-    //     contains: 
-    // },
-    // {
-    //     name: "School of Wizardry: The Loyal ",
-    //     itemData: "10287481",
-    //     contains: 
-    // },
-    // {
-    //     name: "School of Wizardry: The Brave ",
-    //     itemData: "10287475",
-    //     contains: 
-    // },
+    {
+        name: "Instaselfie Bundle ",
+        itemData: "10289237",
+        contains: ["10048943","10049495","10049497"]
+    },
+    {
+        name: "Summer Nostalgia Bundle ",
+        itemData: "10289235",
+        contains: ["10049695","10049921","10049625"]
+    },
+    {
+        name: "Summer Camp: Science Camp ",
+        itemData: "10288811",
+        contains: ["10137733","10075785","10231787","10207943","10214263","10234157"]
+    },
+    {
+        name: "Summer Camp: Zoo Camp ",
+        itemData: "10288809",
+        contains: ["10112631","10169455","10258599","10219281","10234545","10228845"]
+    },
+    {
+        name: "Summer Camp: Math Camp ",
+        itemData: "10288807",
+        contains: ["10125211","10229161","10114377","10234175","10233917","10233253"]
+    },
+    {
+        name: "Summer Camp: Fitness Camp ",
+        itemData: "10288805",
+        contains: ["10179941","41192","10233565","10234843","10237801","10230359"]
+    },
+    {
+        name: "Summer Camp: Fashion Camp ",
+        itemData: "10288803",
+        contains: ["10224683","10223939","10234295","10235077","10226577","10237719"]
+    },
+    {
+        name: "School of Wizardry: The Loyal ",
+        itemData: "10287481",
+        contains: ["10281347","10183775","10231055","10226795","10263993","10238403"]
+    },
+    {
+        name: "School of Wizardry: The Brave ",
+        itemData: "10287475",
+        contains: ["10287821","10017265","10066285","10142767","10200661","10232365"]
+    },
     // {
     //     name: "",
     //     itemData: "",
