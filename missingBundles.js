@@ -496,12 +496,12 @@ let missingList = [
         itemData: "11233959"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Bubble Tea Shoppe: Chocolate ",
+        itemData: "10313949"
     },
     {
-        name: "",
-        itemData: ""
+        name: "Dress Your Pet Costume Kit ",
+        itemData: "10313931"
     },
     {
         name: "",

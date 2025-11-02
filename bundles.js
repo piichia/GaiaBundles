@@ -21718,6 +21718,156 @@ let bundleList = [
         itemData: "10322617",
         contains: ["45721","84151","44716","44680","47101","10015301","39478","57501","44704","39412","67427","77078","50803","63619","10007285","10011151","45753","45795","34001","39484","10012171","49901","62963","10215395","52005","39418","77082","60311","49899","10254151","10289155","39430","63627","10241421","10309397","62583","53697","55057","10290793","10309337","63973","38035","10017039"]
     },
+    {
+        name: "Monster Costume Kit ",
+        itemData: "10313927",
+        contains: ["29039","10240171","10161411","10210191","10119935"]
+    },
+    {
+        name: "Vampire Costume Kit ",
+        itemData: "10313925",
+        contains: ["10140345","29039","10208521","10119209","10197697"]
+    },
+    {
+        name: "Ghost Costume Kit ",
+        itemData: "10313923",
+        contains: ["29039","10210607","10088587","10211605","10104763"]
+    },
+    {
+        name: "Witch Costume Kit ",
+        itemData: "10313921",
+        contains: ["29039","10240139","10201449","10211175","10203281"]
+    },
+    {
+        name: "Bubble Tea Shoppe: Taro ",
+        itemData: "10313951",
+        contains: ["10232799","10187895","10251983","10258959"]
+    },
+    {
+        name: "Bubble Tea Shoppe: Blueberry ",
+        itemData: "10313947",
+        contains: ["10241879","10244407","10235117","10231535"]
+    },
+    {
+        name: "Bubble Tea Shoppe: Raspberry ",
+        itemData: "10313945",
+        contains: ["10157593","10206405","10227534","10256027"]
+    },
+    // {
+    //     name: "Bubble Tea Shoppe: Chocolate ",
+    //     itemData: "10313949",
+    //     contains: ["10276285","10230541","10029487","10075747"]
+    // },
+    {
+        name: "Bubble Tea Shoppe: Avocado ",
+        itemData: "10313943",
+        contains: ["10217345","10277685","10269775","10246817"]
+    },
+    {
+        name: "Bubble Tea Shoppe: Coconut ",
+        itemData: "10313941",
+        contains: ["10108885","10028583","10255785","10107953"]
+    },
+    {
+        name: "Black Cat Costume Kit ",
+        itemData: "10313929",
+        contains: ["29039","10252599","10254885","10132413","10257251"]
+    },
+    {
+        name: "Dress Your Pet Costume Kit ",
+        itemData: "10313931",
+        contains: ["10022959","10022961","10022963","10302243"]
+    },
+    {
+        name: "Community Picks: Winter Ball (H0peh) ",
+        itemData: "10314927",
+        contains: ["10235455","10230035","10250417","10214091","10274647","10262999"]
+    },
+    {
+        name: "Community Picks: Winter Ball (Jennarous) ",
+        itemData: "10314929",
+        contains: ["10114743","10106325","10141539","10099411","10121367","10071959","10211107"]
+    },
+    {
+        name: "Community Picks: Winter Ball (Okami Tenrou) ",
+        itemData: "10314931",
+        contains: ["10242443","28853","10229999","10258509","10272985","10224413","10289735"]
+    },
+    {
+        name: "Community Picks: Winter Ball (Avyna) ",
+        itemData: "10314933",
+        contains: ["10163451","10117901","24645","10209621","10224417","10210781"]
+    },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
     // {
     //     name: "",
     //     itemData: "",
