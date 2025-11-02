@@ -22963,26 +22963,26 @@ let bundleList = [
         itemData: "10272771",
         contains: ["10173149","10220299","10173215","10173197","10173117","10173231","10220329"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-// {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Insta-Idol: Lead Dancer ",
+        itemData: "10260157",
+        contains: ["10258353","10207421","10203955","10203081"]
+    },
+    {
+        name: "Insta-Idol: Rapper ",
+        itemData: "10260155",
+        contains: ["10259181","10143501","10143587","10208765"]
+    },
+    {
+        name: "Insta-Idol: Main Vocalist ",
+        itemData: "10260153",
+        contains: ["10253791","10208431","10171399","10209461"]
+    },
+    {
+        name: "Insta-Idol: The Leader ",
+        itemData: "10260151",
+        contains: ["10259527","10206223","10208467","10209707"]
+    },
     // {
     //     name: "",
     //     itemData: "",
