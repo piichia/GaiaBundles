@@ -23003,61 +23003,61 @@ let bundleList = [
         itemData: "10272455",
         contains: ["10272409","10216827","10212693","10209927","10217943","10221375"]
     },
-    // {
-    //     name: "Monochrome Color Bundle ",
-    //     itemData: "10265917",
-    //     contains: 
-    // },
-    // {
-    //     name: "Creamy Candy Color Bundle ",
-    //     itemData: "10265915",
-    //     contains: 
-    // },
-    // {
-    //     name: "Amaranth Color Bundle ",
-    //     itemData: "10265913",
-    //     contains: 
-    // },
-    // {
-    //     name: "Sinful Color Bundle ",
-    //     itemData: "10265909",
-    //     contains: 
-    // },
-    // {
-    //     name: "Melty Color Bundle ",
-    //     itemData: "10265907",
-    //     contains: 
-    // },
-    // {
-    //     name: "Yellow & Black Color Bundle ",
-    //     itemData: "10265905",
-    //     contains: 
-    // },
-    // {
-    //     name: "Crimson Color Bundle ",
-    //     itemData: "10265903",
-    //     contains: 
-    // },
-    // {
-    //     name: "Springtime Tea: Herbal ",
-    //     itemData: "10267735",
-    //     contains: 
-    // },
-    // {
-    //     name: "Springtime Tea: Hibiscus ",
-    //     itemData: "10267733",
-    //     contains: 
-    // },
-    // {
-    //     name: "Springtime Tea: Matcha ",
-    //     itemData: "10267731",
-    //     contains: 
-    // },
-    // {
-    //     name: "Springtime Tea: Oolong ",
-    //     itemData: "10267729",
-    //     contains: 
-    // },
+    {
+        name: "Monochrome Color Bundle ",
+        itemData: "10265917",
+        contains: ["10057911","10215225","10078531","10103785","10209973","10265027"]
+    },
+    {
+        name: "Creamy Candy Color Bundle ",
+        itemData: "10265915",
+        contains: ["10222299","10223881","10224107","10223857","10214003","10265623"]
+    },
+    {
+        name: "Amaranth Color Bundle ",
+        itemData: "10265913",
+        contains: ["10206263","10153689","10216023","10210191","10163165","10252521"]
+    },
+    {
+        name: "Sinful Color Bundle ",
+        itemData: "10265909",
+        contains: ["10246089","10247959","10239775","10237019","10232089","10250127"]
+    },
+    {
+        name: "Melty Color Bundle ",
+        itemData: "10265907",
+        contains: ["10261209","10263075","10199169","10207749","10209353","10226555"]
+    },
+    {
+        name: "Yellow & Black Color Bundle ",
+        itemData: "10265905",
+        contains: ["10205183","10238683","10209847","10211569","10252093","10261193"]
+    },
+    {
+        name: "Crimson Color Bundle ",
+        itemData: "10265903",
+        contains: ["10179027","10128975","10258885","10186473","10223897","10262757"]
+    },
+    {
+        name: "Springtime Tea: Herbal ",
+        itemData: "10267735",
+        contains: ["10266059","10228927","10238163","10216587","10203791"]
+    },
+    {
+        name: "Springtime Tea: Hibiscus ",
+        itemData: "10267733",
+        contains: ["10265247","10119063","10240621","10233357","10211469","10215545"]
+    },
+    {
+        name: "Springtime Tea: Matcha ",
+        itemData: "10267731",
+        contains: ["10266079","10149733","10164939","10111035","10139399","10211717"]
+    },
+    {
+        name: "Springtime Tea: Oolong ",
+        itemData: "10267729",
+        contains: ["10246455","10216827","10215893","10215081","10264193"]
+    },
     {
         name: "Gaian Treasures: Ancient Katanas ",
         itemData: "10262291",
