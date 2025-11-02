@@ -22068,151 +22068,151 @@ let bundleList = [
         itemData: "10296721",
         contains: ["10283221","10283245","10284047","10284755"]
     },
-    // {
-    //     name: "Town Glory: Barton ",
-    //     itemData: "10290969",
-    //     contains: 
-    // },
-    // {
-    //     name: "Town Glory: Durem ",
-    //     itemData: "10290965",
-    //     contains: 
-    // },
-    // {
-    //     name: "Town Glory: Gambino ",
-    //     itemData: "10290963",
-    //     contains: 
-    // },
-    // {
-    //     name: "Town Glory: Aekea ",
-    //     itemData: "10290961",
-    //     contains: 
-    // },
-    // {
-    //     name: "Cake Pop Paradise: Chocolate ",
-    //     itemData: "10290923",
-    //     contains: 
-    // },
-    // {
-    //     name: "Cake Pop Paradise: Key Lime ",
-    //     itemData: "10290921",
-    //     contains: 
-    // },
-    // {
-    //     name: "Cake Pop Paradise: Strawberry Shortcake ",
-    //     itemData: "10290919",
-    //     contains: 
-    // },
-    // {
-    //     name: "Cake Pop Paradise: Birthday Cake ",
-    //     itemData: "10290917",
-    //     contains: 
-    // },
-    // {
-    //     name: "Community Picks: Stellar Nights: Castiel Lover ",
-    //     itemData: "10290641",
-    //     contains: 
-    // },
-    // {
-    //     name: "Community Picks: Stellar Nights: Princess Kunzite ",
-    //     itemData: "10290639",
-    //     contains: 
-    // },
-    // {
-    //     name: "Community Picks: Stellar Nights: Sir Dark Hat ",
-    //     itemData: "10290637",
-    //     contains: 
-    // },
-    // {
-    //     name: "Community Picks: Stellar Nights: lilloulou ",
-    //     itemData: "10290635",
-    //     contains: 
-    // },
-    // {
-    //     name: "Community Picks: Stellar Nights: Dollfie ",
-    //     itemData: "10290633",
-    //     contains: 
-    // },
-    // {
-    //     name: "Summer Horns & Tails Bundle ",
-    //     itemData: "10290245",
-    //     contains: 
-    // },
-    // {
-    //     name: "Summer Wings Bundle ",
-    //     itemData: "10290243",
-    //     contains: 
-    // },
-    // {
-    //     name: "Summer Demon Bundle ",
-    //     itemData: "10290241",
-    //     contains: 
-    // },
-    // {
-    //     name: "Summer Angel Bundle ",
-    //     itemData: "10290239",
-    //     contains: 
-    // },
-    // {
-    //     name: "Forbidden Fruit: Berry ",
-    //     itemData: "10289721",
-    //     contains: 
-    // },
-    // {
-    //     name: "Forbidden Fruit: Citrus ",
-    //     itemData: "10289715",
-    //     contains: 
-    // },
-    // {
-    //     name: "Forbidden Fruit: Peaches ",
-    //     itemData: "10289707",
-    //     contains: 
-    // },
-    // {
-    //     name: "Forbidden Fruit: Apple ",
-    //     itemData: "10289703",
-    //     contains: 
-    // },
-    // {
-    //     name: "Fantasia Regalia: Imp Bijou ",
-    //     itemData: "10289625",
-    //     contains: 
-    // },
-    // {
-    //     name: "Fantasia Regalia: Humanoid Bijou ",
-    //     itemData: "10289623",
-    //     contains: 
-    // },
-    // {
-    //     name: "Fantasia Regalia: Otherworldy Bijou ",
-    //     itemData: "10289619",
-    //     contains: 
-    // },
-    // {
-    //     name: "Fantasia Regalia: Divine Bijou ",
-    //     itemData: "10289609",
-    //     contains: 
-    // },
-    // {
-    //     name: "Team Up!: Rainbow Team ",
-    //     itemData: "10289265",
-    //     contains: 
-    // },
-    // {
-    //     name: "Team Up!: Yellow Team ",
-    //     itemData: "10289263",
-    //     contains: 
-    // },
-    // {
-    //     name: "Team Up!: Blue Team ",
-    //     itemData: "10289261",
-    //     contains: 
-    // },
-    // {
-    //     name: "Team Up!: Red Team ",
-    //     itemData: "10289259",
-    //     contains: 
-    // },
+    {
+        name: "Town Glory: Barton ",
+        itemData: "10290969",
+        contains: ["10291985","10148103","10186945","10187759","10254529","10169203"]
+    },
+    {
+        name: "Town Glory: Durem ",
+        itemData: "10290965",
+        contains: ["10292811","10186555","10189463","10186473","10254215","10242153"]
+    },
+    {
+        name: "Town Glory: Gambino ",
+        itemData: "10290963",
+        contains: ["10292515","10188297","10183329","10254083","10207821","10169141"]
+    },
+    {
+        name: "Town Glory: Aekea ",
+        itemData: "10290961",
+        contains: ["10186877","10188359","10146541","10237557","10186511","10291585"]
+    },
+    {
+        name: "Cake Pop Paradise: Chocolate ",
+        itemData: "10290923",
+        contains: ["10082763","10086227","10223123","10220979","10039671","10223405","10222185","10291487"]
+    },
+    {
+        name: "Cake Pop Paradise: Key Lime ",
+        itemData: "10290921",
+        contains: ["10197321","10062469","10223881","10234613","10233253","10275723","10237229","10291105"]
+    },
+    {
+        name: "Cake Pop Paradise: Strawberry Shortcake ",
+        itemData: "10290919",
+        contains: ["10197681","10208591","10220009","10224841","10219661","10213633","10228459","10291503"]
+    },
+    {
+        name: "Cake Pop Paradise: Birthday Cake ",
+        itemData: "10290917",
+        contains: ["10218373","10216379","10166413","10213983","10232877","10214527","10212753","10291523"]
+    },
+    {
+        name: "Community Picks: Stellar Nights: Castiel Lover ",
+        itemData: "10290641",
+        contains: ["10075963","10147425","93469","10259855","10019479","48327"]
+    },
+    {
+        name: "Community Picks: Stellar Nights: Princess Kunzite ",
+        itemData: "10290639",
+        contains: ["10071121","10232903","10153845","10075193","10193185","10213745"]
+    },
+    {
+        name: "Community Picks: Stellar Nights: Sir Dark Hat ",
+        itemData: "10290637",
+        contains: ["10031855","10263885","10074875","10130363","10187861","10240349"]
+    },
+    {
+        name: "Community Picks: Stellar Nights: lilloulou ",
+        itemData: "10290635",
+        contains: ["10195971","10252305","10214985","10203791","10272481","10280475"]
+    },
+    {
+        name: "Community Picks: Stellar Nights: Dollfie ",
+        itemData: "10290633",
+        contains: ["10047981","10031971","10125589","10031433","10197459","10234567"]
+    },
+    {
+        name: "Summer Horns & Tails Bundle ",
+        itemData: "10290245",
+        contains: ["10196051","10041421","10123513","10080741","10080907","10041417","10080749","10044253","10041419","10041413","10123355","10041415","10041411","10196067","10043019","10196055","10196059","10196063","10124803","10207749","10289393"]
+    },
+    {
+        name: "Summer Wings Bundle ",
+        itemData: "10290243",
+        contains: ["10051551","10045075","10099929","10033047","10078641","10085405","10085579","10017655","10033041","10048073","10018505","10034725","10156505","10014515","10042473","10015667","10112393","10018509","10244625","1521","10289353"]
+    },
+    {
+        name: "Summer Demon Bundle ",
+        itemData: "10290241",
+        contains: ["10204683","10167319","10075785","10072545","10263993","10231933","10031901","10237079","10062455","10289539"]
+    },
+    {
+        name: "Summer Angel Bundle ",
+        itemData: "10290239",
+        contains: ["10087723","38922","10083107","10177559","10213473","10089291","10089275","10128491","10110205","10289511"]
+    },
+    {
+        name: "Forbidden Fruit: Berry ",
+        itemData: "10289721",
+        contains: ["10171375","10278387","10266059","10136287","10235117","10264497","10262713","10228635","10226319","10285493"]
+    },
+    {
+        name: "Forbidden Fruit: Citrus ",
+        itemData: "10289715",
+        contains: ["10230475","10197561","10244149","10190493","10200675","10099077","10238403","10243457","10240987","10285285"]
+    },
+    {
+        name: "Forbidden Fruit: Peaches ",
+        itemData: "10289707",
+        contains: ["10095027","10158241","10284345","10116355","10255395","10042405","10251597","10162839","10266677","10286213"]
+    },
+    {
+        name: "Forbidden Fruit: Apple ",
+        itemData: "10289703",
+        contains: ["10131561","10108197","10231787","10236233","10275129","10265247","10230253","10233845","10278041","10276977"]
+    },
+    {
+        name: "Fantasia Regalia: Imp Bijou ",
+        itemData: "10289625",
+        contains: ["10090249","10235747","10166295","10192393","10285223","10235211","10070893","10236129","10078889","10236549"]
+    },
+    {
+        name: "Fantasia Regalia: Humanoid Bijou ",
+        itemData: "10289623",
+        contains: ["10112577","10233565","10192785","10193479","10194505","10032821","10240319","10271133","10110193","10192729"]
+    },
+    {
+        name: "Fantasia Regalia: Otherworldy Bijou ",
+        itemData: "10289619",
+        contains: ["10236733","10222029","10263961","10268265","10138121","10211685","10183131","10216485","10058353","10265787"]
+    },
+    {
+        name: "Fantasia Regalia: Divine Bijou ",
+        itemData: "10289609",
+        contains: ["10199841","10046639","10078551","10198005","10031151","10204597","10078095","10089275","10180139","10203253"]
+    },
+    {
+        name: "Team Up!: Rainbow Team ",
+        itemData: "10289265",
+        contains: ["10282051","10202987","10135807","10186733","10220665","10119651","10225501","10233253","10218721","10119627"]
+    },
+    {
+        name: "Team Up!: Yellow Team ",
+        itemData: "10289263",
+        contains: ["10286497","10189355","10188575","10233357","10188471","10186913","10165151","10238683","10133333","10221829"]
+    },
+    {
+        name: "Team Up!: Blue Team ",
+        itemData: "10289261",
+        contains: ["10284115","10198167","10199521","10184209","10188357","10092603","10133063","10206093","10275843","10226577"]
+    },
+    {
+        name: "Team Up!: Red Team ",
+        itemData: "10289259",
+        contains: ["10286977","10086159","10214361","10186961","10188491","10186929","10232627","10174873","10233203","10085929"]
+    },
     // {
     //     name: "Instaselfie Bundle ",
     //     itemData: "10289237",
