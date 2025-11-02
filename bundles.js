@@ -23493,31 +23493,31 @@ let bundleList = [
         itemData: "10252227",
         contains: ["10223981","10198953","10195913","10184671"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Creamy Candy Color Bundle ",
+        itemData: "10267711",
+        contains: ["10222299","10223881","10224107","10223857","10214003","10265623"]
+    },
+    {
+        name: "Amaranth Color Bundle ",
+        itemData: "10267709",
+        contains: ["10206263","10153689","10216023","10210191","10163165","10252521"]
+    },
+    {
+        name: "Sinful Color Bundle ",
+        itemData: "10267707",
+        contains: ["10246089","10247959","10239775","10237019","10232089","10250127"]
+    },
+    {
+        name: "Melty Color Bundle ",
+        itemData: "10267705",
+        contains: ["10261209","10263075","10199169","10207749","10209353","10226555"]
+    },
+    {
+        name: "Crimson Color Bundle ",
+        itemData: "10267701",
+        contains: ["10179027","10128975","10258885","10186473","10223897","10262757"]
+    },
     // {
     //     name: "",
     //     itemData: "",
