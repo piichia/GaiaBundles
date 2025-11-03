@@ -23726,12 +23726,12 @@ let bundleList = [
     {
         name: "Pet Shop: Fafnir Bundle ",
         itemData: "10249641",
-        contains: ["10120615","10241305","10239139","10167235","10196059","10225363"]
+        contains: ["10120615","10241305","10239139","10167235","10196059","10224987"]
     },
     {
         name: "Pet Shop: Skulverine Bundle ",
         itemData: "10249639",
-        contains: ["10110377","10113235","10113493","10192127","10193655"]
+        contains: ["10110377","10113235","10113493","10191195","10193655"]
     },
     {
         name: "Book of Fairytales: The Sidekick ",
