@@ -24848,56 +24848,56 @@ let bundleList = [
         itemData: "10190599",
         contains: ["10088997","10085615","10031019","10084073","10031151","10087671"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Creative Cosplay Bundles: Tiny Monster ",
+        itemData: "10186631",
+        contains: ["10185189","10092725","10023945","10084373","10114623","10113957","10124163","10115469"]
+    },
+    {
+        name: "Rebellious Dino Kids Bundle ",
+        itemData: "10185725",
+        contains: ["10184285","10184307","10184329"]
+    },
+    {
+        name: "Angry Aekean Dino Bundle ",
+        itemData: "10184521",
+        contains: ["10183501"]
+    },
+    {
+        name: "Angry Bartonian Dino Bundle ",
+        itemData: "10184519",
+        contains: ["10183775"]
+    },
+    {
+        name: "Angry Gambinador Dino Bundle ",
+        itemData: "10184517",
+        contains: ["10183329"]
+    },
+    {
+        name: "Angry Durem Dino Bundle ",
+        itemData: "10184515",
+        contains: ["10184239"]
+    },
+    {
+        name: "August Black Box ",
+        itemData: "10183419",
+        contains: ["10192199","10192211","10192289"]
+    },
+    {
+        name: "August Gold Box ",
+        itemData: "10183417",
+        contains: ["10160843","10183419"]
+    },
+    {
+        name: "Legendary Heroes and Villains ",
+        itemData: "10182961",
+        contains: ["10183151","10183169","10183181","10182517"]
+    },
+    {
+        name: "The Wake of Nightmares Bundles: Spider ",
+        itemData: "10182723",
+        contains: ["10131331","10136481","10080827","10035019","38560","10162483"]
+    },
     // {
     //     name: "",
     //     itemData: "",
