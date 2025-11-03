@@ -24783,26 +24783,26 @@ let bundleList = [
         itemData: "10204927",
         contains: ["10209353","10195441","10129867","10181109","10183665"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Imaginary Friends: Magical Friend ",
+        itemData: "10193047",
+        contains: ["10194659","10160067","10043135","10037611","10095403","10161651"]
+    },
+    {
+        name: "Dinner Theater: King's Joust Bundle ",
+        itemData: "10193783",
+        contains: ["10199217","10164069","10169241","10060235","10164765","10141871","10164781","10137011"]
+    },
+    {
+        name: "Autumn Brisk: Apple Spice ",
+        itemData: "10193735",
+        contains: ["10061691","10147443","10101793","10134665","10197321"]
+    },
+    {
+        name: "Electric Monstrosities: Spider ",
+        itemData: "10191519",
+        contains: ["10193989","10037963","10080827","10052525","10131331","10043255","10087659"]
+    },
     // {
     //     name: "",
     //     itemData: "",
