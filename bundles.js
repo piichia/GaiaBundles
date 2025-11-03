@@ -24003,6 +24003,366 @@ let bundleList = [
         itemData: "10248843",
         contains: ["10129041","10035299","10193139","10129565","10037357","10132725"]
     },
+    {
+        name: "Have a Dere Date! Dandere Bundle ",
+        itemData: "10242201",
+        contains: ["10238985","10122703","10182369","10127761","10125211","10174331"]
+    },
+    {
+        name: "Have a Dere Date! Deredere Bundle ",
+        itemData: "10242199",
+        contains: ["10239493","10117857","10122251","10152859","10184655","10179153"]
+    },
+    {
+        name: "Have a Dere Date! Yandere Bundle ",
+        itemData: "10242197",
+        contains: ["10239251","10126111","10117571","10186127","10172119","10118561"]
+    },
+    {
+        name: "Have a Dere Date! Kuudere Bundle ",
+        itemData: "10242195",
+        contains: ["10238767","10169401","10123401","10178635","10166809","10186605"]
+    },
+    {
+        name: "Have a Dere Date! Tsundere Bundle ",
+        itemData: "10242193",
+        contains: ["10119853","10117713","10150895","10112413","10124847","10241527"]
+    },
+    {
+        name: "Valentines Paw Bundle ",
+        itemData: "10241829",
+        contains: ["10023917","10115449","10115921","10114687","10159415","10076273"]
+    },
+    {
+        name: "Community Picks: Sinfulcraft ",
+        itemData: "10241799",
+        contains: ["10221093","10216429","10207539","10040711","10230397","10156583"]
+    },
+    {
+        name: "Community Picks: --Beckys Nightmare-- ",
+        itemData: "10241797",
+        contains: ["89577","10005671","10119731","10058143","10198375"]
+    },
+    {
+        name: "Community Picks: Canicuss ",
+        itemData: "10241795",
+        contains: ["10044793","10044655","10199541","10025577","10222037"]
+    },
+    {
+        name: "Community Picks: RandomKate ",
+        itemData: "10241793",
+        contains: ["10134223","10046167","14559","10176917","10104821","10112747"]
+    },
+    {
+        name: "Community Picks: Sir Dark Hat ",
+        itemData: "10241791",
+        contains: ["10099339","10137331","10183059","10138505"]
+    },
+    {
+        name: "Milky Cat Bundle ",
+        itemData: "10240341",
+        contains: ["10046133","72491","10153637","10227642"]
+    },
+    {
+        name: "Lucky Cat Bundle ",
+        itemData: "10240337",
+        contains: ["45201","10092139","10151825","10227622"]
+    },
+    {
+        name: "Jet Bundle ",
+        itemData: "10240335",
+        contains: ["69275","63979","10139383","10139877","10203791"]
+    },
+    {
+        name: "Bundle of Cat Dolls ",
+        itemData: "10240331",
+        contains: ["10091673","10105955","32499","10091639","10006277","57499","58487","39412","10230923","10031597","10125733","57497","10231039","10037015","61287","10037011","72773","62961","70363","53719","10134817","10019371","77082","10019479"]
+    },
+    {
+        name: "SuPURR Bowl All Stars Bundle ",
+        itemData: "10240065",
+        contains: ["10075943","10022375","74051","10022329","10109589","10022221","10075553"]
+    },
+    {
+        name: "Kitten Star Bundle ",
+        itemData: "10240063",
+        contains: ["10230023","40922","10107087","10131079","42622","10174435"]
+    },
+    {
+        name: "Rainbow Cat Bundle ",
+        itemData: "10240061",
+        contains: ["10089611","73513","10130189","10019135","10191531","10163035","10214173"]
+    },
+    {
+        name: "Milky Cat Bundle ",
+        itemData: "10240059",
+        contains: ["10046133","72491","10153637","10227642"]
+    },
+    {
+        name: "Lucky Cat Bundle ",
+        itemData: "10240057",
+        contains: ["45201","10092139","10151825","10227622"]
+    },
+    {
+        name: "Jet Bundle ",
+        itemData: "10240055",
+        contains: ["69275","63979","10139383","10139877","10203791"]
+    },
+    {
+        name: "Cute Cat Bundle ",
+        itemData: "10240053",
+        contains: ["10181517","10075479","10075731","10192017","10173739"]
+    },
+    {
+        name: "Alley Cat Bundle ",
+        itemData: "10240051",
+        contains: ["10173789","10072545","10177767","10170871","10152551"]
+    },
+    {
+        name: "Bundle of Cat Dolls ",
+        itemData: "10240049",
+        contains: ["10091673","10105955","32499","10091639","10006277","57499","58487","39412","10230923","10031597","10125733","57497","10231039","10037015","61287","10037011","72773","62961","70363","53719","10134817","10019371","77082","10019479"]
+    },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
+    // {
+    //     name: "",
+    //     itemData: "",
+    //     contains: 
+    // },
     // {
     //     name: "",
     //     itemData: "",
