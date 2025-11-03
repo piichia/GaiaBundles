@@ -23803,31 +23803,31 @@ let bundleList = [
         itemData: "10244699",
         contains: ["10185525","10157795","10113211","10219605","10158725"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Cosplaying Chaos: Princess Bundle ",
+        itemData: "10244623",
+        contains: ["10239775","10144643","10147117","10187895","10143249"]
+    },
+    {
+        name: "Cosplaying Chaos: Knight Bundle ",
+        itemData: "10244621",
+        contains: ["10241219","10144569","10144331","10155669","10184605"]
+    },
+    {
+        name: "Cosplaying Chaos: Brawler Bundle ",
+        itemData: "10244619",
+        contains: ["10241243","10187567","10193237","10186109","10185665"]
+    },
+    {
+        name: "Cosplaying Chaos: Antihero Bundle ",
+        itemData: "10244615",
+        contains: ["10242507","10184285","10183811","10185505","10176475"]
+    },
+    {
+        name: "Cosplaying Chaos: Magical Girl Bundle ",
+        itemData: "10244613",
+        contains: ["10239541","10187347","10144605","10186733","10163115"]
+    },
     // {
     //     name: "",
     //     itemData: "",
