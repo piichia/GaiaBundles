@@ -23551,17 +23551,17 @@ let bundleList = [
     // {
     //     name: "Happily Ever After: Dragons ",
     //     itemData: "10249451",
-    //     contains: 
+    //     contains: ["10130001","10148269","10037901","10217633","10132033","10156457","10161269"]
     // },
     // {
     //     name: "Happily Ever After: Cinderella ",
     //     itemData: "10249449",
-    //     contains: 
+    //     contains: ["10211701","10140107","10212959","10163451","10212607","10187187"]
     // },
     // {
     //     name: "Happily Ever After: Rapunzel ",
     //     itemData: "10249447",
-    //     contains: 
+    //     contains: ["10109603","10079341","10087169","10097199","10210759","10082327","10137375"]
     // },
     {
         name: "Happily Ever After: The Snow Queen ",
@@ -23578,16 +23578,16 @@ let bundleList = [
     //     itemData: "10249441",
     //     contains: ["10129041","10035299","10193139","10129565","10037357","10132725"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Pet Shop: Cereus Bundle ",
+        itemData: "10251017",
+        contains: ["10076607","10117571","10120681","10103921","10215799"]
+    },
+    {
+        name: "Presidential Paw Bundle ",
+        itemData: "10242603",
+        contains: ["10125139","10126781","10130663","10126653","10162071","10127661"]
+    },
     // {
     //     name: "",
     //     itemData: "",
