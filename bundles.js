@@ -25163,51 +25163,51 @@ let bundleList = [
         itemData: "10148231",
         contains: ["10146499","10146541","10146731","10148103"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Bunny and Blossoms Bundle ",
+        itemData: "10145001",
+        contains: ["10144605","10144721","10141263","10143707"]
+    },
+    {
+        name: "Jackets and Vests Bundle ",
+        itemData: "10143637",
+        contains: ["10143413","10143363","10143345"]
+    },
+    {
+        name: "Bundle of the Were-beasts: Werebear ",
+        itemData: "10143157",
+        contains: ["10142647","10141185","10000531","10062469","79899","10001685"]
+    },
+    {
+        name: "Sweet Easter Bundle ",
+        itemData: "10142513",
+        contains: ["10140503","10140771","10140809","10136619"]
+    },
+    {
+        name: "Horns and Tails 2.0: Angelic White ",
+        itemData: "10141007",
+        contains: ["10142061","10142279","10142319","10062451"]
+    },
+    {
+        name: "Horns and Tails 2.0: Wintermint ",
+        itemData: "10141005",
+        contains: ["10056499","10142295","10142069","10142321"]
+    },
+    {
+        name: "Horns and Tails 2.0: Sunrise ",
+        itemData: "10141003",
+        contains: ["10056609","10142053","10142283","10142323"]
+    },
+    {
+        name: "Horns and Tails 2.0: Dusk ",
+        itemData: "10141001",
+        contains: ["10142347","10142291","10138011","10137963"]
+    },
+    {
+        name: "Horns and Tails 2.0: Brown ",
+        itemData: "10140999",
+        contains: ["10037845","10142349","10142287","10142065"]
+    },
     // {
     //     name: "",
     //     itemData: "",
