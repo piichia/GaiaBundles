@@ -23543,40 +23543,40 @@ let bundleList = [
         itemData: "10251269",
         contains: ["10246717","10233233","10239399","10245347","10240253","10196953"]
     },
+    {
+        name: "Happily Ever After: Goldilocks and the Three Bears ",
+        itemData: "10249453",
+        contains: ["10164511","10143171","10150087","10161949","10129641","10193881"]
+    },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Happily Ever After: Dragons ",
+    //     itemData: "10249451",
     //     contains: 
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Happily Ever After: Cinderella ",
+    //     itemData: "10249449",
     //     contains: 
     // },
     // {
-    //     name: "",
-    //     itemData: "",
+    //     name: "Happily Ever After: Rapunzel ",
+    //     itemData: "10249447",
     //     contains: 
     // },
+    {
+        name: "Happily Ever After: The Snow Queen ",
+        itemData: "10249445",
+        contains: ["10230701","10232701","10192693","10108491","10231535","10143671"]
+    },
+    {
+        name: "Happily Ever After: Frog Prince ",
+        itemData: "10249443",
+        contains: ["10087560","10153947","10134279","10238927","10059853","10240119","10239619"]
+    },
     // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    //     name: "Happily Ever After: Little Red Riding Hood ",
+    //     itemData: "10249441",
+    //     contains: ["10129041","10035299","10193139","10129565","10037357","10132725"]
     // },
     // {
     //     name: "",
