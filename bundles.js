@@ -24748,41 +24748,41 @@ let bundleList = [
         itemData: "10216527",
         contains: ["10135005","10079529","10094563","10076897","10083675","10148417","10155889"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Candy Cream Bundle ",
+        itemData: "10208007",
+        contains: ["10207323","10207293","10207273"]
+    },
+    {
+        name: "Trick or Treat Grab Bag: Popcorn Ball Bundle ",
+        itemData: "10207505",
+        contains: ["10207783","10127175","91005","10006797","10082749","10101267"]
+    },
+    {
+        name: "Trick or Treat Grab Bag: Toothbrush Bundle ",
+        itemData: "10207503",
+        contains: ["10207909","10169185","10079485","10034103","10175157","10110425"]
+    },
+    {
+        name: "Trick or Treat Grab Bag: Lollipop Bundle ",
+        itemData: "10207501",
+        contains: ["10207713","10081275","10038803","10152527","10174609","10196243"]
+    },
+    {
+        name: "Trick or Treat Grab Bag: Candy Corn Bundle ",
+        itemData: "10207499",
+        contains: ["10208483","10114235","10194411","10083621","10132607","10152089"]
+    },
+    {
+        name: "Trick or Treat Grab Bag: Chocolate Bundle ",
+        itemData: "10207497",
+        contains: ["10207925","10134223","10062587","10117101","10097873","10117091"]
+    },
+    {
+        name: "Halloween Bones Bundle ",
+        itemData: "10204927",
+        contains: ["10209353","10195441","10129867","10181109","10183665"]
+    },
     // {
     //     name: "",
     //     itemData: "",
