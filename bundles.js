@@ -25058,41 +25058,41 @@ let bundleList = [
         itemData: "10171191",
         contains: ["10082311","10035965","10154137","10068147","10168451"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Pixie Dust: Fairy of Dusk ",
+        itemData: "10166901",
+        contains: ["10166207","10125233","10120013","10138327"]
+    },
+    {
+        name: "Pixie Dust: Fairy of Sprouts ",
+        itemData: "10166905",
+        contains: ["10166209","10118123","10134279","10136093"]
+    },
+    {
+        name: "Summer Bloom: Yellow ",
+        itemData: "10167813",
+        contains: ["10018011","10133219","10099877","10158099","10167249"]
+    },
+    {
+        name: "Team Aekea Favor ",
+        itemData: "10166915",
+        contains: ["10168897","10165863"]
+    },
+    {
+        name: "Team Barton Favor ",
+        itemData: "10166913",
+        contains: ["10165865","10169203"]
+    },
+    {
+        name: "Team Gambino Favor ",
+        itemData: "10166911",
+        contains: ["10169141","10165867"]
+    },
+    {
+        name: "Team Durem Favor ",
+        itemData: "10166909",
+        contains: ["10165861","10169051"]
+    },
     // {
     //     name: "",
     //     itemData: "",
