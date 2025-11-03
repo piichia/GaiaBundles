@@ -24633,36 +24633,36 @@ let bundleList = [
         itemData: "10219779",
         contains: ["10218241","10218251","10218261","10218271","10220299"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Well Tailored Bundle ",
+        itemData: "10215701",
+        contains: ["10139205","10394381","10395525","10431367","10421903","10335749","10399313","10417739","10431565"]
+    },
+    {
+        name: "A Dash of Poison Bundle ",
+        itemData: "10211601",
+        contains: ["10205415","10208635","10206487","10207247","10207347","10152747"]
+    },
+    {
+        name: "A Dash of Insanity Bundle ",
+        itemData: "10211599",
+        contains: ["10102789","20323","10102073","10126705","10168221"]
+    },
+    {
+        name: "A Dash of Everything Nice Bundle ",
+        itemData: "10211597",
+        contains: ["10078463","10017801","10051515","10070499","10092197","10096151","10151511","10152827"]
+    },
+    {
+        name: "A Dash of Spice Bundle ",
+        itemData: "10211595",
+        contains: ["39170","10207247","10154587","10037319","10032351","10149551"]
+    },
+    {
+        name: "A Dash of Sugar Bundle ",
+        itemData: "10211593",
+        contains: ["10208663","10048881","10130219","10208855","10121491"]
+    },
     // {
     //     name: "",
     //     itemData: "",
