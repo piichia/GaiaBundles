@@ -23698,11 +23698,11 @@ let bundleList = [
         itemData: "10250399",
         contains: ["68853","10166527","10168583","10167115","10186733","10194467","10194291"]
     },
-    {
-        name: "Pet Shop: Pump-Paw Bundle ",
-        itemData: "10249653",
-        contains: ["10146849","10142215","10130069","10136855","10142905"]
-    },
+    // {
+    //     name: "Pet Shop: Pump-Paw Bundle ",
+    //     itemData: "10249653",
+    //     contains: ["10146849","10142215","10130069","10136855","10142905"]
+    // },
     {
         name: "Pet Shop: Cereus Bundle ",
         itemData: "10249649",
