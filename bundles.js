@@ -24338,16 +24338,16 @@ let bundleList = [
         itemData: "10243957",
         contains: ["10050815","10135533","10136761","10135589","10134541"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Gem Garden: Citrine ",
+        itemData: "10243955",
+        contains: ["10083519","10232659","10230655","10225485","10184329"]
+    },
+    {
+        name: "Gem Garden: Ruby ",
+        itemData: "10243953",
+        contains: ["10135369","10232733","10133459","10133493","10134747","10187039"]
+    },
     // {
     //     name: "",
     //     itemData: "",
