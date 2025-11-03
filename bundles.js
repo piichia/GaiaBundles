@@ -19790,7 +19790,7 @@ let bundleList = [
     {
         name: "Staff's Choice 2015: excitable sloth ",
         itemData: "10225759",
-        contains: ["10189683","10205889","10199633","10184599","10211683"]
+        contains: ["10187959","10205887","10199619","10184449","10211669"]
     },
     {
         name: "Gaia-Tan Collection Bundle ",
