@@ -24813,41 +24813,41 @@ let bundleList = [
         itemData: "10202403",
         contains: ["10202023","10037649","10076473","10069821","10092051","10074391"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Elements of Lake Kindred: Water ",
+        itemData: "10191155",
+        contains: ["10148503","10025097","10065529","91523","10154573","10172737","10172701","10192713"]
+    },
+    {
+        name: "Super Crazy MC Bundle Bundle ",
+        itemData: "10190681",
+        contains: ["1939","2393","26035","10021757","10065689","3366","1941"]
+    },
+    {
+        name: "12 Days of Christmas Bundle ",
+        itemData: "10190677",
+        contains: ["10109811","10102331","10092759","10104585","10106267","10103391"]
+    },
+    {
+        name: "Stargaze Moonlight Bundle ",
+        itemData: "10190607",
+        contains: ["10096095","10095147","10096047","10082053","10079545","10095415"]
+    },
+    {
+        name: "Rise to Greatness Bundle ",
+        itemData: "10190603",
+        contains: ["10143209","10144271","10147187","10148515","10143269","10142389"]
+    },
+    {
+        name: "Precocious Party Bundle ",
+        itemData: "10190601",
+        contains: ["10142193","10140029","10139273","10137161","10137001","10138545"]
+    },
+    {
+        name: "October End of Month Bonanza Bundle ",
+        itemData: "10190599",
+        contains: ["10088997","10085615","10031019","10084073","10031151","10087671"]
+    },
     // {
     //     name: "",
     //     itemData: "",
