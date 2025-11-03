@@ -24663,91 +24663,91 @@ let bundleList = [
         itemData: "10211593",
         contains: ["10208663","10048881","10130219","10208855","10121491"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Tome of Beauty ",
+        itemData: "10217139",
+        contains: ["10213983","10052291","10208839","10202749","10138121","10147961","10155975","10151447"]
+    },
+    {
+        name: "Tome of Color ",
+        itemData: "10217137",
+        contains: ["10216379","10034573","10005589","10174513","10174387","10174203"]
+    },
+    {
+        name: "Tome of Light ",
+        itemData: "10217135",
+        contains: ["10214003","10131841","10086819","10146003","10093911","10042135","10145063","10142473"]
+    },
+    {
+        name: "Tome of Love ",
+        itemData: "10217133",
+        contains: ["10184125","10202593","10097827","10116529","10103117","10145361"]
+    },
+    {
+        name: "Tome of Bravery ",
+        itemData: "10217131",
+        contains: ["10215165","10207649","10206181","10099551","10001547","10147981","10205379"]
+    },
+    {
+        name: "Tome of Roses ",
+        itemData: "10217129",
+        contains: ["10215617","10205927","10151109","10155385","10157551","10147117"]
+    },
+    {
+        name: "Tome of Rainbows ",
+        itemData: "10217127",
+        contains: ["10216867","10139363","10154829","10152663","10164971","10156865","10184923"]
+    },
+    {
+        name: "Tome of Beastiaries ",
+        itemData: "10217125",
+        contains: ["10215573","10131399","10144963","10190527","10150323","10149363"]
+    },
+    {
+        name: "Tome of Death ",
+        itemData: "10217123",
+        contains: ["10215349","10092155","10157541","10130869","10140667","10143923","10129083","10130538","10142735","10142535"]
+    },
+    {
+        name: "Tome of Morals ",
+        itemData: "10217121",
+        contains: ["10216395","10137903","10137859","10137097","10133677","10133795","10041467","10144569","10157469","10148907"]
+    },
+    {
+        name: "Tome of Fairy Tales ",
+        itemData: "10217119",
+        contains: ["10216023","10202795","10104481","10092211","10062357","10089425"]
+    },
+    {
+        name: "Tome of Nightmares ",
+        itemData: "10217117",
+        contains: ["10211877","10171791","10205299","10205951","10146965","10205203","10151523"]
+    },
+    {
+        name: "Casual Careers: Vampire Bundle ",
+        itemData: "10216535",
+        contains: ["10204489","10152747","10204655","10122673","10125503","10155121"]
+    },
+    {
+        name: "Casual Careers: Princess Bundle ",
+        itemData: "10216533",
+        contains: ["10202795","10196413","10204533","10205141","10111267","10158613"]
+    },
+    {
+        name: "Casual Careers: Lawyer Bundle ",
+        itemData: "10216531",
+        contains: ["10006949","10204445","10202749","10212939","10212855","10156419"]
+    },
+    {
+        name: "Casual Careers: Wrestler Bundle ",
+        itemData: "10216529",
+        contains: ["10159339","10041435","10041201","10204457","10079003","10158287"]
+    },
+    {
+        name: "Casual Careers: Doctor Bundle ",
+        itemData: "10216527",
+        contains: ["10135005","10079529","10094563","10076897","10083675","10148417","10155889"]
+    },
     // {
     //     name: "",
     //     itemData: "",
