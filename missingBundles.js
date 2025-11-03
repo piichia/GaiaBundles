@@ -536,8 +536,8 @@ let missingList = [
         itemData: "10249441"
     },
     {
-        name: "",
-        itemData: ""
+        name: "The Dean's List: Do Homework!",
+        itemData: "10222639"
     },
     {
         name: "",
