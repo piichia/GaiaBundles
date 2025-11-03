@@ -23721,7 +23721,7 @@ let bundleList = [
     {
         name: "Pet Shop: Bubblegum Cria Bundle ",
         itemData: "10249643",
-        contains: ["10242415","10140809","10127189","10134041","10187883","10127805"]
+        contains: ["10242415","10140809","10127189","10134041","10187395","10127805"]
     },
     {
         name: "Pet Shop: Fafnir Bundle ",
