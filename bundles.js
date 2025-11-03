@@ -25533,51 +25533,51 @@ let bundleList = [
         itemData: "10129967",
         contains: ["10121367","10117473","92141","10122765","10094403","10109513"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Lovely Dynasty Bundle ",
+        itemData: "10124467",
+        contains: ["10117857","10118943","10118973","10118109"]
+    },
+    {
+        name: "Horns and Tails: Green ",
+        itemData: "10123233",
+        contains: ["10123287","10123357","10123341","10123355"]
+    },
+    {
+        name: "Horns and Tails: Red ",
+        itemData: "10123229",
+        contains: ["10027219","10031905","10022619","10041417"]
+    },
+    {
+        name: "Horns and Tails: Blue ",
+        itemData: "10123227",
+        contains: ["10032085","10031927","10123349","10041421"]
+    },
+    {
+        name: "Horns and Tails: Black ",
+        itemData: "10123223",
+        contains: ["10027215","10031901","2316","10123353"]
+    },
+    {
+        name: "Let's Rock: Pop ",
+        itemData: "10121465",
+        contains: ["10110533","77955","10006115","10100141","10089087","10059541"]
+    },
+    {
+        name: "Let's Rock: Techno ",
+        itemData: "10121463",
+        contains: ["10120251","72233","10095027","10019251","10060929","10072015"]
+    },
+    {
+        name: "Let's Rock: Classical ",
+        itemData: "10121459",
+        contains: ["10121229","10108759","49483","10017081","10027489","10034959"]
+    },
+    {
+        name: "Let's Rock: Hardcore ",
+        itemData: "10121457",
+        contains: ["10109319","10103231","10036917","10050083","10036145","10007415"]
+    },
     // {
     //     name: "",
     //     itemData: "",
