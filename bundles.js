@@ -4140,11 +4140,6 @@ let bundleList = [
         contains: ["10793694","10790421","10791360","10793379"]
     },
     {
-        name: "Cs Lovingly Tailored Makeover",
-        itemData: "10452385",
-        contains: ["10434995","10434015","10435011","10433999"]
-    },
-    {
         name: "Candied Crew Makeover",
         itemData: "10335327",
         contains: ["10343975","10343957","10343941","10343925"]
