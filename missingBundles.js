@@ -72,10 +72,6 @@ let missingList = [
         itemData: "11181525"
     },
     {
-        name: "Tenacious Tails ",
-        itemData: "11176317"
-    },
-    {
         name: "Mice and Easy ",
         itemData: "11176308"
     },
