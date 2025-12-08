@@ -25598,260 +25598,265 @@ let bundleList = [
         itemData: "10139527",
         contains: ["10028743","10115297","10078427","10100193","10060513"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    {
+        name: "Totes Cool!: Bewitching ",
+        itemData: "11251015",
+        contains: ["11219439","11028534","11205603","10417397","10294217","11252378"]
+    },
+    {
+        name: "Totes Cool!: Sensitive ",
+        itemData: "11251016",
+        contains: ["11076957","11028708","11183388","10418957","10293705","11247853"]
+    },
+    {
+        name: "Totes Cute!: Perilous ",
+        itemData: "11251032",
+        contains: ["11182935","11045751","11214885","10429083","10289165","11251590"]
+    },
+    {
+        name: "Totes Cute!: Vivacious ",
+        itemData: "11251033",
+        contains: ["11185950","11134545","11189172","10279265","10289905","11252622"]
+    },
+    {
+        name: "Totes Cute!: Capricious ",
+        itemData: "11251034",
+        contains: ["11151561","11143764","11189229","10441887","10509296","11251345"]
+    },
+    {
+        name: "Totes Cute!: Adventurous ",
+        itemData: "11251035",
+        contains: ["11089740","11028759","11177559","10513956","10471227","11251674"]
+    },
+    {
+        name: "Totes Cute!: Outrageous ",
+        itemData: "11251036",
+        contains: ["11066715","11045880","11178291","10482650","10313243","11252844"]
+    },
+    {
+        name: "Totes Neat!: Expeditious ",
+        itemData: "11251039",
+        contains: ["11188041","11134425","11205759","10475326","10414937","11251792"]
+    },
+    {
+        name: "Totes Neat!: Cultivated ",
+        itemData: "11251040",
+        contains: ["11186004","11135055","11213760","10489912","10292779","11252682"]
+    },
+    {
+        name: "Totes Neat!: Incandescent ",
+        itemData: "11251041",
+        contains: ["11075625","11045781","11223156","10454279","10308101","11252944"]
+    },
+    {
+        name: "Totes Neat!: Enthusiastic ",
+        itemData: "11251042",
+        contains: ["11188473","11123598","11197821","10518396","10443453","11252361"]
+    },
+    {
+        name: "Totes Neat!: Supernatural ",
+        itemData: "11251043",
+        contains: ["11182770","11126562","11222151","10394447","10430869","11251497"]
+    },
+    {
+        name: "Pixel Pop Shop: Blackout Buzz ",
+        itemData: "11252084",
+        contains: ["10018299","10329425","10420125","10431267","10110807","10112087","10020431","10108049","10635384","10470539","10632990","11251159","11251182"]
+    },
+    {
+        name: "Pixel Pop Shop: Dragon Drama ",
+        itemData: "11252085",
+        contains: ["10266405","10176137","10492044","10616538","10426535","10734129","11125482","11195967","10388359","10296305","11251804"]
+    },
+    {
+        name: "Pixel Pop Shop: Spellbound ",
+        itemData: "11252086",
+        contains: ["10127991","10496652","11011446","10037199","10112373","10680483","11117802","10967226","11108667","11251357"]
+    },
+    {
+        name: "Pixel Pop Shop: Peppy Talk ",
+        itemData: "11252087",
+        contains: ["10441377","10809744","10437285","10700235","11089701","10497454","10984803","11251212"]
+    },
+    // { UNSEARCHABLE
+    //     name: "Pixel Pop Shop: Read-a-thon",
+    //     itemData: "11252088",
+    //     contains: ["10319151","10731285","10874109","10525694","10667697","11122704","10533084","11148708","11251477"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    {
+        name: "Pixel Pop Shop: Magical, Girl! ",
+        itemData: "11252089",
+        contains: ["10677603","10830657","10255395","10682226","10692741","11176827","10624566","10619073","11190657","10932009","11251377"]
+    },
+    {
+        name: "Pixel Pop Shop: There's a Hero ",
+        itemData: "11252090",
+        contains: ["10786134","93055","10484740","10248119","51533","10668228","11110086","10255703"]
+    },
+    {
+        name: "Pixel Pop Shop: Make a Scene ",
+        itemData: "11252091",
+        contains: ["10311435","10266985","10310147","10336881","10349219","10336143","10704726","11145432","11060112","11158863","11218482","11252608"]
+    },
+    {
+        name: "Pixel Pop Shop: Leonine Life ",
+        itemData: "11252092",
+        contains: ["10591929","10868136","10608366","11196825","10489102","10529108"]
+    },
+    {
+        name: "Pixel Pop Shop: Pawsome! Wow! ",
+        itemData: "11252093",
+        contains: ["10594479","10294687","10589202","10611552","10083189","10283867","10589106","10264695","10276795","10266987","11252615"]
+    },
+    {
+        name: "Pixel Pop Shop: Sinful Symbols ",
+        itemData: "11252094",
+        contains: ["10268615","10239291","10650039","10301217","10232089","10288325","10929054","11212476","11252040"]
+    },
+    {
+        name: "Pixel Pop Shop: Toy Trends ",
+        itemData: "11252095",
+        contains: ["10684974","10373287","10646712","11003751","10370783","10456225","10821051","11252341"]
+    },
+    {
+        name: "Pixel Pop Shop: Crabby Craze ",
+        itemData: "11252097",
+        contains: ["10822503","10826277","10813074","10838523","11185896","11195292"]
+    },
+    {
+        name: "Pixel Pop Shop: Weapon of Choice ",
+        itemData: "11252098",
+        contains: ["10575048","10637460","10574520","10643550","10800510","10899879","10378161","11092434","11251815"]
+    },
+    {
+        name: "Pixel Pop Shop: Lilypad Leap ",
+        itemData: "11252099",
+        contains: ["11168238","11145813","10965483","11158701","11192940","11251452"]
+    },
+    {
+        name: "Pixel Pop Shop: Fur Friendzy ",
+        itemData: "11252100",
+        contains: ["10347497","10916697","10412195","10685001","10712709","10707387","10980897","10911483","10568016","11209389","11043669","11252478","11252496"]
+    },
+    {
+        name: "Pixel Pop Shop: Comet Core ",
+        itemData: "11252102",
+        contains: ["10259581","10269499","10237079","10267737","10792845","10856148","11151012","11251630","11251642"]
+    },
+    {
+        name: "Pixel Pop Shop: Holo Hearts ",
+        itemData: "11252103",
+        contains: ["10804122","10801758","10792347","10941405","10941351","10681809","10953519","11251527"]
+    },
+    {
+        name: "Pixel Pop Shop: Ponytail Panic ",
+        itemData: "11252104",
+        contains: ["10797771","11060871","10717995","11093454","10380137","11227215","11092233","11003352","11252509"]
+    },
+    {
+        name: "Pixel Pop Shop: Sweater Sensations ",
+        itemData: "11252105",
+        contains: ["10468315","10291085","11199339","10530140","10568466","10343843","11178651","11107941","11251832"]
+    },
+    {
+        name: "Pixel Pop Shop: Horned Heralds ",
+        itemData: "11252106",
+        contains: ["11053704","11030685","11043447","10956459","11187036","11150781","11133558","11127615","11168436","11251769"]
+    },
+    {
+        name: "Pixel Pop Shop: Grey Cat Convention ",
+        itemData: "11252107",
+        contains: ["11189268","11193591","11170047","11190921","11224482","11162976","11252396"]
+    },
+    {
+        name: "Pixel Pop Shop: Sherbert Stardom ",
+        itemData: "11252108",
+        contains: ["10597158","10403665","10678062","10431027","10920402","10453273","11224602"]
+    },
+    {
+        name: "Pixel Pop Shop: Eyes Surprise ",
+        itemData: "11252110",
+        contains: ["10198407","10876914","10873473","10300785","11227584","11064639","11177118"]
+    },
+    // { UNSEARCHABLE
+    //     name: "Pixel Pop Shop: Noh Drama Collection ",
+    //     itemData: "11252109",
+    //     contains: ["10870266","10900128","10884162","10875945","10950942","11104794","10926804","10874364","11197344","11026842","10925262","11003139","10868646","10924773","11104977","10989006","10963257","11216517","10964820","11052189","11252520"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    {
+        name: "Pixel Pop Shop: Wondrous Worldwide ",
+        itemData: "11252111",
+        contains: ["11205993","11188836","11220276","11145981","11015916","11118822"]
+    },
+    {
+        name: "Pixel Pop Shop: Iconic Ionic ",
+        itemData: "11252112",
+        contains: ["11003961","11062932","10989540","11008347","11008404","10988763"]
+    },
+    // { UNSEARCHABLE
+    //     name: "Pixel Pop Shop: Plant Parade ",
+    //     itemData: "11252101",
+    //     contains: ["11220957","10561629","10565799","10479854","10506664","10507590","10519572","11133753","11134665","11252006"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    {
+        name: "Pixel Pop Shop: Withered Windfall ",
+        itemData: "11252113",
+        contains: ["10950165","10946151","10962951","10786407","10837242","10772787","11101809","10788360","11251921"]
+    },
+    {
+        name: "Pixel Pop Shop: Bownanza! ",
+        itemData: "11252114",
+        contains: ["10950417","10335297","10817871","11045655","11194992","11090697","11120232","10821243","11198187","11190825","11251610"]
+    },
+    {
+        name: "Pixel Pop Shop: Bag Hype ",
+        itemData: "11252115",
+        contains: ["11218458","10373965","10378887","10277073","10832211","10662873","11165034","11165679","11204397","11105430","11251516"]
+    },
+    {
+        name: "Rainbow Secrets: Caring ",
+        itemData: "11252973",
+        contains: ["11253167","11252780","11253150"]
+    },
+    {
+        name: "Rainbow Secrets: Magma ",
+        itemData: "11252974",
+        contains: ["11253282","11253313","11253293"]
+    },
+    {
+        name: "Rainbow Secrets: Goblin ",
+        itemData: "11252975",
+        contains: ["11253016","11252998","11252981"]
+    },
+    {
+        name: "Rainbow Secrets: Eternity ",
+        itemData: "11252976",
+        contains: ["11253179","11253208","11253196"]
+    },
+    {
+        name: "Rainbow Secrets: Nouveau ",
+        itemData: "11252977",
+        contains: ["11252722","11252760","11252740"]
+    },
+    {
+        name: "Rainbow Secrets: Kaguya ",
+        itemData: "11252978",
+        contains: ["11253228","11253248","11253261"]
+    },
+    {
+        name: "Rainbow Secrets: Shadowlescent ",
+        itemData: "11252979",
+        contains: ["11253065","11253036","11253056"]
+    },
+    {
+        name: "Rainbow Secrets: Pure ",
+        itemData: "11252980",
+        contains: ["11253109","11253127","11253090"]
+    },
+    // { UNSEARCHABLE
+    //     name: "Pixel Pop Shop: Elf Shelf",
+    //     itemData: "11252096",
+    //     contains: ["10422723","10718763","10497800","10720317","10534038","10454511","10462153","10111557","11124633","11251262"]
     // },
     // {
     //     name: "",
