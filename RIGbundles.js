@@ -76,6 +76,7 @@ let RIGbundles = [
         tenPack: "11191095",
         single: "11191053"
     },
+    //UNSEARCHABLE
     {
         name: "Crystalline Dreams Embers Bundle ",
         bundleID: "11191107",
@@ -506,7 +507,7 @@ let RIGbundles = [
     {
         name: "Spring's Splendors II Idyllic Bundle ",
         bundleID: "11134845",
-        itemIDs: ["11134425","11135055"],
+        itemIDs: ["11135055","11134425","11134455"],
         tenPack: "11134833",
         single: "11134827"
     },
@@ -4241,13 +4242,14 @@ let RIGbundles = [
         tenPack: "10627683",
         single: "10627680"
     },
-    // {
-    //     name: "Walk The Plank Vile Bundle ",
-    //     bundleID: "10627695",
-    //     itemIDs: ["Vile Pier Pressure"],
-    //     tenPack: "10627683",
-    //     single: "10627680"
-    // },
+    //UNSEARCHABLE
+    {
+        name: "Walk The Plank Vile Bundle ",
+        bundleID: "10627695",
+        itemIDs: ["10627020"],
+        tenPack: "10627683",
+        single: "10627680"
+    },
     {
         name: "Cruel Cuts Mysterious Bundle ",
         bundleID: "10629261",
@@ -4808,13 +4810,14 @@ let RIGbundles = [
         tenPack: "10566255",
         single: "10566249"
     },
-    // {
-    //     name: "Toystore Trauma Miserable Bundle ",
-    //     bundleID: "10566264",
-    //     itemIDs: ["10565721"],
-    //     tenPack: "10566255",
-    //     single: "10566249"
-    // },
+    //UNSEARCHABLE
+    {
+        name: "Toystore Trauma Miserable Bundle ",
+        bundleID: "10566264",
+        itemIDs: ["10565721"],
+        tenPack: "10566255",
+        single: "10566249"
+    },
     {
         name: "The Snowball Painted Bundle ",
         bundleID: "10563909",
@@ -4822,13 +4825,14 @@ let RIGbundles = [
         tenPack: "10563897",
         single: "10563891"
     },
-    // {
-    //     name: "The Snowball Ethereal Bundle ",
-    //     bundleID: "10563906",
-    //     itemIDs: ["10563993"],
-    //     tenPack: "10563897",
-    //     single: "10563891"
-    // },
+    //UNSEARCHABLE
+    {
+        name: "The Snowball Ethereal Bundle ",
+        bundleID: "10563906",
+        itemIDs: ["10563993"],
+        tenPack: "10563897",
+        single: "10563891"
+    },
     {
         name: "Still HANGRY Imperial Bundle ",
         bundleID: "10558590",
@@ -4836,13 +4840,14 @@ let RIGbundles = [
         tenPack: "10558581",
         single: "10558557"
     },
-    // {
-    //     name: "Still HANGRY Sundae Bundle ",
-    //     bundleID: "10558593",
-    //     itemIDs: ["10561323"],
-    //     tenPack: "10558581",
-    //     single: "10558557"
-    // },
+    //UNSEARCHABLE
+    {
+        name: "Still HANGRY Sundae Bundle ",
+        bundleID: "10558593",
+        itemIDs: ["10561323"],
+        tenPack: "10558581",
+        single: "10558557"
+    },
     {
         name: "Deity Doll Trunk Angelic Bundle ",
         bundleID: "10551612",
@@ -4927,13 +4932,14 @@ let RIGbundles = [
         tenPack: "10600680",
         single: "10600674"
     },
-    // {
-    //     name: "Hide Nor Hare Chilly Bundle ",
-    //     bundleID: "10600692",
-    //     itemIDs: ["10603770"],
-    //     tenPack: "10600680",
-    //     single: "10600674"
-    // },
+    //UNSEARCHABLE
+    {
+        name: "Hide Nor Hare Chilly Bundle ",
+        bundleID: "10600692",
+        itemIDs: ["10603770"],
+        tenPack: "10600680",
+        single: "10600674"
+    },
     {
         name: "The Luckiest Catch II Heavenly Bundle ",
         bundleID: "10561506",
@@ -4955,13 +4961,14 @@ let RIGbundles = [
         tenPack: "10550331",
         single: "10550325"
     },
-    // {
-    //     name: "Netherhood: Reunion Vacant Bundle ",
-    //     bundleID: "10550340",
-    //     itemIDs: ["10553823"],
-    //     tenPack: "10550331",
-    //     single: "10550325"
-    // },
+    //UNSEARCHABLE
+    {
+        name: "Netherhood: Reunion Vacant Bundle ",
+        bundleID: "10550340",
+        itemIDs: ["10553823"],
+        tenPack: "10550331",
+        single: "10550325"
+    },
     {
         name: "Fallen Angels Starry Bundle ",
         bundleID: "10549596",
@@ -5032,13 +5039,14 @@ let RIGbundles = [
         tenPack: "10540498",
         single: "10540494"
     },
-    // {
-    //     name: "Haunting Hour Starry Bundle ",
-    //     bundleID: "10540506",
-    //     itemIDs: ["10540822"],
-    //     tenPack: "10540498",
-    //     single: "10540494"
-    // },
+    //UNSEARCHABLE
+    {
+        name: "Haunting Hour Starry Bundle ",
+        bundleID: "10540506",
+        itemIDs: ["10540822"],
+        tenPack: "10540498",
+        single: "10540494"
+    },
     {
         name: "Hallow's Weave II BOOtiful Bundle ",
         bundleID: "10539906",
@@ -5641,13 +5649,14 @@ let RIGbundles = [
         tenPack: "10479880",
         single: "10479876"
     },
-    // {
-    //     name: "Mismatched Socks Creamy Bundle ",
-    //     bundleID: "10479888",
-    //     itemIDs: ["10481836"],
-    //     tenPack: "10479880",
-    //     single: "10479876"
-    // },
+    //UNSEARCHABLE
+    {
+        name: "Mismatched Socks Creamy Bundle ",
+        bundleID: "10479888",
+        itemIDs: ["10481836"],
+        tenPack: "10479880",
+        single: "10479876"
+    },
     {
         name: "Fiesta Flora Jubilant Bundle ",
         bundleID: "10479550",
@@ -7335,27 +7344,29 @@ let RIGbundles = [
         tenPack: "10982421",
         single: "10982415"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Noble Intentions Wondrous Bundle",
+        bundleID: "11140536",
+        itemIDs: ["11138808"],
+        tenPack: "11140527",
+        single: "11140521"
+    },
+    //UNSEARCHABLE
+    {
+        name: "Noble Intentions Blazing Bundle",
+        bundleID: "11140539",
+        itemIDs: ["11138883"],
+        tenPack: "11140527",
+        single: "11140521"
+    },
+    //UNSEARCHABLE
+    {
+        name: "City of Sin Alexandrite Bundle",
+        bundleID: "11137377",
+        itemIDs: ["11137932"],
+        tenPack: "11137365",
+        single: "11137359"
+    },
     // {
     //     name: "",
     //     bundleID: "",
