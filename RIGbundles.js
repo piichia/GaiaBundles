@@ -7367,54 +7367,287 @@ let RIGbundles = [
         tenPack: "11137365",
         single: "11137359"
     },
+    {
+        name: "Wild Beauty Jellybean Bundle ",
+        bundleID: "11253818",
+        itemIDs: ["11253749"],
+        tenPack: "11253815",
+        single: "11253813"
+    },
     // {
-    //     name: "",
+    //     name: "Wild Beauty",
     //     bundleID: "",
     //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
+    //     tenPack: "11253815",
+    //     single: "11253813"
     // },
+    {
+        name: "Crushed Retro Bundle ",
+        bundleID: "11250019",
+        itemIDs: ["11251243"],
+        tenPack: "11250015",
+        single: "11250013"
+    },
+    {
+        name: "Crushed Soft Bundle ",
+        bundleID: "11250018",
+        itemIDs: ["11251139"],
+        tenPack: "11250015",
+        single: "11250013"
+    },
+    {
+        name: "Just Chillin' Delusions Bundle ",
+        bundleID: "11249926",
+        itemIDs: ["11250163","11250181"],
+        tenPack: "11249922",
+        single: "11249920"
+    },
+    {
+        name: "Just Chillin' Wondrous Bundle ",
+        bundleID: "11249925",
+        itemIDs: ["11250279"],
+        tenPack: "11249922",
+        single: "11249920"
+    },
+    {
+        name: "Pushing Buttons Shinigami Bundle ",
+        bundleID: "11250623",
+        itemIDs: ["11251750"],
+        tenPack: "11250619",
+        single: "11250617"
+    },
+    {
+        name: "Pushing Buttons Jellybean Bundle ",
+        bundleID: "11250622",
+        itemIDs: ["11251310"],
+        tenPack: "11250619",
+        single: "11250617"
+    },
+    {
+        name: "Dress to Possess Saucery Bundle ",
+        bundleID: "11249273",
+        itemIDs: ["11249591"],
+        tenPack: "11249269",
+        single: "11249267"
+    },
+    {
+        name: "Dress to Possess Woeful Bundle ",
+        bundleID: "11249272",
+        itemIDs: ["11249660"],
+        tenPack: "11249269",
+        single: "11249267"
+    },
+    {
+        name: "Ghost Party! Alluring Bundle ",
+        bundleID: "11248652",
+        itemIDs: ["11249247"],
+        tenPack: "11248648",
+        single: "11248646"
+    },
+    {
+        name: "Ghost Party! Beloved Bundle ",
+        bundleID: "11248651",
+        itemIDs: ["11248339"],
+        tenPack: "11248648",
+        single: "11248646"
+    },
+    {
+        name: "Creeping It Real Abyssal Bundle ",
+        bundleID: "11247506",
+        itemIDs: ["11247341"],
+        tenPack: "11247502",
+        single: "11247500"
+    },
+    {
+        name: "Creeping It Real Classic Bundle ",
+        bundleID: "11247505",
+        itemIDs: ["11247361"],
+        tenPack: "11247502",
+        single: "11247500"
+    },
+    {
+        name: "Wishful Thinking Eternal Bundle ",
+        bundleID: "11250931",
+        itemIDs: ["11252567"],
+        tenPack: "11250927",
+        single: "11250925"
+    },
+    {
+        name: "Wishful Thinking Interstellar Bundle ",
+        bundleID: "11250930",
+        itemIDs: ["11251988"],
+        tenPack: "11250927",
+        single: "11250925"
+    },
+    {
+        name: "Moon Dream Laohu Bundle ",
+        bundleID: "11246894",
+        itemIDs: ["11246771","11246752"],
+        tenPack: "11246890",
+        single: "11246888"
+    },
+    {
+        name: "Moon Dream Jellybean Bundle ",
+        bundleID: "11246893",
+        itemIDs: ["11243319"],
+        tenPack: "11246890",
+        single: "11246888"
+    },
+    {
+        name: "CelebrATE Konpeito Bundle ",
+        bundleID: "11245314",
+        itemIDs: ["11245748"],
+        tenPack: "11245311",
+        single: "11245309"
+    },
+    //UNSEARCHABLE
+    {
+        name: "CelebrATE Shinigami Bundle ",
+        bundleID: "11245315",
+        itemIDs: ["11245887"],
+        tenPack: "11245311",
+        single: "11245309"
+    },
+    {
+        name: "Wildest Dreams Beloved Bundle ",
+        bundleID: "11244862",
+        itemIDs: ["11245336"],
+        tenPack: "11244858",
+        single: "11244856"
+    },
+    {
+        name: "Wildest Dreams Delusions Bundle ",
+        bundleID: "11244861",
+        itemIDs: ["11245154"],
+        tenPack: "11244858",
+        single: "11244856"
+    },
+    {
+        name: "Bright Side Gateau Bundle ",
+        bundleID: "11244408",
+        itemIDs: ["11244511","11244531"],
+        tenPack: "11244404",
+        single: "11244402"
+    },
+    {
+        name: "Bright Side Wondrous Bundle ",
+        bundleID: "11244407",
+        itemIDs: ["11244734"],
+        tenPack: "11244404",
+        single: "11244402"
+    },
+    {
+        name: "Mystic Spiral Idol Bundle ",
+        bundleID: "11243034",
+        itemIDs: ["11242634"],
+        tenPack: "11243030",
+        single: "11243028"
+    },
+    {
+        name: "Mystic Spiral Elf Bundle ",
+        bundleID: "11243033",
+        itemIDs: ["11242496"],
+        tenPack: "11243030",
+        single: "11243028"
+    },
+    {
+        name: "Bone-jour! Iridescent Bundle ",
+        bundleID: "11242460",
+        itemIDs: ["11243161"],
+        tenPack: "11242456",
+        single: "11242454"
+    },
+    {
+        name: "Bone-jour! Kurudo Bundle ",
+        bundleID: "11242459",
+        itemIDs: ["11242692"],
+        tenPack: "11242456",
+        single: "11242454"
+    },
+    {
+        name: "Chillax! Zen Bundle ",
+        bundleID: "11242317",
+        itemIDs: ["11242396"],
+        tenPack: "11242313",
+        single: "11242311"
+    },
+    {
+        name: "Chillax! Pure Bundle ",
+        bundleID: "11242316",
+        itemIDs: ["11242165", "11242177"],
+        tenPack: "11242313",
+        single: "11242311"
+    },
+    {
+        name: "Summoned Delusions Bundle ",
+        bundleID: "11241311",
+        itemIDs: ["11240332"],
+        tenPack: "11241307",
+        single: "11241305"
+    },
+    {
+        name: "Summoned Jellybean Bundle ",
+        bundleID: "11241310",
+        itemIDs: ["11240315"],
+        tenPack: "11241307",
+        single: "11241305"
+    },
+    {
+        name: "On A Whim Jellybean Bundle ",
+        bundleID: "11240529",
+        itemIDs: ["11240550"],
+        tenPack: "11240525",
+        single: "11240523"
+    },
+    {
+        name: "On A Whim Pure Bundle ",
+        bundleID: "11240528",
+        itemIDs: ["11240388"],
+        tenPack: "11240525",
+        single: "11240523"
+    },
+    {
+        name: "Fit Check Aocha Bundle ",
+        bundleID: "11239300",
+        itemIDs: ["11239717","11239729"],
+        tenPack: "11239296",
+        single: "11239294"
+    },
+    {
+        name: "Fit Check Kurudo Bundle ",
+        bundleID: "11239299",
+        itemIDs: ["11239741"],
+        tenPack: "11239296",
+        single: "11239294"
+    },
+    {
+        name: "Mix It Up Classic Bundle ",
+        bundleID: "11238529",
+        itemIDs: ["11239431"],
+        tenPack: "11238525",
+        single: "11238523"
+    },
+    {
+        name: "Mix It Up Jellybean Bundle ",
+        bundleID: "11238528",
+        itemIDs: ["11239146"],
+        tenPack: "11238525",
+        single: "11238523"
+    },
+    {
+        name: "Spell It Out Enchanted Bundle ",
+        bundleID: "11238462",
+        itemIDs: ["11237426"],
+        tenPack: "11238458",
+        single: "11238456"
+    },
+    //UNSEARCHABLE
     // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
+    //     name: "Spell It Out Sadistic Bundle ",
+    //     bundleID: "11238461",
+    //     itemIDs: ["11238325"],
+    //     tenPack: "11238458",
+    //     single: "11238456"
     // },
     // {
     //     name: "",
