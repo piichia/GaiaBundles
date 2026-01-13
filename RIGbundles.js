@@ -7374,13 +7374,13 @@ let RIGbundles = [
         tenPack: "11253815",
         single: "11253813"
     },
-    // {
-    //     name: "Wild Beauty",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "11253815",
-    //     single: "11253813"
-    // },
+    {
+        name: "Wild Beauty Coarse Bundle ",
+        bundleID: "11253819",
+        itemIDs: ["11254059"],
+        tenPack: "11253815",
+        single: "11253813"
+    },
     {
         name: "Crushed Retro Bundle ",
         bundleID: "11250019",
@@ -7663,34 +7663,34 @@ let RIGbundles = [
         tenPack: "11257233",
         single: "11257231"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Untold Vintage Bundle ",
+        bundleID: "11255642",
+        itemIDs: ["11256563"],
+        tenPack: "11255638",
+        single: "11255636"
+    },
+    {
+        name: "Untold Delusions Bundle ",
+        bundleID: "11255641",
+        itemIDs: ["11256175"],
+        tenPack: "11255638",
+        single: "11255636"
+    },
+    {
+        name: "Happy Hours Caring Bundle ",
+        bundleID: "11255222",
+        itemIDs: ["11255932"],
+        tenPack: "11255218",
+        single: "11255216"
+    },
+    {
+        name: "Happy Hours Pure Bundle ",
+        bundleID: "11255221",
+        itemIDs: ["11255857"],
+        tenPack: "11255218",
+        single: "11255216"
+    },
     // {
     //     name: "",
     //     bundleID: "",
