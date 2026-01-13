@@ -7649,20 +7649,20 @@ let RIGbundles = [
     //     tenPack: "11238458",
     //     single: "11238456"
     // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "CosYAY! Popular Bundle ",
+        bundleID: "11257236",
+        itemIDs: ["11256966"],
+        tenPack: "11257233",
+        single: "11257231"
+    },
+    {
+        name: "CosYAY! Wicked Bundle ",
+        bundleID: "11257237",
+        itemIDs: ["11256986"],
+        tenPack: "11257233",
+        single: "11257231"
+    },
     // {
     //     name: "",
     //     bundleID: "",
