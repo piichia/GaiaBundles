@@ -7691,34 +7691,34 @@ let RIGbundles = [
         tenPack: "11255218",
         single: "11255216"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "All Mine! Beloved Bundle ",
+        bundleID: "11258100",
+        itemIDs: ["11258978","11258995"],
+        tenPack: "11258096",
+        single: "11258094"
+    },
+    {
+        name: "All Mine! Coarse Bundle ",
+        bundleID: "11258099",
+        itemIDs: ["11258657"],
+        tenPack: "11258096",
+        single: "11258094"
+    },
+    {
+        name: "Switch It Up! Iridescent Bundle ",
+        bundleID: "11257479",
+        itemIDs: ["11258018"],
+        tenPack: "11257475",
+        single: "11257473"
+    },
+    {
+        name: "Switch It Up! Caring Bundle ",
+        bundleID: "11257478",
+        itemIDs: ["11257830"],
+        tenPack: "11257475",
+        single: "11257473"
+    },
     // {
     //     name: "",
     //     bundleID: "",
