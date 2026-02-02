@@ -7719,20 +7719,20 @@ let RIGbundles = [
         tenPack: "11257475",
         single: "11257473"
     },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
+    {
+        name: "Merrymade Iridescent Bundle ",
+        bundleID: "11254465",
+        itemIDs: ["11254344"],
+        tenPack: "11254461",
+        single: "11254459"
+    },
+    {
+        name: "Merrymade Beloved Bundle ",
+        bundleID: "11254464",
+        itemIDs: ["11254495"],
+        tenPack: "11254461",
+        single: "11254459"
+    },
     // {
     //     name: "",
     //     bundleID: "",
