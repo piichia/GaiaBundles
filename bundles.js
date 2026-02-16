@@ -26128,11 +26128,11 @@ let bundleList = [
         itemData: "10017183",
         contains: ["70463","10000809","10003291","10017259"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Creepy Companion Bundle ",
+        itemData: "10023131",
+        contains: ["92511","74377","66039","65911","39522","30877"]
+    },
     // {
     //     name: "",
     //     itemData: "",
