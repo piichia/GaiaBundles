@@ -7733,6 +7733,90 @@ let RIGbundles = [
         tenPack: "11254461",
         single: "11254459"
     },
+    {
+        name: "Moonborn Rosalind Bundle ",
+        bundleID: "11261535",
+        itemIDs: ["11261560"],
+        tenPack: "11261532",
+        single: "11261530"
+    },
+    // { UNSEARCHABLE
+    //     name: "Moonborn Abyssal Bundle ",
+    //     bundleID: "11261536",
+    //     itemIDs: ["11261577","11261597"],
+    //     tenPack: "11261532",
+    //     single: "11261530"
+    // },
+    {
+        name: "Lovefools Shinigami Bundle ",
+        bundleID: "11259859",
+        itemIDs: ["11261360","11261372"],
+        tenPack: "11259855",
+        single: "11259853"
+    },
+    // { UNSEARCHABLE
+    //     name: "Lovefools Delusions Bundle ",
+    //     bundleID: "11259858",
+    //     itemIDs: ["11261233"],
+    //     tenPack: "11259855",
+    //     single: "11259853"
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
+    // {
+    //     name: "",
+    //     bundleID: "",
+    //     itemIDs: [""],
+    //     tenPack: "",
+    //     single: ""
+    // },
     // {
     //     name: "",
     //     bundleID: "",
