@@ -7352,21 +7352,21 @@ let RIGbundles = [
         single: "11140521"
     },
     //UNSEARCHABLE
-    {
-        name: "Noble Intentions Blazing Bundle",
-        bundleID: "11140539",
-        itemIDs: ["11138883"],
-        tenPack: "11140527",
-        single: "11140521"
-    },
+    // {
+    //     name: "Noble Intentions Blazing Bundle",
+    //     bundleID: "11140539",
+    //     itemIDs: ["11138883"],
+    //     tenPack: "11140527",
+    //     single: "11140521"
+    // },
     //UNSEARCHABLE
-    {
-        name: "City of Sin Alexandrite Bundle",
-        bundleID: "11137377",
-        itemIDs: ["11137932"],
-        tenPack: "11137365",
-        single: "11137359"
-    },
+    // {
+    //     name: "City of Sin Alexandrite Bundle",
+    //     bundleID: "11137377",
+    //     itemIDs: ["11137932"],
+    //     tenPack: "11137365",
+    //     single: "11137359"
+    // },
     {
         name: "Wild Beauty Jellybean Bundle ",
         bundleID: "11253818",
@@ -7501,13 +7501,13 @@ let RIGbundles = [
         single: "11245309"
     },
     //UNSEARCHABLE
-    {
-        name: "CelebrATE Shinigami Bundle ",
-        bundleID: "11245315",
-        itemIDs: ["11245887"],
-        tenPack: "11245311",
-        single: "11245309"
-    },
+    // {
+    //     name: "CelebrATE Shinigami Bundle ",
+    //     bundleID: "11245315",
+    //     itemIDs: ["11245887"],
+    //     tenPack: "11245311",
+    //     single: "11245309"
+    // },
     {
         name: "Wildest Dreams Beloved Bundle ",
         bundleID: "11244862",
@@ -7740,13 +7740,13 @@ let RIGbundles = [
         tenPack: "11261532",
         single: "11261530"
     },
-    // { UNSEARCHABLE
-    //     name: "Moonborn Abyssal Bundle ",
-    //     bundleID: "11261536",
-    //     itemIDs: ["11261577","11261597"],
-    //     tenPack: "11261532",
-    //     single: "11261530"
-    // },
+    {
+        name: "Moonborn Abyssal Bundle ",
+        bundleID: "11261536",
+        itemIDs: ["11261577","11261597"],
+        tenPack: "11261532",
+        single: "11261530"
+    },
     {
         name: "Lovefools Shinigami Bundle ",
         bundleID: "11259859",
@@ -7761,19 +7761,19 @@ let RIGbundles = [
     //     tenPack: "11259855",
     //     single: "11259853"
     // },
+    {
+        name: "Fantastic Voyage Sandman Bundle ",
+        bundleID: "11262537",
+        itemIDs: ["11261315"],
+        tenPack: "11262534",
+        single: "11262532"
+    },
     // {
     //     name: "",
     //     bundleID: "",
     //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
-    // },
-    // {
-    //     name: "",
-    //     bundleID: "",
-    //     itemIDs: [""],
-    //     tenPack: "",
-    //     single: ""
+    //     tenPack: "11262534",
+    //     single: "11262532"
     // },
     // {
     //     name: "",
