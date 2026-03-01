@@ -26268,11 +26268,11 @@ let bundleList = [
         itemData: "11259943",
         contains: ["10476066","10358523","10348101","10476084","10918518","10402333","10383911","10379683","11261136"]
     },
-    // { UNSEARCHABLE
-    //     name: "Totally 23rd: Rufus Revel ",
-    //     itemData: "11259944",
-    //     contains: ["43698","10293183","10239103","42968","10235257","54041","10156673","11207811","11107662","11261616"]
-    // },
+    {
+        name: "Totally 23rd: Rufus Revel ",
+        itemData: "11259944",
+        contains: ["43698","10293183","10239103","42968","10235257","54041","10156673","11207811","11107662","11261616"]
+    },
     {
         name: "Totally 23rd: Club Coarse ",
         itemData: "11259945",
@@ -26283,11 +26283,11 @@ let bundleList = [
         itemData: "11259946",
         contains: ["10370975","10628256","10529138","10374251","10785381","10357971","10165683","11155425","11260892"]
     },
-    // { UNSEARCHABLE
-    //     name: "Totally 23rd: Mood Madness ",
-    //     itemData: "11259947",
-    //     contains: ["10395363","10519322","10305449","10604697","10735800","10428155","10472395","11107494","11157414","11260267"]
-    // },
+    {
+        name: "Totally 23rd: Mood Madness ",
+        itemData: "11259947",
+        contains: ["10395363","10519322","10305449","10604697","10735800","10428155","10472395","11107494","11157414","11260267"]
+    },
     // { UNSEARCHABLE
     //     name: "Totally 23rd: Wing Fling ",
     //     itemData: "11259949",
@@ -26353,115 +26353,116 @@ let bundleList = [
         itemData: "10886418",
         contains: ["10382515","10023917","10169455","10156951","10045349","10023937","10219153","10563195","10462923","10300711","10097731","10188995","10045931","10124069","10136325","10023973","10046331","10154283","10886133"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    //includes ALL later pass items
+    {
+        name: "February 2016 Limited Edition Collector's Pass ",
+        itemData: "10237677",
+        contains: ["10237801","10238639","10238665","10237229","10241025","10241443","10242777","10244181","10244709","10244751","10245425","10246579","10244955"]
+    },
+    {
+        name: "Equine Extravaganza: Katana Kick-off ",
+        itemData: "11261253",
+        contains: ["10726986","10776576","10851513","10225669","11033520","10648797","10848243","10850100","10964175","11224293","11260656","11260669"]
+    },
+    {
+        name: "Equine Extravaganza: Sandman Celebration ",
+        itemData: "11261254",
+        contains: ["10769352","10879884","10898769","11020266","11096433","11089281","11188344","11261997","11262011"]
+    },
+    {
+        name: "Equine Extravaganza: Imbibitor Invitation ",
+        itemData: "11261255",
+        contains: ["11195967","11229603","11158722","11152293","11151648","11194104","11261409","11261422"]
+    },
+    // { UNSEARCHABLE
+    //     name: "Equine Extravaganza: Horned Hurrah ",
+    //     itemData: "11261256",
+    //     contains: ["10672665","10633500","10850397","10811424","11131155","10880817","11218974","11148144","10203081","11260769"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    {
+        name: "Equine Extravaganza: Boned-nanza ",
+        itemData: "11261257",
+        contains: ["11234952","11173107","11238260","11193315","11170242","11239521","11151372","11262131"]
+    },
+    // { UNSEARCHABLE
+    //     name: "Equine Extravaganza: Brilliant Banquet ",
+    //     itemData: "11261258",
+    //     contains: ["10846032","10238389","50631","10672632","11197653","10392339","10316703","10994517","11116107"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    // { UNSEARCHABLE
+    //     name: "Equine Extravaganza: Coiffure Commotion ",
+    //     itemData: "11261259",
+    //     contains: ["10877496","10894008","10877667","10545028","10876512","11146242","11210811","11137824"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    // { UNSEARCHABLE
+    //     name: "Equine Extravaganza: Creature Convention ",
+    //     itemData: "11261260",
+    //     contains: ["10233787","10875594","10795398","11144526","10500030","11097447","11156697","11073717","11262187"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    // { UNSEARCHABLE
+    //     name: "Equine Extravaganza: Demonic Dance ",
+    //     itemData: "11261261",
+    //     contains: ["10793718","10538160","10190029","10726986","10734234","10731366","10467579","11238062","11237046","11057172","11260749"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    // { UNSEARCHABLE
+    //     name: "Equine Extravaganza: Hydrogenic Homecoming ",
+    //     itemData: "11261262",
+    //     contains: ["11150400","11141319","11157540","11143101","11198043","11143155","11260639"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    {
+        name: "Equine Extravaganza: Fire Frenzy ",
+        itemData: "11261263",
+        contains: ["10099257","10571847","10679571","10982658","10809693","10822119","10719981","10888590","11260832"]
+    },
+    // { UNSEARCHABLE
+    //     name: "Equine Extravaganza: Ectoplasm Excitement ",
+    //     itemData: "11261264",
+    //     contains: ["10737570","10620549","10743129","10742142","10758354","11180313"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    // { UNSEARCHABLE
+    //     name: "Equine Extravaganza: Fancy Festivities ",
+    //     itemData: "11261265",
+    //     contains: ["10879503","10832679","11196009","10941510","11049885","11034996","10931283","11230902"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    // { UNSEARCHABLE
+    //     name: "Equine Extravaganza: Moon Merriment ",
+    //     itemData: "11261266",
+    //     contains: ["10723713","10107953","10047981","11149470","10428911","10970505","10841484","11184264","11106594","11262108"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    // { UNSEARCHABLE
+    //     name: "Equine Extravaganza: Horse Hoopla ",
+    //     itemData: "11261267",
+    //     contains: ["10607211","10411589","10530506","10477902","10377535","10753854","10591857","11149320","10377455","11261677"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    // {UNSEARCHABLE
+    //     name: "Equine Extravaganza: Freshly Risen Collection ",
+    //     itemData: "11261268",
+    //     contains: ["10501008","10581909","10511372","10516364","10505098","10584378","10508340","10503974","10688490","10626303","10527844","10574013","10608780","10635192","10819914","10630968","10542590","10838904","10537502","10716552","10511342","10652127","10516136","10504576","10590549","10558215","11261815"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    {
+        name: "Equine Extravaganza: Filigree Fanfare ",
+        itemData: "11261270",
+        contains: ["10648857","10766235","11229879","10670319","10884597","10696485","10979718","11260850"]
+    },
+    {
+        name: "Equine Extravaganza: Ornament Occasion ",
+        itemData: "11261278",
+        contains: ["10646163","10736991","10791384","11143731","10738464","11036724","11195142","11262539"]
+    },
+    // {UNSEARCHABLE
+    //     name: "Equine Extravaganza: Petal Party ",
+    //     itemData: "11261290",
+    //     contains: ["10392375","10669542","10925409","10899750","10784892","11240180","11058030","10445763","11262084","11262096"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    {
+        name: "Equine Extravaganza: Fishy Fortune ",
+        itemData: "11261291",
+        contains: ["10558902","10518936","10169073","11099508","11205939","10398101","11024628","11151678","11261929"]
+    },
+    // {UNSEARCHABLE
+    //     name: "Equine Extravaganza: Grey Cat Gala ",
+    //     itemData: "11261294",
+    //     contains: ["11240771","11157108","11214957","11236742","11212836","11241042"]
     // },
     // {
     //     name: "",
