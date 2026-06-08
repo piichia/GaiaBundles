@@ -26594,80 +26594,80 @@ let bundleList = [
         itemData: "11266840",
         contains: ["11259990","11263911","11263604","11266012"]
     },
-    // {
-    //     name: "Hype Pathetically ",
-    //     itemData: "11266839",
-    //     contains: 
-    // },
-    // {
-    //     name: "Laissez Les Bons Temps Rouler! ",
-    //     itemData: "11266535",
-    //     contains: 
-    // },
-    // {
-    //     name: "Sparkling Spring: Hat Harvest ",
-    //     itemData: "11265783",
-    //     contains: 
-    // },
+    {
+        name: "Hype Pathetically ",
+        itemData: "11266839",
+        contains: ["11265679","11265737","11265749","11266204"]
+    },
+    {
+        name: "Laissez Les Bons Temps Rouler! ",
+        itemData: "11266535",
+        contains: ["11258400","11258463","11258425","11258451"]
+    },
+    {
+        name: "Sparkling Spring: Hat Harvest ",
+        itemData: "11265783",
+        contains: ["11220384","11236922","10717335","11215086","11243732","11205813","11221662","11266748"]
+    },
     // { UNSEARCHABLE
     //     name: "Sparkling Spring: Crystallized Creations ",
     //     itemData: "11265782",
     //     contains: 
     // },
-    // {
-    //     name: "Sparkling Spring: Botanical Bunches ",
-    //     itemData: "11265781",
-    //     contains: 
-    // },
-    // {
-    //     name: "Sparkling Spring: Hairticulture ",
-    //     itemData: "11265780",
-    //     contains: 
-    // },
+    {
+        name: "Sparkling Spring: Botanical Bunches ",
+        itemData: "11265781",
+        contains: ["10215633","11145375","10731714","10763325","10626783","10843638","11164122","11231724","11266787"]
+    },
+    {
+        name: "Sparkling Spring: Hairticulture ",
+        itemData: "11265780",
+        contains: ["10766874","10593171","11236359","10757313","11235675","10543494","10631079","11223519"]
+    },
     // { UNSEARCHABLE
     //     name: "Sparkling Spring: Feline Flowery ",
     //     itemData: "11265779",
     //     contains: 
     // },
-    // {
-    //     name: "Sparkling Spring: Over-the-Top Herbs ",
-    //     itemData: "11265778",
-    //     contains: 
-    // },
-    // {
-    //     name: "Sparkling Spring: Scenery Season ",
-    //     itemData: "11265777",
-    //     contains: 
-    // },
-    // {
-    //     name: "Sparkling Spring: Bag Bouquet ",
-    //     itemData: "11265776",
-    //     contains: 
-    // },
-    // {
-    //     name: "Sparkling Spring: Petal Picnic ",
-    //     itemData: "11265775",
-    //     contains: 
-    // },
-    // {
-    //     name: "Sparkling Spring: Fairy Garden ",
-    //     itemData: "11265774",
-    //     contains: 
-    // },
-    // {
-    //     name: "Sparkling Spring: Fresh Fits ",
-    //     itemData: "11265773",
-    //     contains: 
-    // },
+    {
+        name: "Sparkling Spring: Over-the-Top Herbs ",
+        itemData: "11265778",
+        contains: ["10644726","10721049","10459859","11126304","10864224","11135085","11245009","11266568"]
+    },
+    {
+        name: "Sparkling Spring: Scenery Season ",
+        itemData: "11265777",
+        contains: ["10453781","10245151","10818171","11237898","11019081","11209230","11172825","11266867"]
+    },
+    {
+        name: "Sparkling Spring: Bag Bouquet ",
+        itemData: "11265776",
+        contains: ["10625088","10838274","10520654","10244535","11208300","11241943","11138091","11230041","11266569","11266556"]
+    },
+    {
+        name: "Sparkling Spring: Petal Picnic ",
+        itemData: "11265775",
+        contains: ["85145","10821123","10541700","10323535","11010558","11177652","11000391"]
+    },
+    {
+        name: "Sparkling Spring: Fairy Garden ",
+        itemData: "11265774",
+        contains: ["10172675","11000748","10475746","10140107","11092119","10480976","10931010","11064918","11227266","11266326"]
+    },
+    {
+        name: "Sparkling Spring: Fresh Fits ",
+        itemData: "11265773",
+        contains: ["10859961","10864305","10831164","10950765","11109411","11175825","11266841"]
+    },
     // { UNSEARCHABLE
     //     name: "Sparkling Spring: Sow What ",
     //     itemData: "11265772",
-    //     contains: 
+    //     contains: ["10431801","10505906","10464053","10808571","11110239","10497748","10193167","11110326","11266536"]
     // },
     // { UNSEARCHABLE
     //     name: "Finer Things: Glamorous Gowns ",
     //     itemData: "11265243",
-    //     contains: 
+    //     contains: ["11193492","11032728","11221326","11223564","11239461","11169726","11237756"]
     // },
     // {UNSEARCHABLE
     //     name: "",
@@ -26684,61 +26684,61 @@ let bundleList = [
     //     itemData: "11265240",
     //     contains: 
     // },
-    // {
-    //     name: "Finer Things: Belt of the Ball ",
-    //     itemData: "11265239",
-    //     contains: 
-    // },
-    // {
-    //     name: "Finer Things: Courtly Crowns ",
-    //     itemData: "11265238",
-    //     contains: 
-    // },
+    {
+        name: "Finer Things: Belt of the Ball ",
+        itemData: "11265239",
+        contains: ["10660662","10843344","10554633","10658979","10690437","11238898","11219931","10980723","11263900"]
+    },
+    {
+        name: "Finer Things: Courtly Crowns ",
+        itemData: "11265238",
+        contains: ["10957029","10239775","11222856","11243063","10851570","10734672","11085441","11218590","11263721"]
+    },
     // {UNSEARCHABLE
     //     name: "",
     //     itemData: "11265237",
     //     contains: 
     // },
-    // {
-    //     name: "Finer Things: Refined Ribbons ",
-    //     itemData: "11265236",
-    //     contains: 
-    // },
-    // {
-    //     name: "Finer Things: Cultured Kokeshi ",
-    //     itemData: "11265235",
-    //     contains: 
-    // },
-    // {
-    //     name: "Finer Things: Gentlemen Callers ",
-    //     itemData: "11265234",
-    //     contains: 
-    // },
-    // {
-    //     name: "Finer Things: Sophisticated Settings ",
-    //     itemData: "11265233",
-    //     contains: 
-    // },
+    {
+        name: "Finer Things: Refined Ribbons ",
+        itemData: "11265236",
+        contains: ["10766154","10542772","10515064","10715553","11113029","10805379","11136297","11236696","11263930"]
+    },
+    {
+        name: "Finer Things: Cultured Kokeshi ",
+        itemData: "11265235",
+        contains: ["11149134","11240151","11053647","11187234","11043144","11239127","11216370","11263779"]
+    },
+    {
+        name: "Finer Things: Gentlemen Callers ",
+        itemData: "11265234",
+        contains: ["10621743","10444801","10692906","11136846","11238280","10677072","10307175","10856268","10840230"]
+    },
+    {
+        name: "Finer Things: Sophisticated Settings ",
+        itemData: "11265233",
+        contains: ["10327003","10454199","11023173","86745","10428809","10576215","10407535","10784361","11127042","11263943"]
+    },
     // {UNSEARCHABLE
     //     name: "Finer Things: Floral Fancy ",
     //     itemData: "11265232",
     //     contains: 
     // },
-    // {
-    //     name: "Queens of the Vineyard ",
-    //     itemData: "11265161",
-    //     contains: 
-    // },
-    // {
-    //     name: "【ｙｏｕ　ａｒｅ　ｄｒｅａｍｉｎｇ】 ",
-    //     itemData: "11265149",
-    //     contains: 
-    // },
-    // {
-    //     name: "✧ ₍ᐢᐢ₎ bewitched bunny ໒꒱ ‧₊˚ ",
-    //     itemData: "11265148",
-    //     contains: 
-    // },
+    {
+        name: "Queens of the Vineyard ",
+        itemData: "11265161",
+        contains: ["11259658","11259675","11260425","11260451"]
+    },
+    {
+        name: "【ｙｏｕ　ａｒｅ　ｄｒｅａｍｉｎｇ】 ",
+        itemData: "11265149",
+        contains: ["11264206","11262025","11264069","11264081"]
+    },
+    {
+        name: "✧ ₍ᐢᐢ₎ bewitched bunny ໒꒱ ‧₊˚ ",
+        itemData: "11265148",
+        contains: ["11257656","11263000","11262981","11262963"]
+    },
     // {
     //     name: "",
     //     itemData: "",
