@@ -26824,11 +26824,11 @@ let bundleList = [
         itemData: "10139535",
         contains: ["10089195","10075815","10037227","10037139","10037121"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Demonic Horns Bundle (Common) ",
+        itemData: "10043103",
+        contains: ["10043017","10043019","10043021","10043023","10043025","10043035"]
+    },
     // {
     //     name: "",
     //     itemData: "",
