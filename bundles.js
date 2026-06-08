@@ -26469,11 +26469,11 @@ let bundleList = [
         itemData: "10358463",
         contains: ["10351697","10353565","10353497","10353131"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Beauty and the Wild Bundle: Beast ",
+        itemData: "10358109",
+        contains: ["10211751","10164907","10297383","10329989","10355687"]
+    },
     // {
     //     name: "",
     //     itemData: "",
