@@ -26559,41 +26559,41 @@ let bundleList = [
         itemData: "11267115",
         contains: ["10293657","10283301","10703727","11225526","11041896","11232681","11266927"]
     },
-    // {
-    //     name: "Sparkling Spring: Twintail Terrain ",
-    //     itemData: "11266964",
-    //     contains: 
-    // },
-    // {
-    //     name: "Sparkling Spring: Make-up Rooted ",
-    //     itemData: "11266963",
-    //     contains: 
-    // },
-    // {
-    //     name: "Sparkling Spring: Crown Cultivation ",
-    //     itemData: "11266962",
-    //     contains: 
-    // },
+    {
+        name: "Sparkling Spring: Twintail Terrain ",
+        itemData: "11266964",
+        contains: ["10651311","10795554","10728309","10617225","10598622","11154288","10843881","11244957","11266767"]
+    },
+    {
+        name: "Sparkling Spring: Make-up Rooted ",
+        itemData: "11266963",
+        contains: ["11236350","10831230","11138982","11086800","11124039","11077371"]
+    },
+    {
+        name: "Sparkling Spring: Crown Cultivation ",
+        itemData: "11266962",
+        contains: ["11168496","10793466","10805181","10618191","11125977","11226216","10951098","11155164","11266278"]
+    },
     // { UNSEARCHABLE
     //     name: "Sparkling Spring: Molu Meadow ",
     //     itemData: "11266961",
     //     contains: 
     // },
-    // {
-    //     name: "Sparkling Spring: Grotto Growth ",
-    //     itemData: "11266960",
-    //     contains: 
-    // },
-    // {
-    //     name: "Sparkling Spring: Blooming Beauty ",
-    //     itemData: "11266959",
-    //     contains: 
-    // },
-    // {
-    //     name: "Alt Gurlz r Ruining My Wallet OTL ",
-    //     itemData: "11266840",
-    //     contains: 
-    // },
+    {
+        name: "Sparkling Spring: Grotto Growth ",
+        itemData: "11266960",
+        contains: ["11240492","11240105","11225472","11230125","11246913","11241471","11264828"]
+    },
+    {
+        name: "Sparkling Spring: Blooming Beauty ",
+        itemData: "11266959",
+        contains: ["11230233","10898046","10710162","11187972","11037927","11198610","11266309"]
+    },
+    {
+        name: "Alt Gurlz r Ruining My Wallet OTL ",
+        itemData: "11266840",
+        contains: ["11259990","11263911","11263604","11266012"]
+    },
     // {
     //     name: "Hype Pathetically ",
     //     itemData: "11266839",
