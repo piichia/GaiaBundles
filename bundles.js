@@ -20281,7 +20281,7 @@ let bundleList = [
     {
         name: "Gaiaversary 2k18 Angelic Bundle ",
         itemData: "10454527",
-        contains: ["1708","2444","6832","1538","3366","1835","1836","1837","1587","10203"]
+        contains: ["1708","2444","1538","3366","1835","1836","1837","1587","10203"]
     },
     {
         name: "Gaiaversary 2k18 Nitemare Bundle ",
