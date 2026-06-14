@@ -26839,11 +26839,11 @@ let bundleList = [
         itemData: "10689123",
         contains: ["10607427","10592136","10592571","10609473","10594686","10580703"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Rainbow Surprise: Devilish Licorice Bundle ",
+        itemData: "10330713",
+        contains: ["10132847","10037937","10202227","10201697","10177411","10015667","10162409"]
+    },
     // {
     //     name: "",
     //     itemData: "",
