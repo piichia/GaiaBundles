@@ -26844,21 +26844,21 @@ let bundleList = [
         itemData: "10330713",
         contains: ["10132847","10037937","10202227","10201697","10177411","10015667","10162409"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Community Picks: New Year, New Me (Kerryee) ",
+        itemData: "10573734",
+        contains: ["10214955","84205","10244827","10102531","10372985","10245151"]
+    },
+    {
+        name: "Fall'N'Rouge ",
+        itemData: "10452897",
+        contains: ["10454423","10455647","10455667","10454497"]
+    },
+    {
+        name: "Eternal Entity Bundle: Set B ",
+        itemData: "10063269",
+        contains: ["10018509","10027883","10031919","10027225","10044213","10015681"]
+    },
     // {
     //     name: "",
     //     itemData: "",
