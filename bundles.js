@@ -26859,131 +26859,131 @@ let bundleList = [
         itemData: "10063269",
         contains: ["10018509","10027883","10031919","10027225","10044213","10015681"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
+    // {UNSEARCHABLE
+    //     name: "Carefree Kokeshi ",
+    //     itemData: "11271645",
     //     contains: 
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
+    {
+        name: "Sunny Side: Phone Festival ",
+        itemData: "11271644",
+        contains: ["10522208","10460355","10595418","10570827","10622070","10523992","11252023","11215032","11271165"]
+    },
+    // { UNSEARCHABLE
+    //     name: "Heart Holiday ",
+    //     itemData: "11271643",
     //     contains: 
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
+    // {UNSEARCHABLE
+    //     name: "Earring Excitement ",
+    //     itemData: "11271642",
     //     contains: 
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
+    {
+        name: "Sunny Side: Plushie Parade ",
+        itemData: "11271641",
+        contains: ["10564047","10462263","10444861","10637109","10776282","11236820","10944888","11078178","11270970"]
+    },
+    {
+        name: "Sunny Side: Wondrous Wanderlust ",
+        itemData: "11271640",
+        contains: ["11243417","11087649","11103579","11014449","10991397","11235567","11271241"]
+    },
+    // {UNSEARCHABLE
+    //     name: "Sunny Side: Shoe Shine ",
+    //     itemData: "11271639",
     //     contains: 
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
+    {
+        name: "Sunny Side: Gaming Getaway ",
+        itemData: "11271638",
+        contains: ["10241443","10696809","10375385","10544860","10516248","10253001","10362615","11206191","11198112","11271136"]
+    },
+    // {UNSEARCHABLE
+    //     name: "Sunny Side: Traditional Travels ",
+    //     itemData: "11271637",
     //     contains: 
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
+    // {UNSEARCHABLE
+    //     name: "Sunny Side: Sour Apple Solstice ",
+    //     itemData: "11271636",
     //     contains: 
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
+    // {UNSEARCHABLE
+    //     name: "Sunny Side: Pet Picnic ",
+    //     itemData: "11271635",
     //     contains: 
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
+    {
+        name: "Sunny Side: Boned Break ",
+        itemData: "11271634",
+        contains: ["11240801","11246297","11203140","11230545","11240366","11246023","11137599","11271211"]
+    },
+    // {UNSEARCHABLE
+    //     name: "Sunny Side: Multiberry Memories ",
+    //     itemData: "11271633",
     //     contains: 
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
+    {
+        name: "Sunny Side: Spirit Souvenirs ",
+        itemData: "11271632",
+        contains: ["10888170","11178573","10541134","10745928","10534144","11005083","11074581","11193879","11250624","11271146"]
+    },
+    // {UNSEARCHABLE
+    //     name: "Sunny Side: Sizzling Style ",
+    //     itemData: "11271631",
     //     contains: 
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
+    // {UNSEARCHABLE
+    //     name: "Sunny Side: Dragonfruit Destinations ",
+    //     itemData: "11271630",
     //     contains: 
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
+    {
+        name: "Sunny Side: Paw Paradise ",
+        itemData: "11271629",
+        contains: ["11187777","10693536","10682499","11199876","11186109","10900404","11249470","11189883","11249863","11271122"]
+    },
+    {
+        name: "Sunny Side: City Sights ",
+        itemData: "11271628",
+        contains: ["10528654","10225633","10649295","10822611","11162160","10469311","11236986","11190126","11271113"]
+    },
+    // {UNSEARCHABLE
+    //     name: "Sunny Side: Corset Cruise ",
+    //     itemData: "11271627",
+    //     contains: ["10327805","11030628","11224437","10282179","10837518","11033271","10083549","10710717","11185404","11271396"]
     // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Super Lofi Bundle ",
+        itemData: "11272990",
+        contains: ["11242241","11241312","11189112","11156523","11078763","11246752","11246771","11214369","11192586","11246101","11192550","11272711","11272930","11272948"]
+    },
+    {
+        name: "Hoorays of Sunshine: Glow ",
+        itemData: "11271871",
+        contains: ["10313055","11231445","10507410","11169552","10939428","11178828","11271551"]
+    },
+    {
+        name: "Hoorays of Sunshine: Shimmer ",
+        itemData: "11271870",
+        contains: ["10308301","10724328","11196282","11172408","11178981","10956399","11271425"]
+    },
+    {
+        name: "Hoorays of Sunshine: Dazzle ",
+        itemData: "11271869",
+        contains: ["10294859","11172441","10724352","11210943","11239803","10959588","11271049"]
+    },
+    {
+        name: "Hoorays of Sunshine: Sparkle ",
+        itemData: "11271868",
+        contains: ["10771479","11192772","10406631","11243285","10957752","10370105","11271005"]
+    },
+    {
+        name: "Hoorays of Sunshine: Gleam ",
+        itemData: "11271867",
+        contains: ["10306759","10862724","11169735","11176329","11244391","10965543","11271319"]
+    },
     // {
     //     name: "",
     //     itemData: "",
