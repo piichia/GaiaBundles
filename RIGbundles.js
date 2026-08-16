@@ -7776,29 +7776,29 @@ let RIGbundles = [
     //     single: "11262532"
     // },
     // {
-    //     name: "",
-    //     bundleID: "",
+    //     name: "Wild Card Catharsis Bundle ",
+    //     bundleID: "11275799",
     //     itemIDs: [""],
     //     tenPack: "",
     //     single: ""
     // },
     // {
-    //     name: "",
-    //     bundleID: "",
+    //     name: "Wild Card Jellybean Bundle ",
+    //     bundleID: "11275798",
     //     itemIDs: [""],
     //     tenPack: "",
     //     single: ""
     // },
     // {
-    //     name: "",
-    //     bundleID: "",
+    //     name: "All Fluff Kokeshi Bundle ",
+    //     bundleID: "11273656",
     //     itemIDs: [""],
     //     tenPack: "",
     //     single: ""
     // },
     // {
-    //     name: "",
-    //     bundleID: "",
+    //     name: "All Fluff Catharsis Bundle ",
+    //     bundleID: "11273655",
     //     itemIDs: [""],
     //     tenPack: "",
     //     single: ""
