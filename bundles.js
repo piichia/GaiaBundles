@@ -27200,11 +27200,11 @@ let bundleList = [
         itemData: "10348343",
         contains: ["10748139","10480052","10630131","10372781","10425081","10469687","10643352","10677672","10459461"]
     },
-    // {
-    //     name: "",
-    //     itemData: "",
-    //     contains: 
-    // },
+    {
+        name: "Dice Bunny Collection Bundle ",
+        itemData: "10024193",
+        contains: ["86197","86025","10014913"]
+    },
     // {
     //     name: "",
     //     itemData: "",
